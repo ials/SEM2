@@ -1,5 +1,5 @@
 ---
-title: "2027449 - PERCEPCION REMOTA AVANZADA"
+title: "2020771 - SEMINARIO II"
 subtitle: "Academic Year: 2024"
 format: html
 ---
@@ -18,7 +18,7 @@ format: html
 
 (24/10/2024)
 
-Las clases se inician el 30 de octubre de 2024. 
+Las clases se inician el 31 de octubre de 2024. 
 
 :::
 
@@ -49,4 +49,4 @@ Office Hours:
 
 # 📍 Dates - Location
 
-Wednesdays 2pm-6pm at SALON 103
+Thursdays 2pm-6pm at SALON 103

@@ -1,6 +1,6 @@
 project:
   type: "website"
-  title: "PERCEPCION REMOTA AVANZADA"
+  title: "SEMINARIO DE INVESTIGACION II"
   output-dir: _output
   render:
     - "index.qmd"
@@ -9,14 +9,14 @@ project:
     #- "2023/weeks/week02/*.qmd"
 
 website:
-  title: "PERCEPCION REMOTA AVANZADA"
+  title: "SEMINARIO II"
   page-navigation: true
   reader-mode: true
   open-graph: true
   twitter-card: 
     creator: "@<twitter-handle>"
     site: "\\@<twitter-handle>"
-  favicon: "figures/icons/ARS-1.png"
+  favicon: "figures/icons/SEM.png"
   search:
     location: navbar
     type: textbox
