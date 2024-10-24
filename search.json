@@ -93,9 +93,9 @@
   {
     "objectID": "2024/syllabus.html",
     "href": "2024/syllabus.html",
-    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
+    "title": "2020771 - SEMINARIO II",
     "section": "",
-    "text": "Aprobación del curso Percepción Remota\nAprobación del curso Programación SIG",
+    "text": "Aprobación del curso Proyecto de Tesis\nAvances significativos en el desarrollo de la tesis",
     "crumbs": [
       "📓 Syllabus"
     ]
@@ -103,9 +103,9 @@
   {
     "objectID": "2024/syllabus.html#prerequisitos",
     "href": "2024/syllabus.html#prerequisitos",
-    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
+    "title": "2020771 - SEMINARIO II",
     "section": "",
-    "text": "Aprobación del curso Percepción Remota\nAprobación del curso Programación SIG",
+    "text": "Aprobación del curso Proyecto de Tesis\nAvances significativos en el desarrollo de la tesis",
     "crumbs": [
       "📓 Syllabus"
     ]
@@ -113,9 +113,9 @@
   {
     "objectID": "2024/syllabus.html#descripción-de-la-asignatura",
     "href": "2024/syllabus.html#descripción-de-la-asignatura",
-    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
+    "title": "2020771 - SEMINARIO II",
     "section": "DESCRIPCIÓN DE LA ASIGNATURA:",
-    "text": "DESCRIPCIÓN DE LA ASIGNATURA:\n\n\n\n\n\n\nOBJETIVOS:\n\n\n\n\n\n\nProfundizar en tópicos avanzados de percepción remota de la superficie terrestre\nConocer los principios físicos de la percepción remota de radar de apertura sintética (SAR)\nEntender las características principales de las imágenes SAR y los métodos de corrección aplicables\nAplicar métodos y técnicas de deep learning para obtener información temática a partir de imágenes ópticas y SAR\n\n\nCOMPETENCIAS GENÉRICAS:\n\nComprensión de los fundamentos teóricos de la percepción remota de la superficie terrestre\nObtención de habilidades computacionales para seleccionar, procesar y analizar imágenes\nDesarrollo de pensamiento crítico sobre las ventajas y las limitaciones de diferentes técnicas\n\n\n\nCOMPETENCIAS ESPECÍFICAS:\n\nEntendimiento del flujo de trabajo genérico de percepción remota\nAdaptación y creación de scripts para procesamiento y análisis de imágenes\nEntendimiento de los conceptos fundamentales de deep learning aplicado a percepción remota\n\n\n\nMETODOLOGIA:\n\nLectura antes de la clase a cargo del estudiante\nPresentación de conceptos, métodos y técnicas a cargo del profesor\nRealización de ejercicios prácticos y elaboración de reportes técnicos a cargo del estudiante\n\n\n\nSOFTWARE\n\nPython & Jupyter notebooks & Google Colaboratory",
+    "text": "DESCRIPCIÓN DE LA ASIGNATURA:\n\n\n\n\n\n\nOBJETIVOS:\n\n\n\n\n\n\nEntender los fundamentos de los diversos procesos requeridos en investigación experimental\nAprender a realizar una revisión crítica de literatura relevante para la tesis de maestría\nAprender a diseñar y escribir un artículo de investigación\n\n\nCOMPETENCIAS GENÉRICAS:\n\nCapacidad para usar herramientas tecnológicas avanzadas\nCapacidad de organización y planificación del tiempo\nCapacidad de comunicación escrita y oral\n\n\n\nCOMPETENCIAS ESPECÍFICAS:\n\nCapacidad de abstracción, análisis y síntesis\nCapacidad de integrar y aplicar técnicas geoespaciales\nCapacidad de lectura en inglés\nCapacidad para organizar y planificar el tiempo\nCapacidad para desarrollar pensamiento crítico, razonamiento espacial y calidad argumentativa\n\n\n\nMETODOLOGIA:\n\nLectura antes de la clase a cargo del estudiante\nPresentación de conceptos, métodos y técnicas a cargo del profesor\nRealización de ejercicios prácticos y elaboración de reportes técnicos a cargo del estudiante",
     "crumbs": [
       "📓 Syllabus"
     ]
@@ -123,9 +123,9 @@
   {
     "objectID": "2024/syllabus.html#contenido-detallado",
     "href": "2024/syllabus.html#contenido-detallado",
-    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
+    "title": "2020771 - SEMINARIO II",
     "section": "CONTENIDO DETALLADO",
-    "text": "CONTENIDO DETALLADO\n\n\n\n\n\n\nUnidad 0 – Repaso de percepción remota en el espectro óptico\n\n\n\n\n\n\nUnidad 1 - Imágenes térmicas e imágenes hiper-espectrales\n\n\nUnidad 2 - Conceptos básicos de radar de apertura sintética\n\n\nUnidad 3 – Visualización e interpretación de imágenes SAR\n\n\nUnidad 4 – Pre-procesamiento básico de imágenes SAR\n\n\nUnidad 5 – Uso de imágenes SAR en aplicaciones ambientales\n\n\nUnidad 6 – Principios de aprendizaje profundo\n\n\nUnidad 7 – Segmentación semántica\n\n\nUnidad 8 - Modelos fundamentales para datos de observación terrestre",
+    "text": "CONTENIDO DETALLADO\n\n\n\n\n\n\nUnidad 0 – Repaso de metodología de investigación\n\n\n\n\n\n\nUnidad 1 - Fundamentos de investigación experimental\n\n\nUnidad 2 - Lineamientos para realizar investigación reproducible\n\n\nUnidad 3 – Revisión de literatura científica\n\n\nUnidad 4 – Cómo escribir la introducción\n\n\nUnidad 5 – Cómo sintetizar el estado del arte\n\n\nUnidad 6 – Cómo describir la metodología\n\n\nUnidad 7 - Cómo reportar los resultados\n\n\nUnidad 8 - Cómo interpretar los resultados",
     "crumbs": [
       "📓 Syllabus"
     ]
@@ -133,9 +133,9 @@
   {
     "objectID": "2024/syllabus.html#evaluación-del-curso",
     "href": "2024/syllabus.html#evaluación-del-curso",
-    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
+    "title": "2020771 - SEMINARIO II",
     "section": "EVALUACIÓN DEL CURSO:",
-    "text": "EVALUACIÓN DEL CURSO:\n\n\n\n\n\n\nImportant\n\n\n\n\n\n\nPresentación de dos exámenes escritos sobre aspectos teóricos (50%)\n\nExamen 1 - 19 de Diciembre\nExamen 2 - 20 de Enero\n\nEntrega de dos informes técnicos (50%)\n\nInforme 1 - 16 de Enero\nInforme 2 - 27 de Febrero",
+    "text": "EVALUACIÓN DEL CURSO:\n\n\n\n\n\n\nImportant\n\n\n\n\n\n\nVersión 0.2 del artículo (50%)\nVersión 0.5 del artículo (50%)",
     "crumbs": [
       "📓 Syllabus"
     ]
@@ -143,9 +143,9 @@
   {
     "objectID": "2024/syllabus.html#bibliografia",
     "href": "2024/syllabus.html#bibliografia",
-    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
+    "title": "2020771 - SEMINARIO II",
     "section": "BIBLIOGRAFIA",
-    "text": "BIBLIOGRAFIA\n\n\n\n\n\n\nImportant\n\n\n\n\n\nChollet, F. Deep Learning with Python [2nd ed.], Manning, 2021. 504 pp.\nDe Grandi, G.D. et al. Spatial Analysis for Radar Remote Sensing of Tropical Forests, CRC Press, 2021. 380pp.\nFlores-Anderson, A.I. et al. The Synthetic Aperture Radar (SAR) Handbook: Comprehensive Methodologies for Forest Monitoring and Biomass Estimation, SERVIR GLOBAL & SilvaCarbon, 2019. 307 pp.\nFrery, A.C. et al. SAR Image Analysis - A Computational Statistics Approach: With R Code, Data, and Applications, Wiley-IEEE Press, 2022. 208 pp.\nKamusoko, C., Optical and SAR Remote Sensing of Urban Areas: A Practical Guide, Springer, 2021. 130 pp.\nMandal, D. et al. Radar Remote Sensing for Crop Biophysical Parameter Estimation, Springer, 2021. 236 pp.\nRaff, E. Inside Deep Learning – Math, Algorithms, Models, Manning, 2022. 565 pp.\nRees, W.G. Physical Principles of Remote Sensing [3rd ed.], Cambridge University Press, 2012. 494 pp.\nRichards, J.A. Remote Sensing Digital Image Analysis Sensing [6th ed.], Springer, 2022. 567 pp.\nSimms, E.L. SAR Image Interpretation for Various Land Covers – A Practical Guide. CRC Press, 2011. 376 pp. \nUstin, S.L., and Middleton E.M. Current and near-term advances in Earth observation for ecological applications. Ecological Processes, 2021, 10:1 Woodhouse, I.H. Introduction to Microwave Remote Sensing, Taylor & Francis, 2022. 370 pp. \nYamaguchi, Y. Polarimetric SAR imaging: theory and applications. CRC Press, 2020. 350 pp.",
+    "text": "BIBLIOGRAFIA\n\n\n\n\n\n\nImportant\n\n\n\n\n\nAlston J.M. & Rick J.A. 2021. A Beginner’s Guide to Conducting Reproducible Research, Bulletin of the Ecological Society of America (102) 2, 1-14 https://doi.org/10.1002/bes2.1801\nFerreira A. 2021. How to Write a Machine Learning Paper for (not so) Dummies. 8 pp. UNISI-DIISM, https://www.ic.unicamp.br/~ra023169/publications/misc1.pdf\nFrees E.F. 2010. Regression Modeling with Actuarial and Financial Applications. 585 pp. Cambridge University Press The Edinburgh Building, Cambridge CB2 8RU, UK\nHansman R.J. & Ring U. 2019. Workflow: From photo-based 3-D reconstruction of remotely piloted aircraft images to a 3-D geological model, Geosphere (15) 4, pp. 1393-1408, https://doi.org/10.1130/GES02031.1\nHawkes C.H., Giovannoni G., Lechner-Scott J., Levy M. & Yeh E.A. 2021. How not to get your article published, Multiple Sclerosis and Related Disorders (54), 103226, ISSN 2211-0348, https://doi.org/10.1016/j.msard.2021.103226.\nHuemann M & , Pesämaa O. 2022. The first impression counts: The essentials of writing a convincing introduction, International Journal of Project Management (40) 7, pp. 827-830, ISSN 0263-7863, https://doi.org/10.1016/j.ijproman.2022.09.002.\nJanke K.K., Wilby K.J. & Zavod R. 2020. Academic writing as a journey through “chutes and ladders”: How well are you managing your emotions?, Currents in Pharmacy Teaching and Learning, pp. 103-111, ISSN 1877-1297, https://doi.org/10.1016/j.cptl.2019.11.001.\nKogure K, Takasaki Y (2019) GIS for empirical research design: An illustration with georeferenced point data. PLoS ONE 14(3)\nSholl D.S. 2019. Five Easy Ways To Make Your Research More Reproducible. Langmuir (35) 41, pp. 13257-13258, https://pubs.acs.org/doi/pdf/10.1021/acs.langmuir.9b02963\nSimon E., Osei-Ampofo M., Wachira B.W. & Kwan J. 2020. Getting accepted – Successful writing for scientific publication: a Research Primer for low- and middle-income countries, African Journal of Emergency Medicine (10) 2, pp. S154-S157, ISSN 2211-419X, https://doi.org/10.1016/j.afjem.2020.06.006.\nTorres-Valladares D., Ballinas-García E., Villarreal-Reyes J., Morales-Álvarez V., Ortiz-del-Ánge C. 2022. Research papers 101: The do’s and don’ts of scientific writing, Materials Today: Proceedings (48) 1, pp. 107-114, ISSN 2214-7853, https://doi.org/10.1016/j.matpr.2020.12.708.\nWardhana D.E.C, Yanti N., Susetyo S. & Suhartono S. 2019. Student’s Problem in Writing Results and Discussion Section of Research Articles for International Journals, 1st International Conference on Educational Sciences and Teacher Profession (ICETeP 2018) https://doi.org/10.2991/icetep-18.2019.41\nZelner J., Broen K., August E. 2022. A guide to backward paper writing for the data sciences, Patterns (3) 3, 100423, ISSN 2666-3899, https://doi.org/10.1016/j.patter.2021.100423.",
     "crumbs": [
       "📓 Syllabus"
     ]
@@ -153,16 +153,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
+    "title": "2020771 - SEMINARIO 2",
     "section": "",
-    "text": "📑 Course Brief\nFocus: the focus of this course is to gain knowledge for developing novel remote sensing analysis workflows.\nHow: reading, learning by doing and writing\n\n\n🎯 Learning Objectives\n\nAppraise the process of image analysis and its relation to research.\nUnderstand the physical principles of optical and radar-based remote sensing.\nDistinguish the main steps for SAR images correction.\nApply advanced computational techniques to obtain thematic information from Earth Observation data.\n\n\nSelect Academic Year/Term:\n 2024"
+    "text": "📑 Course Brief\nFocus: the focus of this course is to gain knowledge on research methods and scientific writing. This academic activity aims to strengthen students’ abilities to document & communicate their geospatial research results.\nHow: reading, learning by doing and writing\n\n\n🎯 Learning Objectives\n\nAppraise the research processes used to build up science\nUnderstand the principles of experimental research\nGet to know how to conduct a literature review\nLearn to write a scientific report\n\n\nSelect Academic Year/Term:\n 2024"
   },
   {
     "objectID": "2024/index.html",
     "href": "2024/index.html",
-    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
+    "title": "2020771 - SEMINARIO II",
     "section": "",
-    "text": "📢 Syllabus\n\n\n\n\n\n(24/10/2024)\n\n🗓️ Know the syllabus here!\n\n\n\n\n\n\n\n\n\n\n📢 Important\n\n\n\n\n\n(24/10/2024)\nLas clases se inician el 30 de octubre de 2024.\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse ConvenorTeaching Staff\n\n\n\nIVAN LIZARAZO  ASSOCIATE PROFESSOR  UNAL 📧 ializarazos@unal.edu.co ( at )\nOffice Hours:\n\nWhen: Fridays 7:30 am - 9:30 am\nWhere: Oficina 333\nHow to book: via e-mail\n\n\n\nIALS\n\n\n\n\n\n📍 Dates - Location\nWednesdays 2pm-6pm at SALON 103",
+    "text": "📢 Syllabus\n\n\n\n\n\n(24/10/2024)\n\n🗓️ Know the syllabus here!\n\n\n\n\n\n\n\n\n\n\n📢 Important\n\n\n\n\n\n(24/10/2024)\nLas clases se inician el 31 de octubre de 2024.\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse ConvenorTeaching Staff\n\n\n\nIVAN LIZARAZO  ASSOCIATE PROFESSOR  UNAL 📧 ializarazos@unal.edu.co ( at )\nOffice Hours:\n\nWhen: Fridays 7:30 am - 9:30 am\nWhere: Oficina 333\nHow to book: via e-mail\n\n\n\nIALS\n\n\n\n\n\n📍 Dates - Location\nThursdays 2pm-6pm at SALON 103",
     "crumbs": [
       "🏠 Home"
     ]
