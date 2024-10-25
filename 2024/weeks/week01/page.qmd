@@ -1,5 +1,5 @@
 ---
-title: "🗓️ Unit 1 - Refresher on optical remote sensing"
+title: "🗓️ Unit 1 - Refresher on research concepts"
 ---
 
 In this first unit, we will review basic research concepts:

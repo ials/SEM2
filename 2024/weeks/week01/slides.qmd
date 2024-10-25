@@ -24,7 +24,7 @@ format:
 ---
 
 
-# Who are we
+# Who we are
 
 ## Your lecturer {.smaller}
 
@@ -94,7 +94,7 @@ https://typeset.io/questions/what-is-a-researcher-3hwiofeb8w
 ## What is a researcher? (2)
 
 <p align="center">
-<img src="figs/researcher.png" width=50% height=50%>
+<img src="figs/researcher.png" width=80% height=80%>
 </p>
 
 ## Research methodology
@@ -122,13 +122,13 @@ https://paperpal.com/blog/academic-writing-guides
 ## Research process
 
 <p align="center">
-<img src="figs/research_process.png" width=50% height=50%>
+<img src="figs/research_process.png" width=80% height=80%>
 </p>
 
 ## Research cycle
 
 <p align="center">
-<img src="figs/research_cycle.png" width=50% height=50%>
+<img src="figs/research_cycle.png" width=80% height=80%>
 </p>
 
 # Flipped classroom
@@ -139,7 +139,7 @@ A flipped classroom is structured around the idea that lecture or direct instruc
 
 # To do before next class 
 
-## Read [Planning and writing a research proposal (Thomas, 2025)][/biblio/Planning_a_research_project.pdf]
+Read [Planning and writing a research proposal (Thomas, 2025)](/biblio/Planning_a_research_project.pdf
 
 
 
