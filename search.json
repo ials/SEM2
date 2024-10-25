@@ -14,60 +14,81 @@
     "text": "Students\nPlease introduce yourselves\n:::"
   },
   {
-    "objectID": "2024/weeks/week01/slides.html#statement-1",
-    "href": "2024/weeks/week01/slides.html#statement-1",
+    "objectID": "2024/weeks/week01/slides.html#knowledge",
+    "href": "2024/weeks/week01/slides.html#knowledge",
     "title": "🗓️ Week 01 Introduction",
-    "section": "Statement 1",
-    "text": "Statement 1\nSatellites measure the reflectance of features on the ground"
+    "section": "Knowledge",
+    "text": "Knowledge\nKnowledge refers to a theoretical and/or practical understanding of a subject. It can be implicit or explicit; it can be more or less formal or systematic. In philosophy, the study of knowledge is called epistemology. Knowledge acquisition involves complex cognitive processes: perception, communication, and reasoning.\nhttps://www.librarianshipstudies.com/2017/11/knowledge.html"
   },
   {
-    "objectID": "2024/weeks/week01/slides.html#statement-2",
-    "href": "2024/weeks/week01/slides.html#statement-2",
+    "objectID": "2024/weeks/week01/slides.html#science-and-technology",
+    "href": "2024/weeks/week01/slides.html#science-and-technology",
     "title": "🗓️ Week 01 Introduction",
-    "section": "Statement 2",
-    "text": "Statement 2\nLand cover classification is a simple process of grouping pixels based on spectral properties"
+    "section": "Science and technology",
+    "text": "Science and technology\nScience uses empirical investigation to pursue many of the deepest questions pondered by scholars throughout history. Engineering uses empirical knowledge to design and develop technology: products, processes, machines, and structures to solve the major challenges that face society. Together, science and technology are essential in the positive advancement and evolution of the human condition.\nhttps://corecurriculum.nd.edu/our-core-curriculum/ways-of-knowing/science-and-technology/"
   },
   {
-    "objectID": "2024/weeks/week01/slides.html#statement-3",
-    "href": "2024/weeks/week01/slides.html#statement-3",
+    "objectID": "2024/weeks/week01/slides.html#research",
+    "href": "2024/weeks/week01/slides.html#research",
     "title": "🗓️ Week 01 Introduction",
-    "section": "Statement 3",
-    "text": "Statement 3\nSpectral resolution is the number of bands available from a particular sensor"
+    "section": "Research",
+    "text": "Research\nResearch is a process of systematic inquiry that entails collection of data; documentation of critical information; and analysis and interpretation of that data/information, in accordance with suitable methodologies set by specific professional fields and academic disciplines.\nhttps://www.hampshire.edu/what-research"
   },
   {
-    "objectID": "2024/weeks/week01/slides.html#statement-4",
-    "href": "2024/weeks/week01/slides.html#statement-4",
+    "objectID": "2024/weeks/week01/slides.html#what-is-a-researcher-1",
+    "href": "2024/weeks/week01/slides.html#what-is-a-researcher-1",
     "title": "🗓️ Week 01 Introduction",
-    "section": "Statement 4",
-    "text": "Statement 4\nMeasuring the differences between two land cover maps created from imagery acquired at different times will provide the most reliable estimate of land cover change."
+    "section": "What is a researcher? (1)",
+    "text": "What is a researcher? (1)\nA researcher is someone who conducts systematic investigations and studies of materials and sources to establish facts, reach new conclusions, and develop theories.\nhttps://typeset.io/questions/what-is-a-researcher-3hwiofeb8w"
   },
   {
-    "objectID": "2024/weeks/week01/slides.html#statement-5",
-    "href": "2024/weeks/week01/slides.html#statement-5",
+    "objectID": "2024/weeks/week01/slides.html#what-is-a-researcher-2",
+    "href": "2024/weeks/week01/slides.html#what-is-a-researcher-2",
     "title": "🗓️ Week 01 Introduction",
-    "section": "Statement 5",
-    "text": "Statement 5\nLandsat TM imagery is suitable to consistently classify natural vegetation genus and species information with a high level of accuracy"
+    "section": "What is a researcher? (2)",
+    "text": "What is a researcher? (2)"
   },
   {
-    "objectID": "2024/weeks/week01/slides.html#statement-6",
-    "href": "2024/weeks/week01/slides.html#statement-6",
+    "objectID": "2024/weeks/week01/slides.html#research-methodology",
+    "href": "2024/weeks/week01/slides.html#research-methodology",
     "title": "🗓️ Week 01 Introduction",
-    "section": "Statement 6",
-    "text": "Statement 6\nSquare pixels in an image accurately represent a square area on the Earth’s surface"
+    "section": "Research methodology",
+    "text": "Research methodology\nIt is a structured and scientific approach used to collect, analyze, and interpret quantitative or qualitative data to answer research questions or test hypotheses. A research methodology is like a plan for carrying out research and keeping on track by limiting the scope of the research."
   },
   {
-    "objectID": "2024/weeks/week01/slides.html#atmospheric-correction",
-    "href": "2024/weeks/week01/slides.html#atmospheric-correction",
+    "objectID": "2024/weeks/week01/slides.html#quantitative-research-methodology",
+    "href": "2024/weeks/week01/slides.html#quantitative-research-methodology",
     "title": "🗓️ Week 01 Introduction",
-    "section": "Atmospheric correction",
-    "text": "Atmospheric correction"
+    "section": "Quantitative research methodology",
+    "text": "Quantitative research methodology\nIt focuses on measuring and testing numerical data. This approach is good for reaching a large number of people in a short amount of time. This type of research helps in testing the causal relationships between variables, making predictions, and generalizing results to wider populations.\nhttps://paperpal.com/blog/academic-writing-guides"
   },
   {
-    "objectID": "2024/weeks/week01/slides.html#basic-python-quiz",
-    "href": "2024/weeks/week01/slides.html#basic-python-quiz",
+    "objectID": "2024/weeks/week01/slides.html#qualitative-research-methodology",
+    "href": "2024/weeks/week01/slides.html#qualitative-research-methodology",
     "title": "🗓️ Week 01 Introduction",
-    "section": "Basic python quiz",
-    "text": "Basic python quiz\nSolve this simple quiz"
+    "section": "Qualitative research methodology",
+    "text": "Qualitative research methodology\nIt examines the opinions, behaviors, and experiences of people. It collects and analyzes words and textual data. This research methodology requires fewer participants but is still more time consuming because the time spent per participant is quite large. This method is used in exploratory research where the research problem being investigated is not clearly defined.\nhttps://paperpal.com/blog/academic-writing-guides"
+  },
+  {
+    "objectID": "2024/weeks/week01/slides.html#mixed-method-research-methodology",
+    "href": "2024/weeks/week01/slides.html#mixed-method-research-methodology",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Mixed-method research methodology",
+    "text": "Mixed-method research methodology\nIt uses the characteristics of both quantitative and qualitative research methodologies in the same study. This method allows researchers to validate their findings, verify if the results observed using both methods are complementary, and explain any unexpected results obtained from one method by using the other method.\nhttps://paperpal.com/blog/academic-writing-guides"
+  },
+  {
+    "objectID": "2024/weeks/week01/slides.html#research-process",
+    "href": "2024/weeks/week01/slides.html#research-process",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Research process",
+    "text": "Research process"
+  },
+  {
+    "objectID": "2024/weeks/week01/slides.html#research-cycle",
+    "href": "2024/weeks/week01/slides.html#research-cycle",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Research cycle",
+    "text": "Research cycle"
   },
   {
     "objectID": "2024/weeks/week01/slides.html#reading-doing-and-writing",
@@ -77,18 +98,11 @@
     "text": "Reading, doing and writing\nA flipped classroom is structured around the idea that lecture or direct instruction is not the best use of class time. Instead students encounter information before class, freeing class time for activities that involve higher order thinking"
   },
   {
-    "objectID": "2024/weeks/week01/slides.html#do-this-sentinel-hub-tutorial-and-report-your-results",
-    "href": "2024/weeks/week01/slides.html#do-this-sentinel-hub-tutorial-and-report-your-results",
+    "objectID": "2024/weeks/week01/slides.html#read-planning-and-writing-a-research-proposal-thomas-2025biblioplanning_a_research_project.pdf",
+    "href": "2024/weeks/week01/slides.html#read-planning-and-writing-a-research-proposal-thomas-2025biblioplanning_a_research_project.pdf",
     "title": "🗓️ Week 01 Introduction",
-    "section": "Do this Sentinel hub tutorial and report your results",
-    "text": "Do this Sentinel hub tutorial and report your results"
-  },
-  {
-    "objectID": "2024/weeks/week01/slides.html#read-atmospheric-correction-for-the-monitoring-of-land-surfaces-vermote-kotchenova",
-    "href": "2024/weeks/week01/slides.html#read-atmospheric-correction-for-the-monitoring-of-land-surfaces-vermote-kotchenova",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Read Atmospheric correction for the monitoring of land surfaces (Vermote & Kotchenova)",
-    "text": "Read Atmospheric correction for the monitoring of land surfaces (Vermote & Kotchenova)\n\n\n\n\n2027449 – PERCEPCION REMOTA AVANZADA"
+    "section": "Read [Planning and writing a research proposal (Thomas, 2025)][/biblio/Planning_a_research_project.pdf]",
+    "text": "Read [Planning and writing a research proposal (Thomas, 2025)][/biblio/Planning_a_research_project.pdf]\n\n\n\n\n2020771 – SEMINARIO II"
   },
   {
     "objectID": "2024/syllabus.html",
@@ -135,7 +149,7 @@
     "href": "2024/syllabus.html#evaluación-del-curso",
     "title": "2020771 - SEMINARIO II",
     "section": "EVALUACIÓN DEL CURSO:",
-    "text": "EVALUACIÓN DEL CURSO:\n\n\n\n\n\n\nImportant\n\n\n\n\n\n\nVersión 0.2 del artículo (50%)\nVersión 0.5 del artículo (50%)",
+    "text": "EVALUACIÓN DEL CURSO:\n\n\n\n\n\n\nImportant\n\n\n\n\n\n\nRevisión primer borrador del artículo (19 de diciembre)\nRevisión segundo borrador del artículo (23 de enero)\nEntrega del artículo (15 de Febrero)\nSustentación del artículo (27 de Febrero)",
     "crumbs": [
       "📓 Syllabus"
     ]
@@ -162,7 +176,7 @@
     "href": "2024/index.html",
     "title": "2020771 - SEMINARIO II",
     "section": "",
-    "text": "📢 Syllabus\n\n\n\n\n\n(24/10/2024)\n\n🗓️ Know the syllabus here!\n\n\n\n\n\n\n\n\n\n\n📢 Important\n\n\n\n\n\n(24/10/2024)\nLas clases se inician el 31 de octubre de 2024.\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse ConvenorTeaching Staff\n\n\n\nIVAN LIZARAZO  ASSOCIATE PROFESSOR  UNAL 📧 ializarazos@unal.edu.co ( at )\nOffice Hours:\n\nWhen: Fridays 7:30 am - 9:30 am\nWhere: Oficina 333\nHow to book: via e-mail\n\n\n\nIALS\n\n\n\n\n\n📍 Dates - Location\nThursdays 2pm-6pm at SALON 103",
+    "text": "📢 Syllabus\n\n\n\n\n\n(24/10/2024)\n\n🗓️ Know the syllabus here!\n\n\n\n\n\n\n\n\n\n\n📢 Important\n\n\n\n\n\n(24/10/2024)\nLas clases se inician el 31 de octubre de 2024.\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse ConvenorTeaching Staff\n\n\n\nIVAN LIZARAZO  ASSOCIATE PROFESSOR  UNAL 📧 ializarazos@unal.edu.co ( at )\nOffice Hours:\n\nWhen: Tuesdays 7:00 am - 9:00 am\nWhere: Sala de Profesores\nHow to book: via e-mail\n\n\n\nIALS\n\n\n\n\n\n📍 Dates - Location\nThursdays 2pm-6pm at SALON 103",
     "crumbs": [
       "🏠 Home"
     ]
@@ -172,7 +186,7 @@
     "href": "2024/weeks/week01/page.html",
     "title": "🗓️ Unit 1 - Refresher on optical remote sensing",
     "section": "",
-    "text": "In this first unit, we will review basic remote sensing concepts:",
+    "text": "In this first unit, we will review basic research concepts:",
     "crumbs": [
       "🗓️ Weeks",
       "Week 01"
@@ -194,7 +208,7 @@
     "href": "2024/weeks/week01/page.html#coursework",
     "title": "🗓️ Unit 1 - Refresher on optical remote sensing",
     "section": "✍️ Coursework",
-    "text": "✍️ Coursework\n🚧 Create your eomaps conda environment 🚧\n🚧 Use Jupyter to visualize hyperspectral signatures of water 🚧",
+    "text": "✍️ Coursework\n🚧 Write one-page summarizing what is your research project 🚧\n🚧 Write one-page summarizing your progress on your research project 🚧",
     "crumbs": [
       "🗓️ Weeks",
       "Week 01"
@@ -205,7 +219,7 @@
     "href": "2024/weeks/week01/page.html#recommended-reading",
     "title": "🗓️ Unit 1 - Refresher on optical remote sensing",
     "section": "📚 Recommended Reading",
-    "text": "📚 Recommended Reading\n\nCheck the end of slides for the list of references cited in the lecture.",
+    "text": "📚 Recommended Reading\n🚧 Read the document mentioned at the end of the slides 🚧",
     "crumbs": [
       "🗓️ Weeks",
       "Week 01"
