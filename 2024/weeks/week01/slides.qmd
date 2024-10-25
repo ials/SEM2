@@ -139,7 +139,7 @@ A flipped classroom is structured around the idea that lecture or direct instruc
 
 # To do before next class 
 
-Read [Planning and writing a research proposal (Thomas, 2025)](/biblio/Planning_a_research_project.pdf)
+Read [Planning and writing a research proposal (Thomas, 2025)](https://github.com/ials/SEM2/blob/main/2024/biblio/Planning_a_research_project.pdf)
 
 
 
