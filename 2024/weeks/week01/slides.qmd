@@ -1,10 +1,10 @@
 ---
-subtitle: " 2027449-- PERCEPCION REMOTA AVANZADA"
+subtitle: " SEMINARIO II"
 title: "<font style='font-size:1em;'>🗓️ Week 01<br/> Introduction</font>"
 author: Ivan Lizarazo
 institute: '[Universidad Nacional de Colombia](#)'
-date: 30 Oct 2024
-date-meta: 30 Oct 2024
+date: 31 Oct 2024
+date-meta: 31 Oct 2024
 date-format: "DD MMM YYYY"
 toc: true
 toc-depth: 1
@@ -20,7 +20,7 @@ format:
     preview-links: auto
     logo: /figures/icons/ARS-1.png
     css: /css/styles_slides.css
-    footer: '2027449 -- PERCEPCION REMOTA AVANZADA'
+    footer: '2020771 -- SEMINARIO II'
 ---
 
 
@@ -63,51 +63,73 @@ format:
 
 :::
 
-# NASA satellites
 
-Earth Observing Fleet (January 2023)
+# A refresher on science & research 
 
-<!-- blank line -->
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
-    <source src="https://svs.gsfc.nasa.gov/vis/a000000/a005000/a005061/fleet_2023_jan_1080p60.mp4" type="video/mp4">
-  </video>
-</figure>
-<!-- blank line -->
 
-# What we know about remote sensing 
+## Knowledge
 
-Open your notebook and write down if you agree or not with each of the next statements
+Knowledge refers to a theoretical and/or practical understanding of a subject. It can be implicit  or explicit; it can be more or less formal or systematic. In philosophy, the study of knowledge is called epistemology.  Knowledge acquisition involves complex cognitive processes: perception, communication, and reasoning.
 
-## Statement 1
-Satellites measure the reflectance of features on the ground
+https://www.librarianshipstudies.com/2017/11/knowledge.html
 
-## Statement 2
-Land cover classification is a simple process of grouping  pixels based on spectral properties 
+## Science and technology
 
-## Statement 3
-Spectral resolution is the number of bands  available from a particular sensor 
+Science uses empirical investigation to pursue many of the deepest questions pondered by scholars throughout history. Engineering uses empirical knowledge to design and develop technology: products, processes, machines, and structures to solve the major challenges that face society. Together, science and technology are essential in the positive advancement and evolution of the human condition.
 
-## Statement 4
-Measuring the differences between two land cover maps created from imagery acquired at different times will provide the most reliable estimate of land cover change.
+https://corecurriculum.nd.edu/our-core-curriculum/ways-of-knowing/science-and-technology/
 
-## Statement 5
-Landsat TM imagery is suitable to consistently classify natural vegetation genus and species information with a high level of accuracy
+## Research
 
-## Statement 6
-Square pixels in an image accurately represent a square area on the Earth's surface
+Research is a process of systematic inquiry that entails collection of data; documentation of critical information; and analysis and interpretation of that data/information, in accordance with suitable methodologies set by specific professional fields and academic disciplines.
 
-## Atmospheric correction
+https://www.hampshire.edu/what-research
+
+## What is a researcher? (1)
+
+A researcher is someone who conducts systematic investigations and studies of materials and sources to establish facts, reach new conclusions, and develop theories.
+
+https://typeset.io/questions/what-is-a-researcher-3hwiofeb8w
+
+## What is a researcher? (2)
 
 <p align="center">
-<img src="figs/Jensen_TOA.png" width=50% height=50%>
+<img src="figs/researcher.png" width=50% height=50%>
 </p>
 
-# What we know about Python
+## Research methodology
 
-## Basic python quiz 
+It is a structured and scientific approach used to collect, analyze, and interpret quantitative or qualitative data to answer research questions or test hypotheses. A research methodology is like a plan for carrying out research and keeping on track by limiting the scope of the research. 
 
-### [Solve this simple quiz](https://pynative.com/basic-python-quiz-for-beginners/)
+## Quantitative research methodology
+
+It focuses on measuring and testing numerical data. This approach is good for reaching a large number of people in a short amount of time. This type of research helps in testing the causal relationships between variables, making predictions, and generalizing results to wider populations.
+
+https://paperpal.com/blog/academic-writing-guides
+
+## Qualitative research methodology
+
+It examines the opinions, behaviors, and experiences of people. It collects and analyzes words and textual data. This research methodology requires fewer participants but is still more time consuming because the time spent per participant is quite large. This method is used in exploratory research where the research problem being investigated is not clearly defined.
+
+https://paperpal.com/blog/academic-writing-guides
+
+## Mixed-method research methodology 
+
+It uses the characteristics of both quantitative and qualitative research methodologies in the same study. This method allows researchers to validate their findings, verify if the results observed using both methods are complementary, and explain any unexpected results obtained from one method by using the other method.
+
+https://paperpal.com/blog/academic-writing-guides
+
+## Research process
+
+<p align="center">
+<img src="figs/research_process.png" width=50% height=50%>
+</p>
+
+## Research cycle
+
+<p align="center">
+<img src="figs/research_cycle.png" width=50% height=50%>
+</p>
 
 # Flipped classroom
 
@@ -117,10 +139,7 @@ A flipped classroom is structured around the idea that lecture or direct instruc
 
 # To do before next class 
 
-
-## Do [this Sentinel hub tutorial](https://citizenevidence.org/2023/03/21/summit-series-a-beginners-guide-to-sentinel-hub/) and report your results
-
-## Read [Atmospheric correction for the monitoring of land surfaces (Vermote & Kotchenova)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2007JD009662)
+## Read [Planning and writing a research proposal (Thomas, 2025)][/biblio/Planning_a_research_project.pdf]
 
 
 

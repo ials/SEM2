@@ -2,13 +2,15 @@
 title: "🗓️ Unit 1 - Refresher on optical remote sensing"
 ---
 
-In this first unit, we will review basic remote sensing concepts:
+In this first unit, we will review basic research concepts:
 
-- Electromagnetic radiation
-- Spatial resolution
-- Spectral resolution
-- Radiometric corrections
-- Satellite platforms & sensors
+- Knowledge
+- Science & Technology
+- Research
+- Qualities of a researcher
+- The scientific method
+- The research process
+
 
 ## 👨‍🏫 Lecture Slides 
 
@@ -23,13 +25,13 @@ Use your keypad to navigate the slides.
 
 ## ✍️ Coursework
 
-🚧 [Create your *eomaps* conda environment](https://github.com/ials/VITALS/blob/main/books/myfirstbook/eomaps_env1.yml) 🚧
+🚧 Write one-page summarizing what is your research project 🚧
 
-🚧  [Use Jupyter to visualize hyperspectral signatures of water](https://ials.github.io/VITALS/notebooks.html) 🚧
+🚧 Write one-page summarizing your progress on your research project 🚧
 
 ## 📚 Recommended Reading
 
-- Check the end of slides for the list of references cited in the lecture.
+🚧 Read the document mentioned at the end of the slides 🚧
 
 ## 📟 Communication
 

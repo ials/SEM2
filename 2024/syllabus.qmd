@@ -65,8 +65,10 @@ format: html
 
 ::: {.callout-important collapse=false}
 
--	Versión 0.2 del artículo (50%)
-- Versión 0.5 del artículo (50%)
+- Revisión primer borrador del artículo (19 de diciembre)
+-	Revisión segundo borrador del artículo (23 de enero)
+- Entrega del artículo (15 de Febrero) 
+- Sustentación del artículo (27 de Febrero) 
 
 :::
 
