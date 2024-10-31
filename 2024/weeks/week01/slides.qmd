@@ -131,16 +131,56 @@ https://paperpal.com/blog/academic-writing-guides
 <img src="figs/research_cycle.png" width=80% height=80%>
 </p>
 
-# Flipped classroom
+# Writing a research article
 
-## Reading, doing and writing
+## Primacy of the research question
 
-A flipped classroom is structured around the idea that lecture or direct instruction is not the best use of class time. Instead students encounter information before class, freeing class time for activities that involve higher order thinking
+A good research paper addresses a specific research question.
+The research question—or study objective or main research
+hypothesis—is the central organizing principle of the paper.
+*Whatever relates to the research question belongs in the
+paper; the rest doesn’t*.
 
-# To do before next class 
+## Structure of the research paper
 
-Read [Planning and writing a research proposal (Thomas, 2025)](https://github.com/ials/SEM2/blob/main/2024/biblio/Planning_a_research_project.pdf)
+- Introduction
+- Methods
+- Results
+- Discussion
 
+## Introduction
 
+- Problem statement
+- Knowledge gaps
+- Research question
+
+## Data & Methods
+
+- Study context & setting
+- Study design (framework, variables, sampling)
+- Population (or study area)
+- Workflow (data collection, data analysis)
+
+## Results
+
+- Description of workflow outputs 
+- Present key findings
+
+## Discussion
+
+- Answer the research question
+- Discuss findings from a broader perspective
+- Analyze strengths and limitations
+- Offer perspectives 
+
+## To do before next class 
+
+Read [Writing a research article: advice to beginners](https://academic.oup.com/intqhc/article/16/3/191/1814554)
+
+## Questions?
+
+<p align="center">
+<img src="figs/write_your_thesis.png" width=80% height=80%>
+</p>
 
 
