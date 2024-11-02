@@ -1,0 +1,106 @@
+---
+subtitle: " SEMINARIO II"
+title: "<font style='font-size:0.8em;'>🗓️ Week 21<br/> Introduction</font>"
+author: Ivan Lizarazo
+institute: '[Universidad Nacional de Colombia](#)'
+date: 31 Oct 2024
+date-meta: 31 Oct 2024
+date-format: "DD MMM YYYY"
+toc: true
+toc-depth: 1
+toc-title: "What we will cover today:"
+center-title-slide: false
+from: markdown+emoji
+format:
+  revealjs: 
+    fig-responsive: true
+    theme: simple
+    slide-number: true
+    mouse-wheel: false
+    preview-links: auto
+    logo: /figures/icons/ARS-1.png
+    css: /css/styles_slides.css
+    footer: '2020771 -- SEMINARIO II'
+---
+
+# Progress of your research
+
+## Write a single paragraph
+
+# State of your paper or thesis
+
+## Write a single paragraph
+
+# Empirical research foundations
+
+## Phenomenology
+
+Phenomenological philosophy is interested in the general essences or persistent characteristics of things. 
+
+The empirical sciences are sciences of facts, interested in the concrete, singular, contextual and accidental qualities
+of phenomena.
+
+https://www.mdpi.com/2076-0760/12/7/413
+
+## Heuristic process principles
+
+-  The principle of evidence: researchers speak of a thing 'only within the limits in which it then presents itself'.
+
+- The principle of ulteriority:  researchers look for the real that remain shadowed or veiled.
+
+# Good examples of thesis & papers
+
+## Landslides thesis
+
+[Landslide Detection using Random Forest Classifier](https://www.gdmc.nl/publications/2019/MSc_thesis_Meylin_Herrera_Herrera.pdf)
+
+## Landslides paper
+
+[Multi-Regional landslide detection](https://www.tandfonline.com/doi/epdf/10.1080/19475705.2021.1912196?needAccess=true)
+
+# How to write 
+
+## Four stages of writing
+
+- Prewriting  
+- Drafting 
+- Revising  
+- Editing
+
+See [here](https://seedsofliteracy.org/the-4-steps-in-the-writing-process/)
+
+## Iterations
+
+<p align="center">
+<img src="figs/how-to-write.png" width=80% height=80%>
+</p>
+
+## Writing order
+
+<p align="center">
+<img src="figs/writing_order.png" width=80% height=80%>
+</p>
+
+# Work plan
+
+## Research paper or thesis
+
+Define the schedule for writing your document:
+
+- Introduction
+- Methods
+- Results
+- Discussion
+
+
+## Reading 
+
+Read [How to write your first research paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC3178846/pdf/yjbm_84_3_181.pdf)
+
+## Questions?
+
+<p align="center">
+<img src="figs/write_your_thesis.png" width=80% height=80%>
+</p>
+
+

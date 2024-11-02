@@ -1,0 +1,38 @@
+---
+title: "🗓️ Unit2 -Empirical Research Foundations"
+---
+
+In this unit, we will review:
+
+- Progress of your research
+- State of your paper or thesis
+- Work plan
+- Empirical research foundations
+- Good examples of papers & thesis
+
+
+
+## 👨‍🏫 Lecture Slides 
+
+Either click on the slide area below or click [here](slides.qmd) to view it in fullscreen.
+Use your keypad to navigate the slides.
+
+<div class="container" style="position: relative;overflow: hidden;width: 100%;min-height:600px;">
+<iframe src="slides.html" style="position=absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;min-height:600px;"></iframe>
+</div>
+
+🎥 
+
+## ✍️ Coursework
+
+🚧 Complete the outline of your paper or thesis 🚧
+
+🚧 Writing schedule for  *a section* of your paper or *a chapter* of thesis   🚧
+
+## 📚 Recommended Reading
+
+🚧 Read the document mentioned at the end of the slides 🚧
+
+## 📟 Communication
+
+- Keep permanent communication with your Thesis Supervisor 
