@@ -25,11 +25,11 @@ format:
 
 # Progress of your research
 
-## Write a single paragraph
+## Write *a single paragraph* on research progress
 
-# State of your paper or thesis
+# Outline of your thesis or paper
 
-## Write a single paragraph
+## Write *outline* of: (i) conceptual framework; and (ii) methods
 
 # Empirical research foundations
 
@@ -100,7 +100,7 @@ Read [How to write your first research paper](https://pmc.ncbi.nlm.nih.gov/artic
 ## Questions?
 
 <p align="center">
-<img src="figs/write_your_thesis.png" width=80% height=80%>
+<img src="figs/write_your_thesis.png" width=90% height=90%>
 </p>
 
 
