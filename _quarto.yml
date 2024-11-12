@@ -7,6 +7,7 @@ project:
     - "2024/*.qmd"
     - "2024/weeks/week01/*.qmd"
     - "2024/weeks/week02/*.qmd"
+    - "2024/weeks/week03/*.qmd"
 
 website:
   title: "SEMINARIO II"
@@ -27,17 +28,6 @@ website:
         text: "🏠 Home"
       - href: 2024/syllabus.qmd
         text: "📓 Syllabus"
-      # - href: 2023/communication.qmd
-      #   text: "📟 Communication"
-      # - href: 2023/assignments.qmd
-      #   text: "✍️ Assignments"
-      #   contents:
-      #     - href: 2023/assignments/assignment01.qmd
-      #       text: "📝 Assignment 01"
-      #     - href: 2023/assignments/assignment02.qmd
-      #       text: "📝 Assignment 02"
-      #     - href: 2023/assignments/group_project.qmd
-      #       text: "👥 Group Project"
       - section: "🗓️ Weeks"
         contents:
          - href: 2024/weeks/week01/page.qmd
@@ -49,6 +39,11 @@ website:
            text: Week 02
            contents:
              - href: 2024/weeks/week02/page.qmd
+               text: 👨‍🏫 Lecture Material
+         - href: 2024/weeks/week03/page.qmd
+           text: Week 03
+           contents:
+             - href: 2024/weeks/week03/page.qmd
                text: 👨‍🏫 Lecture Material
 
 

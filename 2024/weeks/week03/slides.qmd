@@ -1,0 +1,80 @@
+---
+subtitle: " SEMINARIO II"
+title: "<font style='font-size:0.8em;'>🗓️ Week 2<br/> Introduction</font>"
+author: Ivan Lizarazo
+institute: '[Universidad Nacional de Colombia](#)'
+date: 14 Nov 2024
+date-meta: 14 Nov 2024
+date-format: "DD MMM YYYY"
+toc: true
+toc-depth: 1
+toc-title: "What we will cover today:"
+center-title-slide: false
+from: markdown+emoji
+format:
+  revealjs: 
+    fig-responsive: true
+    theme: simple
+    slide-number: true
+    mouse-wheel: false
+    preview-links: auto
+    logo: /figures/icons/ARS-1.png
+    css: /css/styles_slides.css
+    footer: '2020771 -- SEMINARIO II'
+---
+
+# Outline of your research document
+
+## Read the outline approved by your supervisor
+
+# Work plan for writing your document
+
+## Read the work plan approved by your supervisor
+
+# How to get your article rejected 
+
+## Tips
+
+### Find an "ideal" journal
+
+### Say things that people have already known
+
+### Don't let your reader know your purpose
+
+### Say thing that are not of any use
+
+### Don't explain *why* your did it nor *how*
+
+### Never reply to the reviewers' comments
+
+## Reading
+
+[How to get your papers rejected](https://engineering.wayne.edu/industrial-systems/pdfs/linton2011how_to_get_your_papers_rejectedor_not-_elsevier_technovation.pdf)
+
+# Tips for efficient thesis writing
+
+### Set specific times for writing
+
+### Set both *research* and *document* goals
+
+### Distinguish the different writing stages 
+
+### Avoid procrastination
+
+### Resist perfectionism
+
+### Stay connected and talk about it with others
+
+# References
+
+- [How to get your article rejected ;-)](https://researchblog.iclon.nl/get-article-rejected/)
+
+- [Tips for effective thesis  writing](https://universityaffairs.ca/career-advice/career-advice-article/7-tips-for-efficient-thesis-writing/)
+
+## Questions?
+
+<p align="center">
+<img src="figs/paper_accepted.png" width=90% height=90%>
+</p>
+
+
