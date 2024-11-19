@@ -1,39 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://ials.github.io/SEM2/2024/weeks/week04/slides.html</loc>
+    <lastmod>2024-11-19T16:04:03.526Z</lastmod>
+  </url>
+  <url>
     <loc>https://ials.github.io/SEM2/2024/weeks/week03/slides.html</loc>
-    <lastmod>2024-11-12T21:28:20.278Z</lastmod>
+    <lastmod>2024-11-19T16:04:03.518Z</lastmod>
   </url>
   <url>
     <loc>https://ials.github.io/SEM2/2024/weeks/week02/slides.html</loc>
-    <lastmod>2024-11-12T21:28:20.262Z</lastmod>
+    <lastmod>2024-11-19T16:04:03.502Z</lastmod>
   </url>
   <url>
     <loc>https://ials.github.io/SEM2/2024/weeks/week01/slides.html</loc>
-    <lastmod>2024-11-12T21:28:20.242Z</lastmod>
+    <lastmod>2024-11-19T16:04:03.486Z</lastmod>
   </url>
   <url>
     <loc>https://ials.github.io/SEM2/2024/syllabus.html</loc>
-    <lastmod>2024-11-12T21:28:20.222Z</lastmod>
+    <lastmod>2024-11-19T16:04:03.466Z</lastmod>
   </url>
   <url>
     <loc>https://ials.github.io/SEM2/index.html</loc>
-    <lastmod>2024-11-12T21:28:20.306Z</lastmod>
+    <lastmod>2024-11-19T16:04:03.558Z</lastmod>
   </url>
   <url>
     <loc>https://ials.github.io/SEM2/2024/index.html</loc>
-    <lastmod>2024-11-12T21:28:20.218Z</lastmod>
+    <lastmod>2024-11-19T16:04:03.466Z</lastmod>
   </url>
   <url>
     <loc>https://ials.github.io/SEM2/2024/weeks/week01/page.html</loc>
-    <lastmod>2024-11-12T21:28:20.238Z</lastmod>
+    <lastmod>2024-11-19T16:04:03.482Z</lastmod>
   </url>
   <url>
     <loc>https://ials.github.io/SEM2/2024/weeks/week02/page.html</loc>
-    <lastmod>2024-11-12T21:28:20.262Z</lastmod>
+    <lastmod>2024-11-19T16:04:03.502Z</lastmod>
   </url>
   <url>
     <loc>https://ials.github.io/SEM2/2024/weeks/week03/page.html</loc>
-    <lastmod>2024-11-12T21:28:20.274Z</lastmod>
+    <lastmod>2024-11-19T16:04:03.514Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ials.github.io/SEM2/2024/weeks/week04/page.html</loc>
+    <lastmod>2024-11-19T16:04:03.526Z</lastmod>
   </url>
 </urlset>
