@@ -1,0 +1,34 @@
+---
+title: "🗓️ Unit 3 - How to write your paper & thesis"
+---
+
+In this unit, we will review:
+
+- Outline of your research document
+- Work plan for timely completion of your document 
+- How (not) get your paper rejected
+- Tips for efficient thesis writing 
+
+
+## 👨‍🏫 Lecture Slides 
+
+Either click on the slide area below or click [here](slides.qmd) to view it in fullscreen.
+Use your keypad to navigate the slides.
+
+<div class="container" style="position: relative;overflow: hidden;width: 100%;min-height:600px;">
+<iframe src="slides.html" style="position=absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;min-height:600px;"></iframe>
+</div>
+
+🎥 
+
+## ✍️ Coursework
+
+🚧 Make daily progress in writing your document   🚧
+
+## 📚 Recommended Reading
+
+🚧 Read the document mentioned at the end of the slides 🚧
+
+## 📟 Communication
+
+- Keep permanent communication with your thesis supervisor 

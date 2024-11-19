@@ -1,0 +1,52 @@
+---
+subtitle: " SEMINARIO II"
+title: "<font style='font-size:0.8em;'>🗓️ Week4<br/>Writing</font>"
+author: Ivan Lizarazo
+institute: '[Universidad Nacional de Colombia](#)'
+date: 21 Nov 2024
+date-meta: 21 Nov 2024
+date-format: "DD MMM YYYY"
+toc: true
+toc-depth: 1
+toc-title: "What we will cover today:"
+center-title-slide: false
+from: markdown+emoji
+format:
+  revealjs: 
+    fig-responsive: true
+    theme: simple
+    slide-number: true
+    mouse-wheel: false
+    preview-links: auto
+    logo: /figures/icons/ARS-1.png
+    css: /css/styles_slides.css
+    footer: '2020771 -- SEMINARIO II'
+---
+
+# Thesis introduction
+
+## [How to write a thesis introduction](https://www.student.unsw.edu.au/introductions)
+
+
+# Research question
+
+## [How should a research question be?](https://libguides.msvu.ca/c.php?g=707361&p=5034449#s-lg-box-15836684)
+
+# Samples of Master of Science Thesis
+
+## Geoinformatics
+
+[WUR 2024](https://drive.google.com/file/d/18SRNiBQX_lUEQipjeDd0mhPOifGgqKuR/view?usp=sharing)
+
+## Agriculture
+
+[ILLINOIS 2023](https://drive.google.com/file/d/1_uZS-pUJKl-rN4b3t8IUtNM7LVYhbDXu/view?usp=sharing)
+
+
+## Questions?
+
+<p align="center">
+<img src="figs/paper_accepted.png" width=80% height=80%>
+</p>
+
+
