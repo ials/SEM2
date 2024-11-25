@@ -31,17 +31,17 @@ If we want our readers to keep reading, we need to prove to them that it’s wor
 
 The introduction tells our readers what they can expect from the document. When reviewers read it, they should know what they will find out and be able to picture how the ideas will be developed.
 
-If you confuse or bore your readers at the beginning, it might be hard to recover!
+If we confuse or bore our readers at the beginning, it might be hard to recover!
 
 # Drafting the introduction
 
 ## [Six strategies](https://media.ocean.edu/files/OCC_VIDEO/upload/Faculty_Resources/dbordelon/152%20on%20campus%20course%20site/Introductions%20from%20From%20Inquiry.pdf)
 
 <p align="center">
-<img src="figs/drafting_intros.png" width=80% height=80%>
+<img src="figs/drafting-intros.png" width=80% height=80%>
 </p>
 
-# Checklist for an Effective Introduction
+# Checklist for an effective introduction
 
 ## Does it state the overall topic?
 
@@ -63,7 +63,9 @@ Make  sure it clearly provides the topic, thesis and map for the document
 
 ## Let’s practice revising your first draft
 
-Pass on your introduction to your peer for a review
+- Pass on your introduction to your peer for a review
+
+- Use the checklist to review
 
 ## Questions?
 
