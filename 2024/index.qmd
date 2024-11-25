@@ -5,23 +5,13 @@ format: html
 ---
 
 ::: {.callout-important collapse=false}
-## 📢 Syllabus
+## 📢 Very important!
 
-(24/10/2024)
+(25/11/2024)
 
-- [🗓️ Know the syllabus here!](/2024/syllabus.qmd)
-
-:::
-
-::: {.callout-note collapse=false}
-## 📢 Important
-
-(24/10/2024)
-
-Las clases se inician el 31 de octubre de 2024. 
+- 🗓️ Bring the first draft of *Introduction* to the classroom on 28.11.2024
 
 :::
-
 
 # 🧑🏻‍🏫 Our Team
 

@@ -1,0 +1,70 @@
+---
+subtitle: " SEMINARIO II"
+title: "<font style='font-size:0.8em;'>🗓️ Week 5<br/>Revise the introduction</font>"
+author: Ivan Lizarazo
+institute: '[Universidad Nacional de Colombia](#)'
+date: 28 Nov 2024
+date-meta: 28 Nov 2024
+date-format: "DD MMM YYYY"
+toc: true
+toc-depth: 1
+toc-title: "What we will cover today:"
+center-title-slide: false
+from: markdown+emoji
+format:
+  revealjs: 
+    fig-responsive: true
+    theme: simple
+    slide-number: true
+    mouse-wheel: false
+    preview-links: auto
+    logo: /figures/icons/ARS-1.png
+    css: /css/styles_slides.css
+    footer: '2020771 -- SEMINARIO II'
+---
+
+# Introduction revision
+
+## Why is the introduction important?
+
+If we want our readers to keep reading, we need to prove to them that it’s worth their time.
+
+The introduction tells our readers what they can expect from the document. When reviewers read it, they should know what they will find out and be able to picture how the ideas will be developed.
+
+If you confuse or bore your readers at the beginning, it might be hard to recover!
+
+# Drafting the introduction
+
+## [Six strategies](https://media.ocean.edu/files/OCC_VIDEO/upload/Faculty_Resources/dbordelon/152%20on%20campus%20course%20site/Introductions%20from%20From%20Inquiry.pdf)
+
+<p align="center">
+<img src="figs/drafting_intros.png" width=80% height=80%>
+</p>
+
+# Checklist for an Effective Introduction
+
+## Does it state the overall topic?
+
+Does your introduction tell the reader what the thesis or paper  will be about?
+
+## Does it provide a cohesive thesis for the document?
+
+Does your introduction states  the knowledge's gap you intends to fill?
+
+## Does it map the structure of the document?
+
+Does your introduction say how you will develop the thesis?
+
+# Revising an Introduction 
+
+## [Let’s practice revising an actual M.Sc. Thesis](https://edepot.wur.nl/678763)
+
+Make  sure it clearly provides the topic, thesis and map for the document
+
+## Let’s practice revising your first draft
+
+Pass on your introduction to your peer for a review
+
+## Questions?
+
+
