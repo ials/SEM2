@@ -38,7 +38,7 @@ If we confuse or bore our readers at the beginning, it might be hard to recover!
 ## [Six strategies](https://media.ocean.edu/files/OCC_VIDEO/upload/Faculty_Resources/dbordelon/152%20on%20campus%20course%20site/Introductions%20from%20From%20Inquiry.pdf)
 
 <p align="center">
-<img src="figs/drafting-intros.png" width=80% height=80%>
+<img src="figs/drafting-intros.png" width=74% height=74%>
 </p>
 
 # Checklist for an effective introduction
@@ -57,9 +57,14 @@ Does your introduction say how you will develop the thesis?
 
 # Revising an Introduction 
 
-## [Let’s practice revising an actual M.Sc. Thesis](https://edepot.wur.nl/678763)
+## [Revision of  a Crop Science M.Sc. Thesis](https://edepot.wur.nl/678763)
 
-Make  sure it clearly provides the topic, thesis and map for the document
+Check that it clearly provides the topic, thesis and map for the document
+
+
+## [Revision of a Geoinformatics M.Sc. Thesis](file:///Users/ials/Documents/unal/PRA/ML/agentbased_simulation_of_the_forestwaterpeople_ne-groen_kennisnet_653935.pdf)
+
+Check that it clearly provides the topic, thesis and map for the document
 
 ## Let’s practice revising your first draft
 
