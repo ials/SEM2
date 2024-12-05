@@ -7,9 +7,10 @@ format: html
 ::: {.callout-important collapse=false}
 ## 📢 Very important!
 
-(25/11/2024)
+(02/12/2024)
 
-- 🗓️ Bring the first draft of *Introduction* to the classroom on 28.11.2024
+- 🗓️ Revise your  *Introduction* following your peer's suggestions
+- 🗓 Start writing your *Methods* section (or chapter)
 
 :::
 
