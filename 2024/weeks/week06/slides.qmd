@@ -1,0 +1,113 @@
+---
+subtitle: " SEMINARIO II"
+title: "<font style='font-size:0.8em;'>🗓️ Week 5<br/>Revise the introduction</font>"
+author: Ivan Lizarazo
+institute: '[Universidad Nacional de Colombia](#)'
+date: 5 Dec 2024
+date-meta: 5 Dec 2024
+date-format: "DD MMM YYYY"
+toc: true
+toc-depth: 1
+toc-title: "What we will cover today:"
+center-title-slide: false
+from: markdown+emoji
+format:
+  revealjs: 
+    fig-responsive: true
+    theme: simple
+    slide-number: true
+    mouse-wheel: false
+    preview-links: auto
+    logo: /figures/icons/ARS-1.png
+    css: /css/styles_slides.css
+    footer: '2020771 -- SEMINARIO II'
+---
+
+# The methods section (or chapter)
+
+## Why methods matter?
+
+Once upon a time  the methods section was abbreviated, overly summarized, or even relegated. The movement for increased reproducibility and rigor in science has reinstated the importance of the methods section. 
+
+Methods are now a key element in establishing the credibility of the research, alongside the open availability of data and results.
+
+# Drafting the methods
+
+## Step 1
+
+<p align="center">
+<img src="figs/step1.png" width=100% height=100%>
+</p>
+
+## Step 1
+
+<p align="center">
+<img src="figs/step1.png" width=100% height=100%>
+</p>
+
+## Step 2
+
+<p align="center">
+<img src="figs/step2.png" width=100% height=100%>
+</p>
+
+## Step 3
+
+<p align="center">
+<img src="figs/step3.png" width=100% height=100%>
+</p>
+
+## Step 4
+
+<p align="center">
+<img src="figs/step4.png" width=100% height=100%>
+</p>
+
+## Step 5
+
+<p align="center">
+<img src="figs/step5.png" width=100% height=100%>
+</p>
+
+# Writing tips
+
+## Do
+
+<p align="center">
+<img src="figs/do.png" width=74% height=74%>
+</p>
+
+## Don't
+
+<p align="center">
+<img src="figs/donot.png" width=74% height=74%>
+</p>
+
+## Does it map the structure of the document?
+
+Does your introduction say how you will develop the thesis?
+
+# Reviewing the methods chapter 
+
+## [The effects of environmental constraints on potato cultivars](https://drive.google.com/file/d/1IrWxG_F-RqmY6INQR_EV8Lvy9ktzZtS2/view?usp=sharing)
+
+Check if it ensures understanding, reproducibility and replicability
+
+
+## [An Agent-based Simulation of the Forest-Water-People Nexus](https://drive.google.com/file/d/1rzG4xR1vBmUQny9vwrH_F4GSsj1mdt3i/view?usp=sharing)
+
+Check if it ensures understanding, reproducibility and replicability
+
+## Let’s practice revising your methods outline
+
+- Pass on your methods outline to your peer for a review
+
+- Revise your outline to follow your peer suggestions
+
+## Suggested reading
+
+[Method Sections for Empirical Research Papers](https://www.jmu.edu/uwc/_files/link-library/empirical/method_section_overview.pdf)
+
+## Questions?
+
+

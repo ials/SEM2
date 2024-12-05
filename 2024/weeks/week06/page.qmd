@@ -1,0 +1,29 @@
+---
+title: "🗓️ Unit 6- How to write your methods"
+---
+
+In this unit, we will understand why methods matter.
+
+
+## 👨‍🏫 Lecture Slides 
+
+Either click on the slide area below or click [here](slides.qmd) to view it in fullscreen.
+Use your keypad to navigate the slides.
+
+<div class="container" style="position: relative;overflow: hidden;width: 100%;min-height:600px;">
+<iframe src="slides.html" style="position=absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;min-height:600px;"></iframe>
+</div>
+
+🎥 
+
+## ✍️ Coursework
+
+🚧 Make daily progress in writing your document   🚧
+
+## 📚 Recommended Reading
+
+🚧 Read the document mentioned in the lecture 🚧
+
+## 📟 Communication
+
+- Keep permanent communication with your thesis supervisor 
