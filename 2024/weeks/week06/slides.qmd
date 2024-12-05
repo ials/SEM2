@@ -74,13 +74,13 @@ Methods are now a key element in establishing the credibility of the research, a
 ## Do
 
 <p align="center">
-<img src="figs/do.png" width=200% height=200%>
+<img src="figs/do.png" width=250% height=250%>
 </p>
 
 ## Don't
 
 <p align="center">
-<img src="figs/donot.png" width=200% height=200%>
+<img src="figs/donot.png" width=250% height=250%>
 </p>
 
 ## Does it map the structure of the document?
