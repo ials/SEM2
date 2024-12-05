@@ -1,6 +1,6 @@
 ---
 subtitle: " SEMINARIO II"
-title: "<font style='font-size:0.8em;'>🗓️ Week 5<br/>Revise the introduction</font>"
+title: "<font style='font-size:0.8em;'>🗓️ Week 5<br/>Review the methods</font>"
 author: Ivan Lizarazo
 institute: '[Universidad Nacional de Colombia](#)'
 date: 5 Dec 2024
@@ -36,37 +36,37 @@ Methods are now a key element in establishing the credibility of the research, a
 ## Step 1
 
 <p align="center">
-<img src="figs/step1.png" width=100% height=100%>
+<img src="figs/step1.png" width=65% height=65%>
 </p>
 
 ## Step 1
 
 <p align="center">
-<img src="figs/step1.png" width=100% height=100%>
+<img src="figs/step1.png" width=65% height=65%>
 </p>
 
 ## Step 2
 
 <p align="center">
-<img src="figs/step2.png" width=100% height=100%>
+<img src="figs/step2.png" width=65% height=65%>
 </p>
 
 ## Step 3
 
 <p align="center">
-<img src="figs/step3.png" width=100% height=100%>
+<img src="figs/step3.png" width=65% height=65%>
 </p>
 
 ## Step 4
 
 <p align="center">
-<img src="figs/step4.png" width=100% height=100%>
+<img src="figs/step4.png" width=65% height=65%>
 </p>
 
 ## Step 5
 
 <p align="center">
-<img src="figs/step5.png" width=100% height=100%>
+<img src="figs/step5.png" width=65% height=65%>
 </p>
 
 # Writing tips
@@ -74,13 +74,13 @@ Methods are now a key element in establishing the credibility of the research, a
 ## Do
 
 <p align="center">
-<img src="figs/do.png" width=74% height=74%>
+<img src="figs/do.png" width=110% height=110%>
 </p>
 
 ## Don't
 
 <p align="center">
-<img src="figs/donot.png" width=74% height=74%>
+<img src="figs/donot.png" width=110% height=110%>
 </p>
 
 ## Does it map the structure of the document?
