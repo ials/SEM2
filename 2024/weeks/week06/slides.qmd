@@ -74,18 +74,14 @@ Methods are now a key element in establishing the credibility of the research, a
 ## Do
 
 <p align="center">
-<img src="figs/do.png" width=250% height=250%>
+<img src="figs/do.png" width=300% height=300%>
 </p>
 
 ## Don't
 
 <p align="center">
-<img src="figs/donot.png" width=250% height=250%>
+<img src="figs/donot.png" width=300% height=300%>
 </p>
-
-## Does it map the structure of the document?
-
-Does your introduction say how you will develop the thesis?
 
 # Reviewing the methods chapter 
 
