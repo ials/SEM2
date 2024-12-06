@@ -1,6 +1,6 @@
 ---
 subtitle: " SEMINARIO II"
-title: "<font style='font-size:0.8em;'>🗓️ Week 5<br/>Review the methods</font>"
+title: "<font style='font-size:0.8em;'>🗓️ Week 6<br/>Review the methods</font>"
 author: Ivan Lizarazo
 institute: '[Universidad Nacional de Colombia](#)'
 date: 5 Dec 2024
