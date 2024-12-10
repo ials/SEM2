@@ -7,10 +7,10 @@ format: html
 ::: {.callout-important collapse=false}
 ## 📢 Very important!
 
-(02/12/2024)
+(09/12/2024)
 
-- 🗓️ Revise your  *Introduction* following your peer's suggestions
-- 🗓 Start writing your *Methods* section (or chapter)
+- 🗓️ Print your draft  (*Introduction & Methods*) for its review in class
+
 
 :::
 

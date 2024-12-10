@@ -1,6 +1,6 @@
 ---
 subtitle: " SEMINARIO II"
-title: "<font style='font-size:0.8em;'>🗓️ Week 7<br/How to write a research report</font>"
+title: "<font style='font-size:0.8em;'>🗓️ Week 7<br/>How to write a research report</font>"
 author: Ivan Lizarazo
 institute: '[Universidad Nacional de Colombia](#)'
 date:  11 Dec 2024
@@ -36,9 +36,9 @@ format:
 
 # Reviewing your first research report draft
 
-- Pass on draft to your *Seminario 2* lecturer
+- Pass on your draft to *Seminario 2* lecturer
 
-- Revise your drsft to follow lecturer  suggestions
+- Revise your draft following lecturer suggestions
 
 ## Suggested reading
 
