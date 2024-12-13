@@ -7,9 +7,9 @@ format: html
 ::: {.callout-important collapse=false}
 ## 📢 Very important!
 
-(09/12/2024)
+(15/12/2024)
 
-- 🗓️ Print your draft  (*Introduction & Methods*) for its review in class
+- 🗓️ Send your first delivery, in pdf format, signed by you and your supervisor, before 19th December.
 
 
 :::

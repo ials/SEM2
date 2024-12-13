@@ -1,0 +1,49 @@
+---
+subtitle: " SEMINARIO II"
+title: "<font style='font-size:0.8em;'>🗓️ Week 7<br/>How to write a research report</font>"
+author: Ivan Lizarazo
+institute: '[Universidad Nacional de Colombia](#)'
+date:  11 Dec 2024
+date-meta: 11 Dec 2024
+date-format: "DD MMM YYYY"
+toc: true
+toc-depth: 1
+toc-title: "What we will cover today:"
+center-title-slide: false
+from: markdown+emoji
+format:
+  revealjs: 
+    fig-responsive: true
+    theme: simple
+    slide-number: true
+    mouse-wheel: false
+    preview-links: auto
+    logo: /figures/icons/ARS-1.png
+    css: /css/styles_slides.css
+    footer: '2020771 -- SEMINARIO II'
+---
+
+# How to write a good paper
+
+## Listen to the experts 
+
+[How to Write a Good Paper](https://mcneilgroup.chem.lsa.umich.edu/wp-content/uploads/2020/04/How-to-Write-a-Paper-April-2020.pdf)
+
+# How to write a good MSc thesis
+
+[Writing a master thesis](https://www.oxbridgeediting.co.uk/blog/a-complete-guide-to-writing-a-masters-thesis/)
+
+
+# Reviewing your first research report draft
+
+- Pass on your draft to *Seminario 2* lecturer
+
+- Revise your draft following lecturer suggestions
+
+## Suggested reading
+
+[How to write a MSc Thesis](https://drive.google.com/file/d/1qM0LgCZUdBOnxsA8Peb3FBf4M3ZqND6y/view?usp=sharing)
+
+## Questions?
+
+

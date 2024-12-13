@@ -1,0 +1,29 @@
+---
+title: "🗓️ Unit 7- How to write a good paper (or thesis)"
+---
+
+In this unit, we will know what reviewers (or juries) want to see in a research study report.
+
+
+## 👨‍🏫 Lecture Slides 
+
+Either click on the slide area below or click [here](slides.qmd) to view it in fullscreen.
+Use your keypad to navigate the slides.
+
+<div class="container" style="position: relative;overflow: hidden;width: 100%;min-height:600px;">
+<iframe src="slides.html" style="position=absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;min-height:600px;"></iframe>
+</div>
+
+🎥 
+
+## ✍️ Coursework
+
+🚧 Make daily progress in writing your document   🚧
+
+## 📚 Recommended practice
+
+🚧 Review your research report before sending it to anyone 🚧
+
+## 📟 Communication
+
+- Follow your thesis supervisor suggestions  
