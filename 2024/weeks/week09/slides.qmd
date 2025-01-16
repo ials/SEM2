@@ -1,6 +1,6 @@
 ---
 subtitle: " SEMINARIO II"
-title: "<font style='font-size:0.8em;'>🗓️ Week 7<br/>How to  review a   manuscript?</font>"
+title: "<font style='font-size:0.8em;'>🗓️ Week 09<br/>How to  review a   manuscript?</font>"
 author: Ivan Lizarazo
 institute: '[Universidad Nacional de Colombia](#)'
 date:  16 Jan 2025
