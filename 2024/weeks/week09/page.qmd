@@ -21,3 +21,5 @@ Use your keypad to navigate the slides.
 ## 📟 Communication
 
 - Keep in touch with your supervisor  
+
+- In case you didn't come to class, exchange your manuscript with a peer and conduct the intended  review

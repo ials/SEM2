@@ -34,13 +34,17 @@ format:
 
 ![](figs/1.png)
 
+
 ## The abstract
 
 ![](figs/2.png)
 
+
 ## The introduction
 
 ![](figs/3.png)
+
+
 ## The methods
 
 ![](figs/4.png)
@@ -60,7 +64,8 @@ format:
 ## The references
 
 ![](figs/8.png)
-## The references
+
+## Let's review
 
 Let's put hands to work
 
