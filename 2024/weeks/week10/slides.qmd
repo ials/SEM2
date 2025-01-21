@@ -78,9 +78,6 @@ Readers typically use it to decide whether or not to read your paper.
 
 - Discussion = The implications of your findings
 
-## The results
-
-![](figs/5.png)
 
 ## Useful references
 
