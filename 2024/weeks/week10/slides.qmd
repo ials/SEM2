@@ -1,0 +1,102 @@
+---
+subtitle: " SEMINARIO II"
+title: "<font style='font-size:0.8em;'>🗓️ Week 10 <br/>How to write a  good abstract?</font>"
+author: Ivan Lizarazo
+institute: '[Universidad Nacional de Colombia](#)'
+date:  23 Jan 2025
+date-meta:  23 Jan 2025
+date-format: "DD MMM YYYY"
+toc: true
+toc-depth: 1
+toc-title: "What we will cover today:"
+center-title-slide: false
+from: markdown+emoji
+format:
+  revealjs: 
+    fig-responsive: true
+    theme: simple
+    slide-number: true
+    mouse-wheel: false
+    preview-links: auto
+    logo: /figures/icons/ARS-1.png
+    css: /css/styles_slides.css
+    footer: '2020771 -- SEMINARIO II'
+---
+
+#  Abstracts
+
+## What is an abstract?
+
+An abstract summarizes  a piece of academic writing. 
+The abstract appears in multiple locations. 
+Readers typically use it to decide whether or not to read your paper.
+
+
+## A good abstract
+
+- Summarizes the entire paper  in one paragraph
+
+- Usually about 250-350 words
+
+- Written in the past tense and in the third person
+
+- Entirely new text (not cut and pasted)
+
+## A good abstract ...
+
+- Stands alone
+
+- Includes keywords
+
+- Has concise, clear, specific, carefully edited language
+
+- Understands the audience
+
+- Is not misleading
+
+
+# Structure
+
+## A few sentences per section (i)
+
+- Introduction = background & the goal of the study
+
+- Method = basic study design
+
+- Results = summary of major findings
+
+- Discussion = interpretation, implications, conclusions
+
+
+## A few sentences per section (ii)
+
+- Introduction = the state of the art and/or the gap you fills
+
+- Method = Describing what you did
+
+- Results = A statement of the thesis
+
+- Discussion = The implications of your findings
+
+## The results
+
+![](figs/5.png)
+
+## Useful references
+
+- [Writing an Abstract](https://www.adelaide.edu.au/writingcentre/ua/media/26/learningguide-writinganabstract.pdf)
+
+- [How to write a good abstract for a scientific paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC3136027/)
+
+## Questions?
+
+![](figs/template.png)
+
+## Let's review an abstract
+
+Let's put hands to work
+
+![](figs/work.png)
+
+
+
