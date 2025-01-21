@@ -93,7 +93,7 @@ Readers typically use it to decide whether or not to read your paper.
 
 Let's put hands to work
 
-![](figs/work.png)
+
 
 
 
