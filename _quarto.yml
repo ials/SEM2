@@ -14,6 +14,7 @@ project:
     - "2024/weeks/week07/*.qmd"
     - "2024/weeks/week08/*.qmd"
     - "2024/weeks/week09/*.qmd"
+    - "2024/weeks/week10/*.qmd"
 
 website:
   title: "SEMINARIO II"
@@ -81,7 +82,11 @@ website:
            contents:
              - href: 2024/weeks/week09/page.qmd
                text: 👨‍🏫 Lecture Material
-
+         - href: 2024/weeks/week10/page.qmd
+           text: Week 10
+           contents:
+             - href: 2024/weeks/week10/page.qmd
+               text: 👨‍🏫 Lecture Material
 
   navbar:
     background: primary
