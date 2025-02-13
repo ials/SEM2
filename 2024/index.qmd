@@ -7,9 +7,9 @@ format: html
 ::: {.callout-important collapse=false}
 ## 📢 Very important!
 
-(15/12/2024)
+(13/02/2025)
 
-- 🗓️ Send your first delivery, in pdf format, signed by you and your supervisor, before 20th December.
+- 🗓️ Send your article to your reviewers, in pdf format, not later than 15th February .
 
 
 :::
