@@ -1,707 +1,154 @@
 [
   {
-    "objectID": "2024/weeks/week13/slides.html#what-is-an-abstract",
-    "href": "2024/weeks/week13/slides.html#what-is-an-abstract",
-    "title": "🗓️ Week 10 How to write a good abstract?",
-    "section": "What is an abstract?",
-    "text": "What is an abstract?\nAn abstract summarizes a piece of academic writing. The abstract appears in multiple locations. Readers typically use it to decide whether or not to read your paper."
-  },
-  {
-    "objectID": "2024/weeks/week13/slides.html#a-good-abstract",
-    "href": "2024/weeks/week13/slides.html#a-good-abstract",
-    "title": "🗓️ Week 10 How to write a good abstract?",
-    "section": "A good abstract",
-    "text": "A good abstract\n\nSummarizes the entire paper in one paragraph\nUsually about 250-350 words\nWritten in the past tense and in the third person\nEntirely new text (not cut and pasted)"
-  },
-  {
-    "objectID": "2024/weeks/week13/slides.html#a-good-abstract-1",
-    "href": "2024/weeks/week13/slides.html#a-good-abstract-1",
-    "title": "🗓️ Week 10 How to write a good abstract?",
-    "section": "A good abstract …",
-    "text": "A good abstract …\n\nStands alone\nIncludes keywords\nHas concise, clear, specific, carefully edited language\nUnderstands the audience\nIs not misleading"
-  },
-  {
-    "objectID": "2024/weeks/week13/slides.html#a-few-sentences-per-section-i",
-    "href": "2024/weeks/week13/slides.html#a-few-sentences-per-section-i",
-    "title": "🗓️ Week 10 How to write a good abstract?",
-    "section": "A few sentences per section (i)",
-    "text": "A few sentences per section (i)\n\nIntroduction = background & the goal of the study\nMethod = basic study design\nResults = summary of major findings\nDiscussion = interpretation, implications, conclusions"
-  },
-  {
-    "objectID": "2024/weeks/week13/slides.html#a-few-sentences-per-section-ii",
-    "href": "2024/weeks/week13/slides.html#a-few-sentences-per-section-ii",
-    "title": "🗓️ Week 10 How to write a good abstract?",
-    "section": "A few sentences per section (ii)",
-    "text": "A few sentences per section (ii)\n\nIntroduction = the state of the art and/or the gap you fills\nMethod = Describing what you did\nResults = A statement of the thesis\nDiscussion = The implications of your findings"
-  },
-  {
-    "objectID": "2024/weeks/week13/slides.html#useful-references",
-    "href": "2024/weeks/week13/slides.html#useful-references",
-    "title": "🗓️ Week 10 How to write a good abstract?",
-    "section": "Useful references",
-    "text": "Useful references\n\nWriting an Abstract\nHow to write a good abstract for a scientific paper"
-  },
-  {
-    "objectID": "2024/weeks/week13/slides.html#questions",
-    "href": "2024/weeks/week13/slides.html#questions",
-    "title": "🗓️ Week 10 How to write a good abstract?",
-    "section": "Questions?",
-    "text": "Questions?"
-  },
-  {
-    "objectID": "2024/weeks/week13/slides.html#lets-review-an-abstract",
-    "href": "2024/weeks/week13/slides.html#lets-review-an-abstract",
-    "title": "🗓️ Week 10 How to write a good abstract?",
-    "section": "Let’s review an abstract",
-    "text": "Let’s review an abstract\nLet’s put hands to work"
-  },
-  {
-    "objectID": "2024/weeks/week10/slides.html#what-is-an-abstract",
-    "href": "2024/weeks/week10/slides.html#what-is-an-abstract",
-    "title": "🗓️ Week 10 How to write a good abstract?",
-    "section": "What is an abstract?",
-    "text": "What is an abstract?\nAn abstract summarizes a piece of academic writing. The abstract appears in multiple locations. Readers typically use it to decide whether or not to read your paper."
-  },
-  {
-    "objectID": "2024/weeks/week10/slides.html#a-good-abstract",
-    "href": "2024/weeks/week10/slides.html#a-good-abstract",
-    "title": "🗓️ Week 10 How to write a good abstract?",
-    "section": "A good abstract",
-    "text": "A good abstract\n\nSummarizes the entire paper in one paragraph\nUsually about 250-350 words\nWritten in the past tense and in the third person\nEntirely new text (not cut and pasted)"
-  },
-  {
-    "objectID": "2024/weeks/week10/slides.html#a-good-abstract-1",
-    "href": "2024/weeks/week10/slides.html#a-good-abstract-1",
-    "title": "🗓️ Week 10 How to write a good abstract?",
-    "section": "A good abstract …",
-    "text": "A good abstract …\n\nStands alone\nIncludes keywords\nHas concise, clear, specific, carefully edited language\nUnderstands the audience\nIs not misleading"
-  },
-  {
-    "objectID": "2024/weeks/week10/slides.html#a-few-sentences-per-section-i",
-    "href": "2024/weeks/week10/slides.html#a-few-sentences-per-section-i",
-    "title": "🗓️ Week 10 How to write a good abstract?",
-    "section": "A few sentences per section (i)",
-    "text": "A few sentences per section (i)\n\nIntroduction = background & the goal of the study\nMethod = basic study design\nResults = summary of major findings\nDiscussion = interpretation, implications, conclusions"
-  },
-  {
-    "objectID": "2024/weeks/week10/slides.html#a-few-sentences-per-section-ii",
-    "href": "2024/weeks/week10/slides.html#a-few-sentences-per-section-ii",
-    "title": "🗓️ Week 10 How to write a good abstract?",
-    "section": "A few sentences per section (ii)",
-    "text": "A few sentences per section (ii)\n\nIntroduction = the state of the art and/or the gap you fills\nMethod = Describing what you did\nResults = A statement of the thesis\nDiscussion = The implications of your findings"
-  },
-  {
-    "objectID": "2024/weeks/week10/slides.html#useful-references",
-    "href": "2024/weeks/week10/slides.html#useful-references",
-    "title": "🗓️ Week 10 How to write a good abstract?",
-    "section": "Useful references",
-    "text": "Useful references\n\nWriting an Abstract\nHow to write a good abstract for a scientific paper"
-  },
-  {
-    "objectID": "2024/weeks/week10/slides.html#questions",
-    "href": "2024/weeks/week10/slides.html#questions",
-    "title": "🗓️ Week 10 How to write a good abstract?",
-    "section": "Questions?",
-    "text": "Questions?"
-  },
-  {
-    "objectID": "2024/weeks/week10/slides.html#lets-review-an-abstract",
-    "href": "2024/weeks/week10/slides.html#lets-review-an-abstract",
-    "title": "🗓️ Week 10 How to write a good abstract?",
-    "section": "Let’s review an abstract",
-    "text": "Let’s review an abstract\nLet’s put hands to work"
-  },
-  {
-    "objectID": "2024/weeks/week09/slides.html#first-things-first",
-    "href": "2024/weeks/week09/slides.html#first-things-first",
-    "title": "🗓️ Week 09How to review a manuscript?",
-    "section": "First things first",
-    "text": "First things first"
-  },
-  {
-    "objectID": "2024/weeks/week09/slides.html#the-abstract",
-    "href": "2024/weeks/week09/slides.html#the-abstract",
-    "title": "🗓️ Week 09How to review a manuscript?",
-    "section": "The abstract",
-    "text": "The abstract"
-  },
-  {
-    "objectID": "2024/weeks/week09/slides.html#the-introduction",
-    "href": "2024/weeks/week09/slides.html#the-introduction",
-    "title": "🗓️ Week 09How to review a manuscript?",
-    "section": "The introduction",
-    "text": "The introduction"
-  },
-  {
-    "objectID": "2024/weeks/week09/slides.html#the-methods",
-    "href": "2024/weeks/week09/slides.html#the-methods",
-    "title": "🗓️ Week 09How to review a manuscript?",
-    "section": "The methods",
-    "text": "The methods"
-  },
-  {
-    "objectID": "2024/weeks/week09/slides.html#the-results",
-    "href": "2024/weeks/week09/slides.html#the-results",
-    "title": "🗓️ Week 09How to review a manuscript?",
-    "section": "The results",
-    "text": "The results"
-  },
-  {
-    "objectID": "2024/weeks/week09/slides.html#the-discussion",
-    "href": "2024/weeks/week09/slides.html#the-discussion",
-    "title": "🗓️ Week 09How to review a manuscript?",
-    "section": "The discussion",
-    "text": "The discussion"
-  },
-  {
-    "objectID": "2024/weeks/week09/slides.html#figures-and-graphs",
-    "href": "2024/weeks/week09/slides.html#figures-and-graphs",
-    "title": "🗓️ Week 09How to review a manuscript?",
-    "section": "Figures and graphs",
-    "text": "Figures and graphs"
-  },
-  {
-    "objectID": "2024/weeks/week09/slides.html#the-references",
-    "href": "2024/weeks/week09/slides.html#the-references",
-    "title": "🗓️ Week 09How to review a manuscript?",
-    "section": "The references",
-    "text": "The references"
-  },
-  {
-    "objectID": "2024/weeks/week09/slides.html#lets-review",
-    "href": "2024/weeks/week09/slides.html#lets-review",
-    "title": "🗓️ Week 09How to review a manuscript?",
-    "section": "Let’s review",
-    "text": "Let’s review\nLet’s put hands to work"
-  },
-  {
-    "objectID": "2024/weeks/week09/slides.html#suggested-reading",
-    "href": "2024/weeks/week09/slides.html#suggested-reading",
-    "title": "🗓️ Week 09How to review a manuscript?",
-    "section": "Suggested reading",
-    "text": "Suggested reading\nGuide to reviewing a manuscript"
-  },
-  {
-    "objectID": "2024/weeks/week09/slides.html#questions",
-    "href": "2024/weeks/week09/slides.html#questions",
-    "title": "🗓️ Week 09How to review a manuscript?",
-    "section": "Questions?",
-    "text": "Questions?"
-  },
-  {
-    "objectID": "2024/weeks/week08/slides.html#listen-to-the-experts",
-    "href": "2024/weeks/week08/slides.html#listen-to-the-experts",
-    "title": "🗓️ Week 7How to write a research report",
-    "section": "Listen to the experts",
-    "text": "Listen to the experts\nHow to Write a Good Paper"
-  },
-  {
-    "objectID": "2024/weeks/week08/slides.html#suggested-reading",
-    "href": "2024/weeks/week08/slides.html#suggested-reading",
-    "title": "🗓️ Week 7How to write a research report",
-    "section": "Suggested reading",
-    "text": "Suggested reading\nHow to write a MSc Thesis"
-  },
-  {
-    "objectID": "2024/weeks/week08/slides.html#questions",
-    "href": "2024/weeks/week08/slides.html#questions",
-    "title": "🗓️ Week 7How to write a research report",
-    "section": "Questions?",
-    "text": "Questions?"
-  },
-  {
-    "objectID": "2024/weeks/week07/slides.html#listen-to-the-experts",
-    "href": "2024/weeks/week07/slides.html#listen-to-the-experts",
-    "title": "🗓️ Week 7How to write a research report",
-    "section": "Listen to the experts",
-    "text": "Listen to the experts\nHow to Write a Good Paper"
-  },
-  {
-    "objectID": "2024/weeks/week07/slides.html#suggested-reading",
-    "href": "2024/weeks/week07/slides.html#suggested-reading",
-    "title": "🗓️ Week 7How to write a research report",
-    "section": "Suggested reading",
-    "text": "Suggested reading\nHow to write a MSc Thesis"
-  },
-  {
-    "objectID": "2024/weeks/week07/slides.html#questions",
-    "href": "2024/weeks/week07/slides.html#questions",
-    "title": "🗓️ Week 7How to write a research report",
-    "section": "Questions?",
-    "text": "Questions?"
-  },
-  {
-    "objectID": "2024/weeks/week06/slides.html#why-methods-matter",
-    "href": "2024/weeks/week06/slides.html#why-methods-matter",
-    "title": "🗓️ Week 6Review the methods",
-    "section": "Why methods matter?",
-    "text": "Why methods matter?\nOnce upon a time the methods section was abbreviated, overly summarized, or even relegated. The movement for increased reproducibility and rigor in science has reinstated the importance of the methods section.\nMethods are now a key element in establishing the credibility of the research, alongside the open availability of data and results."
-  },
-  {
-    "objectID": "2024/weeks/week06/slides.html#step-1",
-    "href": "2024/weeks/week06/slides.html#step-1",
-    "title": "🗓️ Week 6Review the methods",
-    "section": "Step 1",
-    "text": "Step 1"
-  },
-  {
-    "objectID": "2024/weeks/week06/slides.html#step-1-1",
-    "href": "2024/weeks/week06/slides.html#step-1-1",
-    "title": "🗓️ Week 6Review the methods",
-    "section": "Step 1",
-    "text": "Step 1"
-  },
-  {
-    "objectID": "2024/weeks/week06/slides.html#step-2",
-    "href": "2024/weeks/week06/slides.html#step-2",
-    "title": "🗓️ Week 6Review the methods",
-    "section": "Step 2",
-    "text": "Step 2"
-  },
-  {
-    "objectID": "2024/weeks/week06/slides.html#step-3",
-    "href": "2024/weeks/week06/slides.html#step-3",
-    "title": "🗓️ Week 6Review the methods",
-    "section": "Step 3",
-    "text": "Step 3"
-  },
-  {
-    "objectID": "2024/weeks/week06/slides.html#step-4",
-    "href": "2024/weeks/week06/slides.html#step-4",
-    "title": "🗓️ Week 6Review the methods",
-    "section": "Step 4",
-    "text": "Step 4"
-  },
-  {
-    "objectID": "2024/weeks/week06/slides.html#step-5",
-    "href": "2024/weeks/week06/slides.html#step-5",
-    "title": "🗓️ Week 6Review the methods",
-    "section": "Step 5",
-    "text": "Step 5"
-  },
-  {
-    "objectID": "2024/weeks/week06/slides.html#do",
-    "href": "2024/weeks/week06/slides.html#do",
-    "title": "🗓️ Week 6Review the methods",
-    "section": "Do",
-    "text": "Do"
-  },
-  {
-    "objectID": "2024/weeks/week06/slides.html#dont",
-    "href": "2024/weeks/week06/slides.html#dont",
-    "title": "🗓️ Week 6Review the methods",
-    "section": "Don’t",
-    "text": "Don’t"
-  },
-  {
-    "objectID": "2024/weeks/week06/slides.html#the-effects-of-environmental-constraints-on-potato-cultivars",
-    "href": "2024/weeks/week06/slides.html#the-effects-of-environmental-constraints-on-potato-cultivars",
-    "title": "🗓️ Week 6Review the methods",
-    "section": "The effects of environmental constraints on potato cultivars",
-    "text": "The effects of environmental constraints on potato cultivars\nCheck if it ensures understanding, reproducibility and replicability"
-  },
-  {
-    "objectID": "2024/weeks/week06/slides.html#an-agent-based-simulation-of-the-forest-water-people-nexus",
-    "href": "2024/weeks/week06/slides.html#an-agent-based-simulation-of-the-forest-water-people-nexus",
-    "title": "🗓️ Week 6Review the methods",
-    "section": "An Agent-based Simulation of the Forest-Water-People Nexus",
-    "text": "An Agent-based Simulation of the Forest-Water-People Nexus\nCheck if it ensures understanding, reproducibility and replicability"
-  },
-  {
-    "objectID": "2024/weeks/week06/slides.html#lets-practice-revising-your-methods-outline",
-    "href": "2024/weeks/week06/slides.html#lets-practice-revising-your-methods-outline",
-    "title": "🗓️ Week 6Review the methods",
-    "section": "Let’s practice revising your methods outline",
-    "text": "Let’s practice revising your methods outline\n\nPass on your methods outline to your peer for a review\nRevise your outline to follow your peer suggestions"
-  },
-  {
-    "objectID": "2024/weeks/week06/slides.html#suggested-reading",
-    "href": "2024/weeks/week06/slides.html#suggested-reading",
-    "title": "🗓️ Week 6Review the methods",
-    "section": "Suggested reading",
-    "text": "Suggested reading\nMethod Sections for Empirical Research Papers"
-  },
-  {
-    "objectID": "2024/weeks/week06/slides.html#questions",
-    "href": "2024/weeks/week06/slides.html#questions",
-    "title": "🗓️ Week 6Review the methods",
-    "section": "Questions?",
-    "text": "Questions?"
-  },
-  {
-    "objectID": "2024/weeks/week05/slides.html#why-is-the-introduction-important",
-    "href": "2024/weeks/week05/slides.html#why-is-the-introduction-important",
-    "title": "🗓️ Week 5Revise the introduction",
-    "section": "Why is the introduction important?",
-    "text": "Why is the introduction important?\nIf we want our readers to keep reading, we need to prove to them that it’s worth their time.\nThe introduction tells our readers what they can expect from the document. When reviewers read it, they should know what they will find out and be able to picture how the ideas will be developed.\nIf we confuse or bore our readers at the beginning, it might be hard to recover!"
-  },
-  {
-    "objectID": "2024/weeks/week05/slides.html#six-strategies",
-    "href": "2024/weeks/week05/slides.html#six-strategies",
-    "title": "🗓️ Week 5Revise the introduction",
-    "section": "Six strategies",
-    "text": "Six strategies"
-  },
-  {
-    "objectID": "2024/weeks/week05/slides.html#does-it-state-the-overall-topic",
-    "href": "2024/weeks/week05/slides.html#does-it-state-the-overall-topic",
-    "title": "🗓️ Week 5Revise the introduction",
-    "section": "Does it state the overall topic?",
-    "text": "Does it state the overall topic?\nDoes your introduction tell the reader what the thesis or paper will be about?"
-  },
-  {
-    "objectID": "2024/weeks/week05/slides.html#does-it-provide-a-cohesive-thesis-for-the-document",
-    "href": "2024/weeks/week05/slides.html#does-it-provide-a-cohesive-thesis-for-the-document",
-    "title": "🗓️ Week 5Revise the introduction",
-    "section": "Does it provide a cohesive thesis for the document?",
-    "text": "Does it provide a cohesive thesis for the document?\nDoes your introduction states the knowledge’s gap you intends to fill?"
-  },
-  {
-    "objectID": "2024/weeks/week05/slides.html#does-it-map-the-structure-of-the-document",
-    "href": "2024/weeks/week05/slides.html#does-it-map-the-structure-of-the-document",
-    "title": "🗓️ Week 5Revise the introduction",
-    "section": "Does it map the structure of the document?",
-    "text": "Does it map the structure of the document?\nDoes your introduction say how you will develop the thesis?"
-  },
-  {
-    "objectID": "2024/weeks/week05/slides.html#revision-of-a-crop-science-m.sc.-thesis",
-    "href": "2024/weeks/week05/slides.html#revision-of-a-crop-science-m.sc.-thesis",
-    "title": "🗓️ Week 5Revise the introduction",
-    "section": "Revision of a Crop Science M.Sc. Thesis",
-    "text": "Revision of a Crop Science M.Sc. Thesis\nCheck that it clearly provides the topic, thesis and map for the document"
-  },
-  {
-    "objectID": "2024/weeks/week05/slides.html#revision-of-a-geoinformatics-m.sc.-thesis",
-    "href": "2024/weeks/week05/slides.html#revision-of-a-geoinformatics-m.sc.-thesis",
-    "title": "🗓️ Week 5Revise the introduction",
-    "section": "Revision of a Geoinformatics M.Sc. Thesis",
-    "text": "Revision of a Geoinformatics M.Sc. Thesis\nCheck that it clearly provides the topic, thesis and map for the document"
-  },
-  {
-    "objectID": "2024/weeks/week05/slides.html#lets-practice-revising-your-first-draft",
-    "href": "2024/weeks/week05/slides.html#lets-practice-revising-your-first-draft",
-    "title": "🗓️ Week 5Revise the introduction",
-    "section": "Let’s practice revising your first draft",
-    "text": "Let’s practice revising your first draft\n\nPass on your introduction to your peer for a review\nUse the checklist to review"
-  },
-  {
-    "objectID": "2024/weeks/week05/slides.html#questions",
-    "href": "2024/weeks/week05/slides.html#questions",
-    "title": "🗓️ Week 5Revise the introduction",
-    "section": "Questions?",
-    "text": "Questions?"
-  },
-  {
-    "objectID": "2024/weeks/week04/slides.html#how-to-write-a-thesis-introduction",
-    "href": "2024/weeks/week04/slides.html#how-to-write-a-thesis-introduction",
-    "title": "🗓️ Week4Writing",
-    "section": "How to write a thesis introduction",
-    "text": "How to write a thesis introduction"
-  },
-  {
-    "objectID": "2024/weeks/week04/slides.html#how-should-a-research-question-be",
-    "href": "2024/weeks/week04/slides.html#how-should-a-research-question-be",
-    "title": "🗓️ Week4Writing",
-    "section": "How should a research question be?",
-    "text": "How should a research question be?"
-  },
-  {
-    "objectID": "2024/weeks/week04/slides.html#geoinformatics",
-    "href": "2024/weeks/week04/slides.html#geoinformatics",
-    "title": "🗓️ Week4Writing",
-    "section": "Geoinformatics",
-    "text": "Geoinformatics\nWUR 2024"
-  },
-  {
-    "objectID": "2024/weeks/week04/slides.html#agriculture",
-    "href": "2024/weeks/week04/slides.html#agriculture",
-    "title": "🗓️ Week4Writing",
-    "section": "Agriculture",
-    "text": "Agriculture\nILLINOIS 2023"
-  },
-  {
-    "objectID": "2024/weeks/week04/slides.html#questions",
-    "href": "2024/weeks/week04/slides.html#questions",
-    "title": "🗓️ Week4Writing",
-    "section": "Questions?",
-    "text": "Questions?"
-  },
-  {
-    "objectID": "2024/weeks/week03/slides.html#read-the-outline-approved-by-your-supervisor",
-    "href": "2024/weeks/week03/slides.html#read-the-outline-approved-by-your-supervisor",
-    "title": "🗓️ Week 2 Introduction",
-    "section": "Read the outline approved by your supervisor",
-    "text": "Read the outline approved by your supervisor"
-  },
-  {
-    "objectID": "2024/weeks/week03/slides.html#read-the-work-plan-approved-by-your-supervisor",
-    "href": "2024/weeks/week03/slides.html#read-the-work-plan-approved-by-your-supervisor",
-    "title": "🗓️ Week 2 Introduction",
-    "section": "Read the work plan approved by your supervisor",
-    "text": "Read the work plan approved by your supervisor"
-  },
-  {
-    "objectID": "2024/weeks/week03/slides.html#tips",
-    "href": "2024/weeks/week03/slides.html#tips",
-    "title": "🗓️ Week 2 Introduction",
-    "section": "Tips",
-    "text": "Tips\n- Find the wrong journal\n- Say things that people have already known\n- Don’t let your reader know your purpose\n- Say thing that are not of any use\n- Don’t explain why your did it nor how\n- Respond in a vague manner to reviewers’ comments"
-  },
-  {
-    "objectID": "2024/weeks/week03/slides.html#reading",
-    "href": "2024/weeks/week03/slides.html#reading",
-    "title": "🗓️ Week 2 Introduction",
-    "section": "Reading",
-    "text": "Reading\nHow to get your papers rejected"
-  },
-  {
-    "objectID": "2024/weeks/week03/slides.html#tips-1",
-    "href": "2024/weeks/week03/slides.html#tips-1",
-    "title": "🗓️ Week 2 Introduction",
-    "section": "Tips",
-    "text": "Tips\n- Set specific times for writing\n- Set both research and document goals\n- Distinguish the different writing stages\n- Avoid procrastination\n- Resist perfectionism\n- Stay connected and talk about it with others"
-  },
-  {
-    "objectID": "2024/weeks/week03/slides.html#questions",
-    "href": "2024/weeks/week03/slides.html#questions",
-    "title": "🗓️ Week 2 Introduction",
-    "section": "Questions?",
-    "text": "Questions?"
-  },
-  {
-    "objectID": "2024/weeks/week02/slides.html#write-a-single-paragraph-on-research-progress",
-    "href": "2024/weeks/week02/slides.html#write-a-single-paragraph-on-research-progress",
-    "title": "🗓️ Week 2 Introduction",
-    "section": "Write a single paragraph on research progress",
-    "text": "Write a single paragraph on research progress"
-  },
-  {
-    "objectID": "2024/weeks/week02/slides.html#write-outline-of-i-conceptual-framework-and-ii-methods",
-    "href": "2024/weeks/week02/slides.html#write-outline-of-i-conceptual-framework-and-ii-methods",
-    "title": "🗓️ Week 2 Introduction",
-    "section": "Write outline of: (i) conceptual framework; and (ii) methods",
-    "text": "Write outline of: (i) conceptual framework; and (ii) methods"
-  },
-  {
-    "objectID": "2024/weeks/week02/slides.html#phenomenology",
-    "href": "2024/weeks/week02/slides.html#phenomenology",
-    "title": "🗓️ Week 2 Introduction",
-    "section": "Phenomenology",
-    "text": "Phenomenology\nPhenomenological philosophy is interested in the general essences or persistent characteristics of things.\nThe empirical sciences are sciences of facts, interested in the concrete, singular, contextual and accidental qualities of phenomena.\nhttps://www.mdpi.com/2076-0760/12/7/413"
-  },
-  {
-    "objectID": "2024/weeks/week02/slides.html#heuristic-process-principles",
-    "href": "2024/weeks/week02/slides.html#heuristic-process-principles",
-    "title": "🗓️ Week 2 Introduction",
-    "section": "Heuristic process principles",
-    "text": "Heuristic process principles\n\nThe principle of evidence: researchers speak of a thing ‘only within the limits in which it then presents itself’.\nThe principle of ulteriority: researchers look for the real that remain shadowed or veiled."
-  },
-  {
-    "objectID": "2024/weeks/week02/slides.html#landslides-thesis",
-    "href": "2024/weeks/week02/slides.html#landslides-thesis",
-    "title": "🗓️ Week 2 Introduction",
-    "section": "Landslides thesis",
-    "text": "Landslides thesis\nLandslide Detection using Random Forest Classifier"
-  },
-  {
-    "objectID": "2024/weeks/week02/slides.html#landslides-paper",
-    "href": "2024/weeks/week02/slides.html#landslides-paper",
-    "title": "🗓️ Week 2 Introduction",
-    "section": "Landslides paper",
-    "text": "Landslides paper\nMulti-Regional landslide detection"
-  },
-  {
-    "objectID": "2024/weeks/week02/slides.html#four-stages-of-writing",
-    "href": "2024/weeks/week02/slides.html#four-stages-of-writing",
-    "title": "🗓️ Week 2 Introduction",
-    "section": "Four stages of writing",
-    "text": "Four stages of writing\n\nPrewriting\n\nDrafting\nRevising\n\nEditing\n\nSee here"
-  },
-  {
-    "objectID": "2024/weeks/week02/slides.html#iterations",
-    "href": "2024/weeks/week02/slides.html#iterations",
-    "title": "🗓️ Week 2 Introduction",
-    "section": "Iterations",
-    "text": "Iterations"
-  },
-  {
-    "objectID": "2024/weeks/week02/slides.html#writing-order",
-    "href": "2024/weeks/week02/slides.html#writing-order",
-    "title": "🗓️ Week 2 Introduction",
-    "section": "Writing order",
-    "text": "Writing order"
-  },
-  {
-    "objectID": "2024/weeks/week02/slides.html#research-paper-or-thesis",
-    "href": "2024/weeks/week02/slides.html#research-paper-or-thesis",
-    "title": "🗓️ Week 2 Introduction",
-    "section": "Research paper or thesis",
-    "text": "Research paper or thesis\nDefine the schedule for writing your document:\n\nIntroduction\nMethods\nResults\nDiscussion"
-  },
-  {
-    "objectID": "2024/weeks/week02/slides.html#reading",
-    "href": "2024/weeks/week02/slides.html#reading",
-    "title": "🗓️ Week 2 Introduction",
-    "section": "Reading",
-    "text": "Reading\nRead How to write your first research paper"
-  },
-  {
-    "objectID": "2024/weeks/week02/slides.html#questions",
-    "href": "2024/weeks/week02/slides.html#questions",
-    "title": "🗓️ Week 2 Introduction",
-    "section": "Questions?",
-    "text": "Questions?"
-  },
-  {
-    "objectID": "2024/weeks/week01/slides.html#your-lecturer",
-    "href": "2024/weeks/week01/slides.html#your-lecturer",
+    "objectID": "2025/weeks/week01/slides.html#your-lecturer",
+    "href": "2025/weeks/week01/slides.html#your-lecturer",
     "title": "🗓️ Week 01 Introduction",
     "section": "Your lecturer",
     "text": "Your lecturer\n\n\n\n\n\nProf. Lizarazo Investigador senior Minciencias Investigador principal SDGnexus Network\n\n\n\n\nPhD in Geography\nMSc in GIScience\nBackground: Civil Engineer\n\nmachine and deep learning  Earth observation  Territorial sustainability"
   },
   {
-    "objectID": "2024/weeks/week01/slides.html#students",
-    "href": "2024/weeks/week01/slides.html#students",
+    "objectID": "2025/weeks/week01/slides.html#students",
+    "href": "2025/weeks/week01/slides.html#students",
     "title": "🗓️ Week 01 Introduction",
     "section": "Students",
     "text": "Students\nPlease introduce yourselves\n:::"
   },
   {
-    "objectID": "2024/weeks/week01/slides.html#knowledge",
-    "href": "2024/weeks/week01/slides.html#knowledge",
+    "objectID": "2025/weeks/week01/slides.html#knowledge",
+    "href": "2025/weeks/week01/slides.html#knowledge",
     "title": "🗓️ Week 01 Introduction",
     "section": "Knowledge",
     "text": "Knowledge\nKnowledge refers to a theoretical and/or practical understanding of a subject. It can be implicit or explicit; it can be more or less formal or systematic. In philosophy, the study of knowledge is called epistemology. Knowledge acquisition involves complex cognitive processes: perception, communication, and reasoning.\nhttps://www.librarianshipstudies.com/2017/11/knowledge.html"
   },
   {
-    "objectID": "2024/weeks/week01/slides.html#science-and-technology-sct",
-    "href": "2024/weeks/week01/slides.html#science-and-technology-sct",
+    "objectID": "2025/weeks/week01/slides.html#science-and-technology-sct",
+    "href": "2025/weeks/week01/slides.html#science-and-technology-sct",
     "title": "🗓️ Week 01 Introduction",
     "section": "Science and technology (Sc&T)",
     "text": "Science and technology (Sc&T)\nScience uses empirical investigation to pursue many of the deepest questions pondered by scholars. Engineering uses empirical knowledge to design and develop technology: products, processes, machines, and structures to solve the major challenges that face society. Together, Sc&T are essential to advance the human condition.\nhttps://corecurriculum.nd.edu/our-core-curriculum/ways-of-knowing/science-and-technology/"
   },
   {
-    "objectID": "2024/weeks/week01/slides.html#research",
-    "href": "2024/weeks/week01/slides.html#research",
+    "objectID": "2025/weeks/week01/slides.html#research",
+    "href": "2025/weeks/week01/slides.html#research",
     "title": "🗓️ Week 01 Introduction",
     "section": "Research",
     "text": "Research\nResearch is a process of systematic inquiry that entails collection of data; documentation of critical information; and analysis and interpretation of that data/information, in accordance with suitable methodologies set by specific professional fields and academic disciplines.\nhttps://www.hampshire.edu/what-research"
   },
   {
-    "objectID": "2024/weeks/week01/slides.html#what-is-a-researcher-1",
-    "href": "2024/weeks/week01/slides.html#what-is-a-researcher-1",
+    "objectID": "2025/weeks/week01/slides.html#what-is-a-researcher-1",
+    "href": "2025/weeks/week01/slides.html#what-is-a-researcher-1",
     "title": "🗓️ Week 01 Introduction",
     "section": "What is a researcher? (1)",
     "text": "What is a researcher? (1)\nA researcher is someone who conducts systematic investigations and studies of materials and sources to establish facts, reach new conclusions, and develop theories.\nhttps://typeset.io/questions/what-is-a-researcher-3hwiofeb8w"
   },
   {
-    "objectID": "2024/weeks/week01/slides.html#what-is-a-researcher-2",
-    "href": "2024/weeks/week01/slides.html#what-is-a-researcher-2",
+    "objectID": "2025/weeks/week01/slides.html#what-is-a-researcher-2",
+    "href": "2025/weeks/week01/slides.html#what-is-a-researcher-2",
     "title": "🗓️ Week 01 Introduction",
     "section": "What is a researcher? (2)",
     "text": "What is a researcher? (2)"
   },
   {
-    "objectID": "2024/weeks/week01/slides.html#research-methodology",
-    "href": "2024/weeks/week01/slides.html#research-methodology",
+    "objectID": "2025/weeks/week01/slides.html#research-methodology",
+    "href": "2025/weeks/week01/slides.html#research-methodology",
     "title": "🗓️ Week 01 Introduction",
     "section": "Research methodology",
     "text": "Research methodology\nIt is a structured and scientific approach used to collect, analyze, and interpret quantitative or qualitative data to answer research questions or test hypotheses. A research methodology is like a plan for carrying out research."
   },
   {
-    "objectID": "2024/weeks/week01/slides.html#quantitative-research-methodology",
-    "href": "2024/weeks/week01/slides.html#quantitative-research-methodology",
+    "objectID": "2025/weeks/week01/slides.html#quantitative-research-methodology",
+    "href": "2025/weeks/week01/slides.html#quantitative-research-methodology",
     "title": "🗓️ Week 01 Introduction",
     "section": "Quantitative research methodology",
     "text": "Quantitative research methodology\nIt focuses on measuring and testing numerical data. This approach is good for reaching a large number of people in a short amount of time. This type of research helps in testing the causal relationships between variables, making predictions, and generalizing results to wider populations.\nhttps://paperpal.com/blog/academic-writing-guides"
   },
   {
-    "objectID": "2024/weeks/week01/slides.html#qualitative-research-methodology",
-    "href": "2024/weeks/week01/slides.html#qualitative-research-methodology",
+    "objectID": "2025/weeks/week01/slides.html#qualitative-research-methodology",
+    "href": "2025/weeks/week01/slides.html#qualitative-research-methodology",
     "title": "🗓️ Week 01 Introduction",
     "section": "Qualitative research methodology",
     "text": "Qualitative research methodology\nIt examines the opinions, behaviors, and experiences of people. It collects and analyzes words and textual data. This research methodology requires fewer participants but is still more time consuming because the time spent per participant is quite large. This method is used in exploratory research.\nhttps://paperpal.com/blog/academic-writing-guides"
   },
   {
-    "objectID": "2024/weeks/week01/slides.html#mixed-method-research-methodology",
-    "href": "2024/weeks/week01/slides.html#mixed-method-research-methodology",
+    "objectID": "2025/weeks/week01/slides.html#mixed-method-research-methodology",
+    "href": "2025/weeks/week01/slides.html#mixed-method-research-methodology",
     "title": "🗓️ Week 01 Introduction",
     "section": "Mixed-method research methodology",
     "text": "Mixed-method research methodology\nIt uses both quantitative and qualitative methodologies in the same study. This method allows to validate findings, verify if the results observed using both methods are complementary, and explain unexpected results obtained from one method by using the other method.\nhttps://paperpal.com/blog/academic-writing-guides"
   },
   {
-    "objectID": "2024/weeks/week01/slides.html#research-process",
-    "href": "2024/weeks/week01/slides.html#research-process",
+    "objectID": "2025/weeks/week01/slides.html#research-process",
+    "href": "2025/weeks/week01/slides.html#research-process",
     "title": "🗓️ Week 01 Introduction",
     "section": "Research process",
     "text": "Research process"
   },
   {
-    "objectID": "2024/weeks/week01/slides.html#research-cycle",
-    "href": "2024/weeks/week01/slides.html#research-cycle",
+    "objectID": "2025/weeks/week01/slides.html#research-cycle",
+    "href": "2025/weeks/week01/slides.html#research-cycle",
     "title": "🗓️ Week 01 Introduction",
     "section": "Research cycle",
     "text": "Research cycle"
   },
   {
-    "objectID": "2024/weeks/week01/slides.html#primacy-of-the-research-question",
-    "href": "2024/weeks/week01/slides.html#primacy-of-the-research-question",
+    "objectID": "2025/weeks/week01/slides.html#primacy-of-the-research-question",
+    "href": "2025/weeks/week01/slides.html#primacy-of-the-research-question",
     "title": "🗓️ Week 01 Introduction",
     "section": "Primacy of the research question",
     "text": "Primacy of the research question\nA good research paper addresses a specific research question. The research question—or study objective or main research hypothesis—is the central organizing principle of the paper. Whatever relates to the research question belongs in the paper; the rest doesn’t."
   },
   {
-    "objectID": "2024/weeks/week01/slides.html#structure-of-the-research-paper",
-    "href": "2024/weeks/week01/slides.html#structure-of-the-research-paper",
+    "objectID": "2025/weeks/week01/slides.html#structure-of-the-research-paper",
+    "href": "2025/weeks/week01/slides.html#structure-of-the-research-paper",
     "title": "🗓️ Week 01 Introduction",
     "section": "Structure of the research paper",
     "text": "Structure of the research paper\n\nIntroduction\nMethods\nResults\nDiscussion"
   },
   {
-    "objectID": "2024/weeks/week01/slides.html#introduction",
-    "href": "2024/weeks/week01/slides.html#introduction",
+    "objectID": "2025/weeks/week01/slides.html#introduction",
+    "href": "2025/weeks/week01/slides.html#introduction",
     "title": "🗓️ Week 01 Introduction",
     "section": "Introduction",
     "text": "Introduction\n\nProblem statement\nKnowledge gaps\nResearch question"
   },
   {
-    "objectID": "2024/weeks/week01/slides.html#data-methods",
-    "href": "2024/weeks/week01/slides.html#data-methods",
+    "objectID": "2025/weeks/week01/slides.html#data-methods",
+    "href": "2025/weeks/week01/slides.html#data-methods",
     "title": "🗓️ Week 01 Introduction",
     "section": "Data & Methods",
     "text": "Data & Methods\n\nStudy context & setting\nStudy design (framework, variables, sampling)\nPopulation (or study area)\nWorkflow (data collection, data analysis)"
   },
   {
-    "objectID": "2024/weeks/week01/slides.html#results",
-    "href": "2024/weeks/week01/slides.html#results",
+    "objectID": "2025/weeks/week01/slides.html#results",
+    "href": "2025/weeks/week01/slides.html#results",
     "title": "🗓️ Week 01 Introduction",
     "section": "Results",
     "text": "Results\n\nDescription of workflow outputs\nPresent key findings"
   },
   {
-    "objectID": "2024/weeks/week01/slides.html#discussion",
-    "href": "2024/weeks/week01/slides.html#discussion",
+    "objectID": "2025/weeks/week01/slides.html#discussion",
+    "href": "2025/weeks/week01/slides.html#discussion",
     "title": "🗓️ Week 01 Introduction",
     "section": "Discussion",
     "text": "Discussion\n\nAnswer the research question\nDiscuss findings from a broader perspective\nAnalyze strengths and limitations\nOffer perspectives"
   },
   {
-    "objectID": "2024/weeks/week01/slides.html#to-do-before-next-class",
-    "href": "2024/weeks/week01/slides.html#to-do-before-next-class",
+    "objectID": "2025/weeks/week01/slides.html#to-do-before-next-class",
+    "href": "2025/weeks/week01/slides.html#to-do-before-next-class",
     "title": "🗓️ Week 01 Introduction",
     "section": "To do before next class",
     "text": "To do before next class\nRead Writing a research article: advice to beginners"
   },
   {
-    "objectID": "2024/weeks/week01/slides.html#questions",
-    "href": "2024/weeks/week01/slides.html#questions",
+    "objectID": "2025/weeks/week01/slides.html#questions",
+    "href": "2025/weeks/week01/slides.html#questions",
     "title": "🗓️ Week 01 Introduction",
     "section": "Questions?",
     "text": "Questions?"
   },
   {
-    "objectID": "2024/syllabus.html",
-    "href": "2024/syllabus.html",
+    "objectID": "2025/syllabus.html",
+    "href": "2025/syllabus.html",
     "title": "2020771 - SEMINARIO II",
     "section": "",
     "text": "Aprobación del curso Proyecto de Tesis\nAvances significativos en el desarrollo de la tesis",
@@ -710,8 +157,8 @@
     ]
   },
   {
-    "objectID": "2024/syllabus.html#prerequisitos",
-    "href": "2024/syllabus.html#prerequisitos",
+    "objectID": "2025/syllabus.html#prerequisitos",
+    "href": "2025/syllabus.html#prerequisitos",
     "title": "2020771 - SEMINARIO II",
     "section": "",
     "text": "Aprobación del curso Proyecto de Tesis\nAvances significativos en el desarrollo de la tesis",
@@ -720,8 +167,8 @@
     ]
   },
   {
-    "objectID": "2024/syllabus.html#descripción-de-la-asignatura",
-    "href": "2024/syllabus.html#descripción-de-la-asignatura",
+    "objectID": "2025/syllabus.html#descripción-de-la-asignatura",
+    "href": "2025/syllabus.html#descripción-de-la-asignatura",
     "title": "2020771 - SEMINARIO II",
     "section": "DESCRIPCIÓN DE LA ASIGNATURA:",
     "text": "DESCRIPCIÓN DE LA ASIGNATURA:\n\n\n\n\n\n\nOBJETIVOS:\n\n\n\n\n\n\nEntender los fundamentos de los diversos procesos requeridos en investigación experimental\nAprender a realizar una revisión crítica de literatura relevante para la tesis de maestría\nAprender a diseñar y escribir un artículo de investigación\n\n\nCOMPETENCIAS GENÉRICAS:\n\nCapacidad para usar herramientas tecnológicas avanzadas\nCapacidad de organización y planificación del tiempo\nCapacidad de comunicación escrita y oral\n\n\n\nCOMPETENCIAS ESPECÍFICAS:\n\nCapacidad de abstracción, análisis y síntesis\nCapacidad de integrar y aplicar técnicas geoespaciales\nCapacidad de lectura en inglés\nCapacidad para organizar y planificar el tiempo\nCapacidad para desarrollar pensamiento crítico, razonamiento espacial y calidad argumentativa\n\n\n\nMETODOLOGIA:\n\nLectura antes de la clase a cargo del estudiante\nPresentación de conceptos, métodos y técnicas a cargo del profesor\nRealización de ejercicios prácticos y elaboración de reportes técnicos a cargo del estudiante",
@@ -730,8 +177,8 @@
     ]
   },
   {
-    "objectID": "2024/syllabus.html#contenido-detallado",
-    "href": "2024/syllabus.html#contenido-detallado",
+    "objectID": "2025/syllabus.html#contenido-detallado",
+    "href": "2025/syllabus.html#contenido-detallado",
     "title": "2020771 - SEMINARIO II",
     "section": "CONTENIDO DETALLADO",
     "text": "CONTENIDO DETALLADO\n\n\n\n\n\n\nUnidad 0 – Repaso de metodología de investigación\n\n\n\n\n\n\nUnidad 1 - Fundamentos de investigación experimental\n\n\nUnidad 2 - Lineamientos para realizar investigación reproducible\n\n\nUnidad 3 – Revisión de literatura científica\n\n\nUnidad 4 – Cómo escribir la introducción\n\n\nUnidad 5 – Cómo sintetizar el estado del arte\n\n\nUnidad 6 – Cómo describir la metodología\n\n\nUnidad 7 - Cómo reportar los resultados\n\n\nUnidad 8 - Cómo interpretar los resultados",
@@ -740,18 +187,18 @@
     ]
   },
   {
-    "objectID": "2024/syllabus.html#evaluación-del-curso",
-    "href": "2024/syllabus.html#evaluación-del-curso",
+    "objectID": "2025/syllabus.html#evaluación-del-curso",
+    "href": "2025/syllabus.html#evaluación-del-curso",
     "title": "2020771 - SEMINARIO II",
     "section": "EVALUACIÓN DEL CURSO:",
-    "text": "EVALUACIÓN DEL CURSO:\n\n\n\n\n\n\nImportant\n\n\n\n\n\n\nRevisión primer borrador del artículo (19 de diciembre)\nRevisión segundo borrador del artículo (23 de enero)\nEntrega del artículo (15 de Febrero)\nSustentación del artículo (27 de Febrero)",
+    "text": "EVALUACIÓN DEL CURSO:\n\n\n\n\n\n\nImportant\n\n\n\n\n\n\nEntrega primer borrador del artículo (Mayo 13)\nEntrega segundo borrador del artículo (Junio 9)\nEntrega del artículo (Julio 8)\nSustentación del artículo (Julio 22)",
     "crumbs": [
       "📓 Syllabus"
     ]
   },
   {
-    "objectID": "2024/syllabus.html#bibliografia",
-    "href": "2024/syllabus.html#bibliografia",
+    "objectID": "2025/syllabus.html#bibliografia",
+    "href": "2025/syllabus.html#bibliografia",
     "title": "2020771 - SEMINARIO II",
     "section": "BIBLIOGRAFIA",
     "text": "BIBLIOGRAFIA\n\n\n\n\n\n\nImportant\n\n\n\n\n\nAlston J.M. & Rick J.A. 2021. A Beginner’s Guide to Conducting Reproducible Research, Bulletin of the Ecological Society of America (102) 2, 1-14 https://doi.org/10.1002/bes2.1801\nFerreira A. 2021. How to Write a Machine Learning Paper for (not so) Dummies. 8 pp. UNISI-DIISM, https://www.ic.unicamp.br/~ra023169/publications/misc1.pdf\nFrees E.F. 2010. Regression Modeling with Actuarial and Financial Applications. 585 pp. Cambridge University Press The Edinburgh Building, Cambridge CB2 8RU, UK\nHansman R.J. & Ring U. 2019. Workflow: From photo-based 3-D reconstruction of remotely piloted aircraft images to a 3-D geological model, Geosphere (15) 4, pp. 1393-1408, https://doi.org/10.1130/GES02031.1\nHawkes C.H., Giovannoni G., Lechner-Scott J., Levy M. & Yeh E.A. 2021. How not to get your article published, Multiple Sclerosis and Related Disorders (54), 103226, ISSN 2211-0348, https://doi.org/10.1016/j.msard.2021.103226.\nHuemann M & , Pesämaa O. 2022. The first impression counts: The essentials of writing a convincing introduction, International Journal of Project Management (40) 7, pp. 827-830, ISSN 0263-7863, https://doi.org/10.1016/j.ijproman.2022.09.002.\nJanke K.K., Wilby K.J. & Zavod R. 2020. Academic writing as a journey through “chutes and ladders”: How well are you managing your emotions?, Currents in Pharmacy Teaching and Learning, pp. 103-111, ISSN 1877-1297, https://doi.org/10.1016/j.cptl.2019.11.001.\nKogure K, Takasaki Y (2019) GIS for empirical research design: An illustration with georeferenced point data. PLoS ONE 14(3)\nSholl D.S. 2019. Five Easy Ways To Make Your Research More Reproducible. Langmuir (35) 41, pp. 13257-13258, https://pubs.acs.org/doi/pdf/10.1021/acs.langmuir.9b02963\nSimon E., Osei-Ampofo M., Wachira B.W. & Kwan J. 2020. Getting accepted – Successful writing for scientific publication: a Research Primer for low- and middle-income countries, African Journal of Emergency Medicine (10) 2, pp. S154-S157, ISSN 2211-419X, https://doi.org/10.1016/j.afjem.2020.06.006.\nTorres-Valladares D., Ballinas-García E., Villarreal-Reyes J., Morales-Álvarez V., Ortiz-del-Ánge C. 2022. Research papers 101: The do’s and don’ts of scientific writing, Materials Today: Proceedings (48) 1, pp. 107-114, ISSN 2214-7853, https://doi.org/10.1016/j.matpr.2020.12.708.\nWardhana D.E.C, Yanti N., Susetyo S. & Suhartono S. 2019. Student’s Problem in Writing Results and Discussion Section of Research Articles for International Journals, 1st International Conference on Educational Sciences and Teacher Profession (ICETeP 2018) https://doi.org/10.2991/icetep-18.2019.41\nZelner J., Broen K., August E. 2022. A guide to backward paper writing for the data sciences, Patterns (3) 3, 100423, ISSN 2666-3899, https://doi.org/10.1016/j.patter.2021.100423.",
@@ -764,21 +211,21 @@
     "href": "index.html",
     "title": "2020771 - SEMINARIO 2",
     "section": "",
-    "text": "📑 Course Brief\nFocus: the focus of this course is to gain knowledge on research methods and scientific writing. This academic activity aims to strengthen students’ abilities to document & communicate their geospatial research results.\nHow: reading, learning by doing and writing\n\n\n🎯 Learning Objectives\n\nAppraise the research processes used to build up science\nUnderstand the principles of experimental research\nGet to know how to conduct a literature review\nLearn to write a scientific report\n\n\nSelect Academic Year/Term:\n 2024"
+    "text": "📑 Course Brief\nFocus: the focus of this course is to gain knowledge on research methods and scientific writing. This academic activity aims to strengthen students’ abilities to document & communicate their geospatial research results.\nHow: reading, learning by doing and writing\n\n\n🎯 Learning Objectives\n\nAppraise the research processes used to build up science\nUnderstand the principles of experimental research\nGet to know how to conduct a literature review\nLearn to write a scientific report\n\n\nSelect Academic Year/Term:\n 2025"
   },
   {
-    "objectID": "2024/index.html",
-    "href": "2024/index.html",
+    "objectID": "2025/index.html",
+    "href": "2025/index.html",
     "title": "2020771 - SEMINARIO II",
     "section": "",
-    "text": "📢 Very important!\n\n\n\n\n\n(13/02/2025)\n\n🗓️ Send your article to your reviewers, in pdf format, not later than 15th February .\n\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse ConvenorTeaching Staff\n\n\n\nIVAN LIZARAZO  ASSOCIATE PROFESSOR  UNAL 📧 ializarazos@unal.edu.co ( at )\nOffice Hours:\n\nWhen: Tuesdays 7:00 am - 9:00 am\nWhere: Sala de Profesores\nHow to book: via e-mail\n\n\n\nIALS\n\n\n\n\n\n📍 Dates - Location\nThursdays 2pm-6pm at SALON 103",
+    "text": "📢 Very important!\n\n\n\n\n\n(01/04/2025)\n\n🗓️ Keep constant communication with your thesis supervisor.\n\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse ConvenorTeaching Staff\n\n\n\nIVAN LIZARAZO  ASSOCIATE PROFESSOR  UNAL 📧 ializarazos@unal.edu.co ( at )\nOffice Hours:\n\nWhen: Tuesdays 7:00 am - 9:00 am\nWhere: Sala de Profesores\nHow to book: via e-mail\n\n\n\nIALS\n\n\n\n\n\n📍 Dates - Location\nTuesday 2pm-6pm at SALON 304",
     "crumbs": [
       "🏠 Home"
     ]
   },
   {
-    "objectID": "2024/weeks/week01/page.html",
-    "href": "2024/weeks/week01/page.html",
+    "objectID": "2025/weeks/week01/page.html",
+    "href": "2025/weeks/week01/page.html",
     "title": "🗓️ Unit 1 - Refresher on research concepts",
     "section": "",
     "text": "In this first unit, we will review basic research concepts:",
@@ -788,8 +235,8 @@
     ]
   },
   {
-    "objectID": "2024/weeks/week01/page.html#lecture-slides",
-    "href": "2024/weeks/week01/page.html#lecture-slides",
+    "objectID": "2025/weeks/week01/page.html#lecture-slides",
+    "href": "2025/weeks/week01/page.html#lecture-slides",
     "title": "🗓️ Unit 1 - Refresher on research concepts",
     "section": "👨‍🏫 Lecture Slides",
     "text": "👨‍🏫 Lecture Slides\nEither click on the slide area below or click here to view it in fullscreen. Use your keypad to navigate the slides.\n\n\n\n\n🎥",
@@ -799,8 +246,8 @@
     ]
   },
   {
-    "objectID": "2024/weeks/week01/page.html#coursework",
-    "href": "2024/weeks/week01/page.html#coursework",
+    "objectID": "2025/weeks/week01/page.html#coursework",
+    "href": "2025/weeks/week01/page.html#coursework",
     "title": "🗓️ Unit 1 - Refresher on research concepts",
     "section": "✍️ Coursework",
     "text": "✍️ Coursework\n🚧 Write one-page summarizing what is your research project 🚧\n🚧 Write one-page summarizing your progress on your research project 🚧",
@@ -810,8 +257,8 @@
     ]
   },
   {
-    "objectID": "2024/weeks/week01/page.html#recommended-reading",
-    "href": "2024/weeks/week01/page.html#recommended-reading",
+    "objectID": "2025/weeks/week01/page.html#recommended-reading",
+    "href": "2025/weeks/week01/page.html#recommended-reading",
     "title": "🗓️ Unit 1 - Refresher on research concepts",
     "section": "📚 Recommended Reading",
     "text": "📚 Recommended Reading\n🚧 Read the document mentioned at the end of the slides 🚧",
@@ -821,509 +268,14 @@
     ]
   },
   {
-    "objectID": "2024/weeks/week01/page.html#communication",
-    "href": "2024/weeks/week01/page.html#communication",
+    "objectID": "2025/weeks/week01/page.html#communication",
+    "href": "2025/weeks/week01/page.html#communication",
     "title": "🗓️ Unit 1 - Refresher on research concepts",
     "section": "📟 Communication",
     "text": "📟 Communication\n\nGet to know your peers in the course and organize study groups",
     "crumbs": [
       "🗓️ Weeks",
       "Week 01"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week02/page.html",
-    "href": "2024/weeks/week02/page.html",
-    "title": "🗓️ Unit2 -Empirical Research Foundations",
-    "section": "",
-    "text": "In this unit, we will review:",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 02"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week02/page.html#lecture-slides",
-    "href": "2024/weeks/week02/page.html#lecture-slides",
-    "title": "🗓️ Unit2 -Empirical Research Foundations",
-    "section": "👨‍🏫 Lecture Slides",
-    "text": "👨‍🏫 Lecture Slides\nEither click on the slide area below or click here to view it in fullscreen. Use your keypad to navigate the slides.\n\n\n\n\n🎥",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 02"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week02/page.html#coursework",
-    "href": "2024/weeks/week02/page.html#coursework",
-    "title": "🗓️ Unit2 -Empirical Research Foundations",
-    "section": "✍️ Coursework",
-    "text": "✍️ Coursework\n🚧 Complete your document’s outline and discuss it with your supervisor 🚧\n🚧 Start writing your paper or thesis 🚧",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 02"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week02/page.html#recommended-reading",
-    "href": "2024/weeks/week02/page.html#recommended-reading",
-    "title": "🗓️ Unit2 -Empirical Research Foundations",
-    "section": "📚 Recommended Reading",
-    "text": "📚 Recommended Reading\n🚧 Read the document mentioned at the end of the slides 🚧",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 02"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week02/page.html#communication",
-    "href": "2024/weeks/week02/page.html#communication",
-    "title": "🗓️ Unit2 -Empirical Research Foundations",
-    "section": "📟 Communication",
-    "text": "📟 Communication\n\nKeep permanent communication with your thesis supervisor",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 02"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week03/page.html",
-    "href": "2024/weeks/week03/page.html",
-    "title": "🗓️ Unit 3 - How to write your paper & thesis",
-    "section": "",
-    "text": "In this unit, we will review:",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 03"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week03/page.html#lecture-slides",
-    "href": "2024/weeks/week03/page.html#lecture-slides",
-    "title": "🗓️ Unit 3 - How to write your paper & thesis",
-    "section": "👨‍🏫 Lecture Slides",
-    "text": "👨‍🏫 Lecture Slides\nEither click on the slide area below or click here to view it in fullscreen. Use your keypad to navigate the slides.\n\n\n\n\n🎥",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 03"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week03/page.html#coursework",
-    "href": "2024/weeks/week03/page.html#coursework",
-    "title": "🗓️ Unit 3 - How to write your paper & thesis",
-    "section": "✍️ Coursework",
-    "text": "✍️ Coursework\n🚧 Make daily progress in writing your document 🚧",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 03"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week03/page.html#recommended-reading",
-    "href": "2024/weeks/week03/page.html#recommended-reading",
-    "title": "🗓️ Unit 3 - How to write your paper & thesis",
-    "section": "📚 Recommended Reading",
-    "text": "📚 Recommended Reading\n🚧 Read the document mentioned at the end of the slides 🚧",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 03"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week03/page.html#communication",
-    "href": "2024/weeks/week03/page.html#communication",
-    "title": "🗓️ Unit 3 - How to write your paper & thesis",
-    "section": "📟 Communication",
-    "text": "📟 Communication\n\nKeep permanent communication with your thesis supervisor",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 03"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week04/page.html",
-    "href": "2024/weeks/week04/page.html",
-    "title": "🗓️ Unit4 - How to write your paper & thesis",
-    "section": "",
-    "text": "In this unit, we will review:",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 04"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week04/page.html#lecture-slides",
-    "href": "2024/weeks/week04/page.html#lecture-slides",
-    "title": "🗓️ Unit4 - How to write your paper & thesis",
-    "section": "👨‍🏫 Lecture Slides",
-    "text": "👨‍🏫 Lecture Slides\nEither click on the slide area below or click here to view it in fullscreen. Use your keypad to navigate the slides.\n\n\n\n\n🎥",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 04"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week04/page.html#coursework",
-    "href": "2024/weeks/week04/page.html#coursework",
-    "title": "🗓️ Unit4 - How to write your paper & thesis",
-    "section": "✍️ Coursework",
-    "text": "✍️ Coursework\n🚧 Make daily progress in writing your document 🚧",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 04"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week04/page.html#recommended-reading",
-    "href": "2024/weeks/week04/page.html#recommended-reading",
-    "title": "🗓️ Unit4 - How to write your paper & thesis",
-    "section": "📚 Recommended Reading",
-    "text": "📚 Recommended Reading\n🚧 Read the document mentioned in the lecture 🚧",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 04"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week04/page.html#communication",
-    "href": "2024/weeks/week04/page.html#communication",
-    "title": "🗓️ Unit4 - How to write your paper & thesis",
-    "section": "📟 Communication",
-    "text": "📟 Communication\n\nKeep permanent communication with your thesis supervisor",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 04"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week05/page.html",
-    "href": "2024/weeks/week05/page.html",
-    "title": "🗓️ Unit 5 - Revision of the Introduction",
-    "section": "",
-    "text": "In this unit, we will learn how to revise an introduction",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 05"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week05/page.html#lecture-slides",
-    "href": "2024/weeks/week05/page.html#lecture-slides",
-    "title": "🗓️ Unit 5 - Revision of the Introduction",
-    "section": "👨‍🏫 Lecture Slides",
-    "text": "👨‍🏫 Lecture Slides\nEither click on the slide area below or click here to view it in fullscreen. Use your keypad to navigate the slides.\n\n\n\n\n🎥",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 05"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week05/page.html#coursework",
-    "href": "2024/weeks/week05/page.html#coursework",
-    "title": "🗓️ Unit 5 - Revision of the Introduction",
-    "section": "✍️ Coursework",
-    "text": "✍️ Coursework\n🚧 Make daily progress in writing your document 🚧",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 05"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week05/page.html#recommended-reading",
-    "href": "2024/weeks/week05/page.html#recommended-reading",
-    "title": "🗓️ Unit 5 - Revision of the Introduction",
-    "section": "📚 Recommended Reading",
-    "text": "📚 Recommended Reading\n🚧 Read the document mentioned in the lecture 🚧",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 05"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week05/page.html#communication",
-    "href": "2024/weeks/week05/page.html#communication",
-    "title": "🗓️ Unit 5 - Revision of the Introduction",
-    "section": "📟 Communication",
-    "text": "📟 Communication\n\nKeep permanent communication with your thesis supervisor",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 05"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week06/page.html",
-    "href": "2024/weeks/week06/page.html",
-    "title": "🗓️ Unit 6- How to write your methods",
-    "section": "",
-    "text": "In this unit, we will understand why methods matter.",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 06"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week06/page.html#lecture-slides",
-    "href": "2024/weeks/week06/page.html#lecture-slides",
-    "title": "🗓️ Unit 6- How to write your methods",
-    "section": "👨‍🏫 Lecture Slides",
-    "text": "👨‍🏫 Lecture Slides\nEither click on the slide area below or click here to view it in fullscreen. Use your keypad to navigate the slides.\n\n\n\n\n🎥",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 06"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week06/page.html#coursework",
-    "href": "2024/weeks/week06/page.html#coursework",
-    "title": "🗓️ Unit 6- How to write your methods",
-    "section": "✍️ Coursework",
-    "text": "✍️ Coursework\n🚧 Make daily progress in writing your document 🚧",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 06"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week06/page.html#recommended-reading",
-    "href": "2024/weeks/week06/page.html#recommended-reading",
-    "title": "🗓️ Unit 6- How to write your methods",
-    "section": "📚 Recommended Reading",
-    "text": "📚 Recommended Reading\n🚧 Read the document mentioned in the lecture 🚧",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 06"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week06/page.html#communication",
-    "href": "2024/weeks/week06/page.html#communication",
-    "title": "🗓️ Unit 6- How to write your methods",
-    "section": "📟 Communication",
-    "text": "📟 Communication\n\nKeep permanent communication with your thesis supervisor",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 06"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week07/page.html",
-    "href": "2024/weeks/week07/page.html",
-    "title": "🗓️ Unit 7- How to write a good paper (or thesis)",
-    "section": "",
-    "text": "In this unit, we will know what reviewers (or juries) want to see in a research study report.",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 07"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week07/page.html#lecture-slides",
-    "href": "2024/weeks/week07/page.html#lecture-slides",
-    "title": "🗓️ Unit 7- How to write a good paper (or thesis)",
-    "section": "👨‍🏫 Lecture Slides",
-    "text": "👨‍🏫 Lecture Slides\nEither click on the slide area below or click here to view it in fullscreen. Use your keypad to navigate the slides.\n\n\n\n\n🎥",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 07"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week07/page.html#coursework",
-    "href": "2024/weeks/week07/page.html#coursework",
-    "title": "🗓️ Unit 7- How to write a good paper (or thesis)",
-    "section": "✍️ Coursework",
-    "text": "✍️ Coursework\n🚧 Make daily progress in writing your document 🚧",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 07"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week07/page.html#recommended-practice",
-    "href": "2024/weeks/week07/page.html#recommended-practice",
-    "title": "🗓️ Unit 7- How to write a good paper (or thesis)",
-    "section": "📚 Recommended practice",
-    "text": "📚 Recommended practice\n🚧 Review your research report before sending it to anyone 🚧",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 07"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week07/page.html#communication",
-    "href": "2024/weeks/week07/page.html#communication",
-    "title": "🗓️ Unit 7- How to write a good paper (or thesis)",
-    "section": "📟 Communication",
-    "text": "📟 Communication\n\nFollow your thesis supervisor suggestions",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 07"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week08/page.html",
-    "href": "2024/weeks/week08/page.html",
-    "title": "🗓️ Unit 8 - Proofread your first delivery before sending it",
-    "section": "",
-    "text": "In this week, we will complete our first delivery.",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 08"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week08/page.html#coursework",
-    "href": "2024/weeks/week08/page.html#coursework",
-    "title": "🗓️ Unit 8 - Proofread your first delivery before sending it",
-    "section": "✍️ Coursework",
-    "text": "✍️ Coursework\n🚧 Make daily progress in writing your document 🚧",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 08"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week08/page.html#communication",
-    "href": "2024/weeks/week08/page.html#communication",
-    "title": "🗓️ Unit 8 - Proofread your first delivery before sending it",
-    "section": "📟 Communication",
-    "text": "📟 Communication\n\nRevise your document following your supervisor suggestions",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 08"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week09/page.html",
-    "href": "2024/weeks/week09/page.html",
-    "title": "🗓️ Unit 09 -How to review a manuscript?",
-    "section": "",
-    "text": "In this week, our classroom’s peers will review our first delivery.",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 09"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week09/page.html#lecture-slides",
-    "href": "2024/weeks/week09/page.html#lecture-slides",
-    "title": "🗓️ Unit 09 -How to review a manuscript?",
-    "section": "👨‍🏫 Lecture Slides",
-    "text": "👨‍🏫 Lecture Slides\nEither click on the slide area below or click here to view it in fullscreen. Use your keypad to navigate the slides.",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 09"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week09/page.html#coursework",
-    "href": "2024/weeks/week09/page.html#coursework",
-    "title": "🗓️ Unit 09 -How to review a manuscript?",
-    "section": "✍️ Coursework",
-    "text": "✍️ Coursework\n🚧 Make daily progress in writing your document 🚧",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 09"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week09/page.html#communication",
-    "href": "2024/weeks/week09/page.html#communication",
-    "title": "🗓️ Unit 09 -How to review a manuscript?",
-    "section": "📟 Communication",
-    "text": "📟 Communication\n\nKeep in touch with your supervisor\nIn case you didn’t come to class, exchange your manuscript with a peer and conduct the intended review",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 09"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week10/page.html",
-    "href": "2024/weeks/week10/page.html",
-    "title": "🗓️ Unit 10 -How to write a good abstract?",
-    "section": "",
-    "text": "In this week, our classroom’s peers will review our abstract.",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 10"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week10/page.html#lecture-slides",
-    "href": "2024/weeks/week10/page.html#lecture-slides",
-    "title": "🗓️ Unit 10 -How to write a good abstract?",
-    "section": "👨‍🏫 Lecture Slides",
-    "text": "👨‍🏫 Lecture Slides\nEither click on the slide area below or click here to view it in fullscreen. Use your keypad to navigate the slides.",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 10"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week10/page.html#coursework",
-    "href": "2024/weeks/week10/page.html#coursework",
-    "title": "🗓️ Unit 10 -How to write a good abstract?",
-    "section": "✍️ Coursework",
-    "text": "✍️ Coursework\n🚧 Make daily progress in writing your document 🚧",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 10"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week10/page.html#communication",
-    "href": "2024/weeks/week10/page.html#communication",
-    "title": "🗓️ Unit 10 -How to write a good abstract?",
-    "section": "📟 Communication",
-    "text": "📟 Communication\n\nKeep in touch with your supervisor\nIn case you didn’t come to class, exchange your abstract with a peer and review it.",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 10"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week13/page.html",
-    "href": "2024/weeks/week13/page.html",
-    "title": "🗓️ Unit 13 -How to prepare a good presentation?",
-    "section": "",
-    "text": "In this week, we will learn how to make good academic presentations.",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 13"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week13/page.html#lecture-slides",
-    "href": "2024/weeks/week13/page.html#lecture-slides",
-    "title": "🗓️ Unit 13 -How to prepare a good presentation?",
-    "section": "👨‍🏫 Lecture Slides",
-    "text": "👨‍🏫 Lecture Slides\nPreparing a thesis defense\nHow to improve your presentation skills",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 13"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week13/page.html#coursework",
-    "href": "2024/weeks/week13/page.html#coursework",
-    "title": "🗓️ Unit 13 -How to prepare a good presentation?",
-    "section": "✍️ Coursework",
-    "text": "✍️ Coursework\n🚧 Prepare your presentation and present it to your classmates 🚧",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 13"
-    ]
-  },
-  {
-    "objectID": "2024/weeks/week13/page.html#practice-practice-practice",
-    "href": "2024/weeks/week13/page.html#practice-practice-practice",
-    "title": "🗓️ Unit 13 -How to prepare a good presentation?",
-    "section": "📟 Practice, practice, practice!",
-    "text": "📟 Practice, practice, practice!\n\nPractice alone & practice in front of your supervisor",
-    "crumbs": [
-      "🗓️ Weeks",
-      "Week 13"
     ]
   }
 ]
