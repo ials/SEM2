@@ -11,7 +11,7 @@ format: html
 ::: {.callout-important collapse=false}
 ### OBJETIVOS:
 
--	Entender los fundamentos de los diversos procesos requeridos en investigación experimental 
+-	Entender los fundamentos de los diversos procesos requeridos en investigación en disciplinas geomáticas
 -	Aprender a realizar una revisión crítica de literatura relevante para la tesis de maestría
 - Aprender a diseñar y escribir un artículo de investigación
 
