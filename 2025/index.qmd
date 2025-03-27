@@ -1,15 +1,15 @@
 ---
 title: "2020771 - SEMINARIO II"
-subtitle: "Academic Year: 2024"
+subtitle: "Academic Year: 2025"
 format: html
 ---
 
 ::: {.callout-important collapse=false}
 ## 📢 Very important!
 
-(13/02/2025)
+(01/04/2025)
 
-- 🗓️ Send your article to your reviewers, in pdf format, not later than 15th February .
+- 🗓️ Keep constant communication with your thesis supervisor.
 
 
 :::
@@ -40,4 +40,4 @@ Office Hours:
 
 # 📍 Dates - Location
 
-Thursdays 2pm-6pm at SALON 103
+Tuesday 2pm-6pm at SALON 304

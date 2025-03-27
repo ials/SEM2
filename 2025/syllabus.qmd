@@ -1,6 +1,6 @@
 ---
 title: "2020771 - SEMINARIO II"
-subtitle: "Academic Year: 2024"
+subtitle: "Academic Year: 2025"
 format: html
 ---
 ## PREREQUISITOS:
@@ -65,10 +65,10 @@ format: html
 
 ::: {.callout-important collapse=false}
 
-- Revisión primer borrador del artículo (19 de diciembre)
--	Revisión segundo borrador del artículo (23 de enero)
-- Entrega del artículo (15 de Febrero) 
-- Sustentación del artículo (27 de Febrero) 
+- Entrega primer borrador del artículo (Mayo 13)
+-	Entrega segundo borrador del artículo (Junio 9)
+- Entrega del artículo (Julio 8) 
+- Sustentación del artículo (Julio 22) 
 
 :::
 

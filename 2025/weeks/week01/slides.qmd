@@ -3,8 +3,8 @@ subtitle: " SEMINARIO II"
 title: "<font style='font-size:0.8em;'>🗓️ Week 01<br/> Introduction</font>"
 author: Ivan Lizarazo
 institute: '[Universidad Nacional de Colombia](#)'
-date: 31 Oct 2024
-date-meta: 31 Oct 2024
+date: 1 April 2025
+date-meta: 1 April 2025
 date-format: "DD MMM YYYY"
 toc: true
 toc-depth: 1
