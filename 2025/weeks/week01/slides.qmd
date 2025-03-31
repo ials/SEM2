@@ -18,7 +18,7 @@ format:
     slide-number: true
     mouse-wheel: false
     preview-links: auto
-    logo: /figures/icons/ARS-1.png
+    logo: /figures/icons/research.png
     css: /css/styles_slides.css
     footer: '2020771 -- SEMINARIO II'
 ---
@@ -67,57 +67,85 @@ format:
 # A refresher on science & research 
 
 
-## Knowledge
+## [Knowledge](https://www.librarianshipstudies.com/2017/11/knowledge.html)
 
-Knowledge refers to a theoretical and/or practical understanding of a subject. It can be implicit  or explicit; it can be more or less formal or systematic. In philosophy, the study of knowledge is called *epistemology*.  Knowledge acquisition involves complex cognitive processes: perception, communication, and reasoning.
+Knowledge refers to a *theoretical and/or practical understanding of a subject*. 
 
-https://www.librarianshipstudies.com/2017/11/knowledge.html
+It can be implicit  or explicit; it can be more or less formal or systematic. 
 
-## Science and technology (Sc&T)
+The study of knowledge is called *epistemology*.  
 
-Science uses *empirical investigation* to pursue many of the deepest questions pondered by scholars. Engineering uses *empirical knowledge* to design and develop technology: products, processes, machines, and structures to solve the major challenges that face society. Together, Sc&T are essential to advance  the human condition.
+Knowledge acquisition involves complex cognitive processes: perception, communication, and reasoning.
 
-https://corecurriculum.nd.edu/our-core-curriculum/ways-of-knowing/science-and-technology/
 
-## Research
 
-Research is a process of systematic inquiry that entails collection of data; documentation of critical information; and analysis and interpretation of that data/information, in accordance with suitable methodologies set by specific professional fields and academic disciplines.
+## [Science and technology (Sc&T)](https://corecurriculum.nd.edu/our-core-curriculum/ways-of-knowing/science-and-technology/)
 
-https://www.hampshire.edu/what-research
+Science uses *empirical investigation* to pursue many of the deepest questions pondered by scholars. 
 
-## What is a researcher? (1)
+Engineering uses *empirical knowledge* to design and develop technology: products, processes, machines, and structures to solve the major challenges that face society. 
 
-A researcher is someone who conducts systematic investigations and studies of materials and sources to establish facts, reach new conclusions, and develop theories.
+Together, Sc&T are essential to advance  the human condition.
 
-https://typeset.io/questions/what-is-a-researcher-3hwiofeb8w
 
-## What is a researcher? (2)
+
+## [Research](https://www.hampshire.edu/what-research)
+
+Research is a process of *systematic inquiry* that entails collection of data; documentation of critical information; and analysis and interpretation of that data/information.
+
+Research is conducted in accordance with suitable methodologies set by specific professional fields and academic disciplines.
+
+
+## [What is a researcher? (1)](https://typeset.io/questions/what-is-a-researcher-3hwiofeb8w)
+
+A researcher is someone who conducts systematic investigations and studies of materials and sources to establish facts, test hypotheses, reach new conclusions, and develop theories.
+
+## [What is a researcher? (2)](https://www.fieldmuseum.org/blog/what-do-we-mean-facts)
+
+- A fact is an indisputable observation of a natural or social phenomenon. 
+
+- A hypothesis is an idea that we can test with further observations. 
+
+- A theory is an explanation for what we observe, drawing together many facts and hypotheses. 
+
+## What is a researcher? (3)
 
 <p align="center">
-<img src="figs/researcher.png" width=80% height=80%>
+<img src="figs/researcher.png" width=100% height=100%>
 </p>
 
 ## Research methodology
 
-It is a structured and scientific approach used to collect, analyze, and interpret quantitative or qualitative data to answer research questions or test hypotheses. A research methodology is like a plan for carrying out research. 
+It is a *structured and scientific approach* used to collect, analyze, and interpret quantitative or qualitative data to answer research questions or test hypotheses. 
 
-## Quantitative research methodology
+A research methodology is like a plan for carrying out research. 
 
-It focuses on measuring and testing numerical data. This approach is good for reaching a large number of people in a short amount of time. This type of research helps in testing the causal relationships between variables, making predictions, and generalizing results to wider populations.
+## [Quantitative research methodology](https://paperpal.com/blog/academic-writing-guides)
 
-https://paperpal.com/blog/academic-writing-guides
+It focuses on *measuring and testing numerical data*. 
 
-## Qualitative research methodology
+This approach is good for reaching a large number of people in a short amount of time. 
 
-It examines the opinions, behaviors, and experiences of people. It collects and analyzes words and textual data. This research methodology requires fewer participants but is still more time consuming because the time spent per participant is quite large. This method is used in exploratory research.
+It helps in testing the causal relationships between variables, making predictions, and generalizing results to wider populations.
 
-https://paperpal.com/blog/academic-writing-guides
 
-## Mixed-method research methodology 
+## [Qualitative research methodology](https://paperpal.com/blog/academic-writing-guides)
 
-It uses both quantitative and qualitative  methodologies in the same study. This method allows to validate  findings, verify if the results observed using both methods are complementary, and explain unexpected results obtained from one method by using the other method.
+It examines opinions, behaviors, and experiences of people. 
 
-https://paperpal.com/blog/academic-writing-guides
+It collects and analyzes words and textual data. 
+
+It usually is time consuming due the time spent per participant. This method is used in exploratory research.
+
+
+
+## [Mixed-method research methodology](
+https://paperpal.com/blog/academic-writing-guides) 
+
+It uses both quantitative and qualitative  methodologies in the same study. 
+
+This method allows to validate  findings, verify if results observed using both methods are complementary, and explain unexpected outcomes.
+
 
 ## Research process
 
@@ -128,7 +156,7 @@ https://paperpal.com/blog/academic-writing-guides
 ## Research cycle
 
 <p align="center">
-<img src="figs/research_cycle.png" width=80% height=80%>
+<img src="figs/research_cycle.png" width=100% height=100%>
 </p>
 
 # Writing a research article
@@ -136,8 +164,10 @@ https://paperpal.com/blog/academic-writing-guides
 ## Primacy of the research question
 
 A good research paper addresses a specific research question.
-The research question—or study objective or main research
+
+The research question—or study objective or research
 hypothesis—is the central organizing principle of the paper.
+
 *Whatever relates to the research question belongs in the
 paper; the rest doesn’t*.
 
@@ -180,7 +210,7 @@ Read [Writing a research article: advice to beginners](https://academic.oup.com/
 ## Questions?
 
 <p align="center">
-<img src="figs/write_your_thesis.png" width=80% height=80%>
+<img src="figs/write_your_thesis.png" width=90% height=90%>
 </p>
 
 
