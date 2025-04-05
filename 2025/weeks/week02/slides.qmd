@@ -72,13 +72,13 @@ See [here](https://seedsofliteracy.org/the-4-steps-in-the-writing-process/)
 ## Iterations
 
 <p align="center">
-<img src="figs/how-to-write.png" width=80% height=80%>
+<img src="figs/how-to-write.png" width=70% height=70%>
 </p>
 
 ## Writing order
 
 <p align="center">
-<img src="figs/writing_order.png" width=80% height=80%>
+<img src="figs/writing_order.png" width=70% height=70%>
 </p>
 
 # Work plan
