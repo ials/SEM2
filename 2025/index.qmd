@@ -9,7 +9,7 @@ format: html
 
 (01/04/2025)
 
-- 🗓️ Keep constant communication with your thesis supervisor.
+- 🗓️ Define the scope of your manuscript with your thesis supervisor.
 
 
 :::
