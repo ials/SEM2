@@ -58,6 +58,10 @@ https://www.mdpi.com/2076-0760/12/7/413
 
 [Multi-Regional landslide detection](https://www.tandfonline.com/doi/epdf/10.1080/19475705.2021.1912196?needAccess=true)
 
+## Terrestrial productivity paper
+
+[Remote sensing of terrestrial gross primary productivity](https://www.tandfonline.com/doi/epdf/10.1080/15481603.2024.2318846?needAccess=true)
+
 # How to write 
 
 ## Four stages of writing
