@@ -1,10 +1,10 @@
 ---
 subtitle: " SEMINARIO II"
-title: "<font style='font-size:0.8em;'>🗓️ Week 2<br/> Introduction</font>"
+title: "<font style='font-size:0.8em;'>🗓️ Week 3<br/> How to write </font>"
 author: Ivan Lizarazo
 institute: '[Universidad Nacional de Colombia](#)'
-date: 14 Nov 2024
-date-meta: 14 Nov 2024
+date: 22 April 2025
+date-meta: 22 April 2025
 date-format: "DD MMM YYYY"
 toc: true
 toc-depth: 1
@@ -23,7 +23,7 @@ format:
     footer: '2020771 -- SEMINARIO II'
 ---
 
-# Outline of your research document
+# Outline of your research paper
 
 ## Read the outline approved by your supervisor
 
@@ -51,7 +51,7 @@ format:
 
 [How to get your papers rejected](https://engineering.wayne.edu/industrial-systems/pdfs/linton2011how_to_get_your_papers_rejectedor_not-_elsevier_technovation.pdf)
 
-# Efficient thesis writing
+# Efficient manuscript writing
 
 ## Tips
 
