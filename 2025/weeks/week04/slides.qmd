@@ -3,8 +3,8 @@ subtitle: " SEMINARIO II"
 title: "<font style='font-size:0.8em;'>🗓️ Week4<br/>Writing</font>"
 author: Ivan Lizarazo
 institute: '[Universidad Nacional de Colombia](#)'
-date: 21 Nov 2024
-date-meta: 21 Nov 2024
+date: 29 April 2025
+date-meta: 29 April 2025
 date-format: "DD MMM YYYY"
 toc: true
 toc-depth: 1
@@ -23,24 +23,46 @@ format:
     footer: '2020771 -- SEMINARIO II'
 ---
 
-# Thesis introduction
+# Revised outline of your papers
 
-## [How to write a thesis introduction](https://www.student.unsw.edu.au/introductions)
+Each student summarizes main changes to his/her previous outline (max. 5 minutes)
+
+# Research paper structure
+
+<p align="center">
+<img src="figs/paper-structure.png" width=90% height=90%>
+</p>
+
+# Paper introduction
+
+## [How to write a paper introduction](https://www.sjsu.edu/writingcenter/docs/handouts/Introduction%20of%20Research%20Papers.pdf)
 
 
 # Research question
 
 ## [How should a research question be?](https://libguides.msvu.ca/c.php?g=707361&p=5034449#s-lg-box-15836684)
 
-# Samples of Master of Science Thesis
+# Research question
 
-## Geoinformatics
+## [How should a research question be?](https://writingcenter.gmu.edu/writing-resources/research-based-writing/how-to-write-a-research-question)
 
-[WUR 2024](https://drive.google.com/file/d/18SRNiBQX_lUEQipjeDd0mhPOifGgqKuR/view?usp=sharing)
+# Samples of Geomatics research papers
 
-## Agriculture
+## Master thesis by Jorge Luis Rodriguez
 
-[ILLINOIS 2023](https://drive.google.com/file/d/1_uZS-pUJKl-rN4b3t8IUtNM7LVYhbDXu/view?usp=sharing)
+[Assessment of potato late blight from UAV-based multispectral imagery](https://drive.google.com/file/d/1AGlveMT6TSiaGREZbcreQWnMxkuxviAP/view?usp=sharing)
+
+## Master thesis by Leonardo Hurtado
+
+[Nuevo índice espectro-temporal para la detección de pérdida forestal en áreas de bosque tropical](https://revistasipgh.org/index.php/rcar/article/view/1096/1884)
+
+## Master thesis by Juan Ricardo Mancera
+
+[Land cover classification at three different levels of detail from optical and radar data](https://revistas.unal.edu.co/index.php/dyna/article/view/84915/77056)
+
+## Master thesis by Marcela Reyes
+
+[CNN-based semantic segmentation model for land cover classification in páramo ecosystems](https://drive.google.com/file/d/14OaYzVkltRl41ZBIZdpXZoYqdISO07Kp/view?usp=sharing)
 
 
 ## Questions?
