@@ -30,7 +30,7 @@ Each student summarizes main changes to his/her previous outline (max. 5 minutes
 # Research paper structure
 
 <p align="center">
-<img src="figs/paper-structure.png" width=90% height=90%>
+<img src="figs/paper-structure.png" width=70% height=70%>
 </p>
 
 # Paper introduction
@@ -42,9 +42,28 @@ Each student summarizes main changes to his/her previous outline (max. 5 minutes
 
 ## [How should a research question be?](https://libguides.msvu.ca/c.php?g=707361&p=5034449#s-lg-box-15836684)
 
-# Research question
 
-## [How should a research question be?](https://writingcenter.gmu.edu/writing-resources/research-based-writing/how-to-write-a-research-question)
+## [A good RQ shoul be  FINERMAPS](https://pmc.ncbi.nlm.nih.gov/articles/PMC6322175/)
+
+- Feasible
+
+- Interesting 
+
+- Novel 
+
+- Ethical 
+
+- Relevant 
+
+- Manageable 
+
+- Appropriate 
+
+- Potential value 
+
+- Publishable  
+
+- Systematic
 
 # Samples of Geomatics research papers
 
@@ -54,7 +73,7 @@ Each student summarizes main changes to his/her previous outline (max. 5 minutes
 
 ## Master thesis by Leonardo Hurtado
 
-[Nuevo índice espectro-temporal para la detección de pérdida forestal en áreas de bosque tropical](https://revistasipgh.org/index.php/rcar/article/view/1096/1884)
+[Nuevo índice espectro-temporal para la detección de pérdida forestal en áreas de bosque tropical](https://drive.google.com/file/d/1tFnClWOgdWbsbFxEfM8cuRTDBAayb5Fb/view?usp=sharing)
 
 ## Master thesis by Juan Ricardo Mancera
 
