@@ -30,7 +30,7 @@ Each student summarizes main changes to his/her previous outline (max. 5 minutes
 # Research paper structure
 
 <p align="center">
-<img src="figs/paper-structure.png" width=70% height=70%>
+<img src="figs/paper-structure.png" width=60% height=60%>
 </p>
 
 # Paper introduction
