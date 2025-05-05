@@ -3,8 +3,8 @@ subtitle: " SEMINARIO II"
 title: "<font style='font-size:0.8em;'>🗓️ Week 5<br/>Revise the introduction</font>"
 author: Ivan Lizarazo
 institute: '[Universidad Nacional de Colombia](#)'
-date: 28 Nov 2024
-date-meta: 28 Nov 2024
+date: 6 May 2025
+date-meta: 6 May 2025
 date-format: "DD MMM YYYY"
 toc: true
 toc-depth: 1
@@ -18,7 +18,7 @@ format:
     slide-number: true
     mouse-wheel: false
     preview-links: auto
-    logo: /figures/icons/ARS-1.png
+    logo: /figures/icons/SEM.png
     css: /css/styles_slides.css
     footer: '2020771 -- SEMINARIO II'
 ---

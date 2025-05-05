@@ -7,9 +7,9 @@ format: html
 ::: {.callout-important collapse=false}
 ## 📢 Very important!
 
-(28/04/2025)
+(05/05/2025)
 
-- 🗓️ Bring to the classroom the revised outline of your manuscript signed by  your thesis supervisor.
+- 🗓️ Bring printed the first draft of your manuscript on May 13th
 
 
 :::
