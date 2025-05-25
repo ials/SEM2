@@ -1,5 +1,61 @@
 [
   {
+    "objectID": "2025/weeks/week08/slides.html#summary",
+    "href": "2025/weeks/week08/slides.html#summary",
+    "title": "🗓️ Week 8 Critical evaluation of a research paper",
+    "section": "Summary",
+    "text": "Summary\n\nStatement of topic and purpose\nDescription of the study area and data\nExplanation of analytical methodology\nSummary of results and implications"
+  },
+  {
+    "objectID": "2025/weeks/week08/slides.html#introduction",
+    "href": "2025/weeks/week08/slides.html#introduction",
+    "title": "🗓️ Week 8 Critical evaluation of a research paper",
+    "section": "Introduction",
+    "text": "Introduction\n\nIs the framework for the study clear?\nIs there a research problem?\nIs there a synthesis of the state of art?\nAre research questions clear and meaningful?"
+  },
+  {
+    "objectID": "2025/weeks/week08/slides.html#literature-review",
+    "href": "2025/weeks/week08/slides.html#literature-review",
+    "title": "🗓️ Week 8 Critical evaluation of a research paper",
+    "section": "Literature review",
+    "text": "Literature review\n\nIs the background theory provided?\nIs there a critical synthesis of previous studies?\nIs there an statement of the approach adopted for the paper?"
+  },
+  {
+    "objectID": "2025/weeks/week08/slides.html#methods",
+    "href": "2025/weeks/week08/slides.html#methods",
+    "title": "🗓️ Week 8 Critical evaluation of a research paper",
+    "section": "Methods",
+    "text": "Methods\n\nIs the description of the experimental design clear?\nIs there a workflow diagram which illustrates data processing?\nIs there a detailed description of each stage?\nIs the information analysis complete?"
+  },
+  {
+    "objectID": "2025/weeks/week08/slides.html#results",
+    "href": "2025/weeks/week08/slides.html#results",
+    "title": "🗓️ Week 8 Critical evaluation of a research paper",
+    "section": "Results",
+    "text": "Results\n\nAre the outputs of all stages described?\nDoes the author include figures and tables?\nIs there consystency between this section and the previous one?"
+  },
+  {
+    "objectID": "2025/weeks/week08/slides.html#discussion",
+    "href": "2025/weeks/week08/slides.html#discussion",
+    "title": "🗓️ Week 8 Critical evaluation of a research paper",
+    "section": "Discussion",
+    "text": "Discussion\n\nIs(are) the research question(s) answered?\nAre the hypotheses supported or rejected?\nIs there an explanation of why the results were as they were?\nAre advantages and limitations of the study mentioned?\nAre there contributions for geomatics described?"
+  },
+  {
+    "objectID": "2025/weeks/week08/slides.html#references",
+    "href": "2025/weeks/week08/slides.html#references",
+    "title": "🗓️ Week 8 Critical evaluation of a research paper",
+    "section": "References",
+    "text": "References\n\nAre all references cited in the text included?\nAre any pertinent references missing?"
+  },
+  {
+    "objectID": "2025/weeks/week08/slides.html#questions",
+    "href": "2025/weeks/week08/slides.html#questions",
+    "title": "🗓️ Week 8 Critical evaluation of a research paper",
+    "section": "Questions?",
+    "text": "Questions?"
+  },
+  {
     "objectID": "2025/weeks/week06/slides.html#why-methods-matter",
     "href": "2025/weeks/week06/slides.html#why-methods-matter",
     "title": "🗓️ Week 6Review the methods",
@@ -908,6 +964,39 @@
     "crumbs": [
       "🗓️ Weeks",
       "Week 06"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week08/page.html",
+    "href": "2025/weeks/week08/page.html",
+    "title": "🗓️ Unit 8 -Critical evaluation of a research paper",
+    "section": "",
+    "text": "In this week, we will evaluate the first draft of the research paper",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 08"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week08/page.html#coursework",
+    "href": "2025/weeks/week08/page.html#coursework",
+    "title": "🗓️ Unit 8 -Critical evaluation of a research paper",
+    "section": "✍️ Coursework",
+    "text": "✍️ Coursework\n🚧 Make daily progress in your research experiments 🚧",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 08"
+    ]
+  },
+  {
+    "objectID": "2025/weeks/week08/page.html#communication",
+    "href": "2025/weeks/week08/page.html#communication",
+    "title": "🗓️ Unit 8 -Critical evaluation of a research paper",
+    "section": "📟 Communication",
+    "text": "📟 Communication\n\nKeep weekly contact with your supervisor",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 08"
     ]
   }
 ]
