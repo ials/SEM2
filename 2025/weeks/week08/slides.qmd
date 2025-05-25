@@ -27,6 +27,8 @@ format:
 
 ##  Summary
 
+Check that it includes:
+
 - Statement of topic and purpose
 - Description of the study area and data
 - Explanation of analytical methodology 
