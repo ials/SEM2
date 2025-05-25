@@ -75,4 +75,6 @@ Check that it includes:
 
 ## Questions?
 
+![](figs/written.png)
+
 
