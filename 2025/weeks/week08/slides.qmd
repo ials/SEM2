@@ -1,10 +1,10 @@
 ---
 subtitle: " SEMINARIO II"
-title: "<font style='font-size:0.8em;'>🗓️ Week 7<br/>How to write a research report</font>"
+title: "<font style='font-size:0.8em;'>🗓️ Week 8<br/> Critical evaluation of a research paper</font>"
 author: Ivan Lizarazo
 institute: '[Universidad Nacional de Colombia](#)'
-date:  11 Dec 2024
-date-meta: 11 Dec 2024
+date:  27 May 2025
+date-meta: 27 May 2025
 date-format: "DD MMM YYYY"
 toc: true
 toc-depth: 1
@@ -23,26 +23,54 @@ format:
     footer: '2020771 -- SEMINARIO II'
 ---
 
-# How to write a good paper
+# How to evaluate a research paper
 
-## Listen to the experts 
+##  Summary
 
-[How to Write a Good Paper](https://mcneilgroup.chem.lsa.umich.edu/wp-content/uploads/2020/04/How-to-Write-a-Paper-April-2020.pdf)
+- Statement of topic and purpose
+- Description of the study area and data
+- Explanation of analytical methodology 
+- Summary of results and implications
 
-# How to write a good MSc thesis
+## Introduction 
 
-[Writing a master thesis](https://www.oxbridgeediting.co.uk/blog/a-complete-guide-to-writing-a-masters-thesis/)
+- Is the framework for the study clear?
+- Is there a research problem?
+- Is there a synthesis of the state of art?
+- Are research questions clear and meaningful?
 
+## Literature review
 
-# Reviewing your first research report draft
+- Is the background theory provided?
+- Is there a critical synthesis of previous studies?
+- Is there an statement of the approach adopted for the paper?
 
-- Pass on your draft to *Seminario 2* lecturer
+## Methods
 
-- Revise your draft following lecturer suggestions
+- Is the description of the experimental design clear?
+- Is there a workflow diagram which illustrates data processing?
+- Is there a detailed description of each stage? 
+- Is the information analysis complete? 
 
-## Suggested reading
+## Results
 
-[How to write a MSc Thesis](https://drive.google.com/file/d/1qM0LgCZUdBOnxsA8Peb3FBf4M3ZqND6y/view?usp=sharing)
+- Are the outputs of all stages described?
+- Does the author include figures and tables?
+- Is there consystency between this section and the previous one?
+
+## Discussion
+
+- Is(are) the  research question(s) answered?
+
+-  Are the hypotheses supported or rejected?
+- Is there an explanation of why the results were as they were?
+- Are advantages and limitations of the study mentioned?
+- Are there contributions for geomatics described?
+
+## References
+
+-  Are all references cited in the text included?
+-  Are any pertinent references missing?
 
 ## Questions?
 
