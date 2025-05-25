@@ -2,7 +2,16 @@
 title: "🗓️ Unit 8 -Critical evaluation of a research paper"
 ---
 
-In this week, we will evaluate the first draft of the research paper
+In this week, we will evaluate the first draft of the research paper. **Bring printed your draft to the classroom**
+
+## 👨‍🏫 Lecture Slides 
+
+Either click on the slide area below or click [here](slides.qmd) to view it in fullscreen.
+Use your keypad to navigate the slides.
+
+<div class="container" style="position: relative;overflow: hidden;width: 100%;min-height:600px;">
+<iframe src="slides.html" style="position=absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;min-height:600px;"></iframe>
+</div>
 
 ## ✍️ Coursework
 

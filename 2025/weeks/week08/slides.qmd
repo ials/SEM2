@@ -61,7 +61,6 @@ format:
 ## Discussion
 
 - Is(are) the  research question(s) answered?
-
 -  Are the hypotheses supported or rejected?
 - Is there an explanation of why the results were as they were?
 - Are advantages and limitations of the study mentioned?
