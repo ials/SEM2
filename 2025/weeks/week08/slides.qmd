@@ -23,6 +23,22 @@ format:
     footer: '2020771 -- SEMINARIO II'
 ---
 
+# Importance of the methods section
+
+## It provides information to judge a study's validity
+
+- It requires a  description of how an experiment was done 
+
+- It explains why the specific experimental procedures were selected
+
+- It should describe what was done to answer the research question
+
+- Describe how it was done, and explain how the results were analyzed. 
+
+##
+
+[Sample Quantitative Methodology](https://www.sjsu.edu/writingcenter/docs/handouts/Methodology.pdf)
+
 # How to evaluate a research paper
 
 ##  Summary
