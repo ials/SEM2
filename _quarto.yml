@@ -70,7 +70,7 @@ website:
            contents:
              - href: 2025/weeks/week08/page.qmd
                text: 👨‍🏫 Lecture Material
-        - href: 2025/weeks/week09/page.qmd
+         - href: 2025/weeks/week09/page.qmd
            text: Week 09
            contents:
              - href: 2025/weeks/week09/page.qmd
