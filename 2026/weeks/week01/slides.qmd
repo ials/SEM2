@@ -1,0 +1,191 @@
+---
+subtitle: " SEMINARIO II"
+title: "<font style='font-size:0.8em;'>🗓️ Week 01<br/> Introduction</font>"
+author: Ivan Lizarazo
+institute: '[Universidad Nacional de Colombia](#)'
+date: 3 February  2026
+date-meta: 3 February 2026
+date-format: "DD MMM YYYY"
+toc: true
+toc-depth: 1
+toc-title: "What we will cover today:"
+center-title-slide: false
+from: markdown+emoji
+format:
+  revealjs: 
+    fig-responsive: true
+    theme: simple
+    slide-number: true
+    mouse-wheel: false
+    preview-links: auto
+    logo: /figures/icons/research.png
+    css: /css/styles_slides.css
+    footer: '2020771 -- SEMINARIO II'
+---
+
+
+# Who we are
+
+:::
+
+## Students {.smaller}
+
+### Please introduce yourselves
+
+:::
+
+
+# A refresher on science & research 
+
+
+## [Knowledge](https://www.librarianshipstudies.com/2017/11/knowledge.html)
+
+Knowledge refers to a *theoretical and/or practical understanding of a subject*. 
+
+It can be implicit  or explicit; it can be more or less formal or systematic. 
+
+The study of knowledge is called *epistemology*.  
+
+Knowledge acquisition involves complex cognitive processes: perception, communication, and reasoning.
+
+
+
+## [Science and technology (Sc&T)](https://corecurriculum.nd.edu/our-core-curriculum/ways-of-knowing/science-and-technology/)
+
+Science uses *empirical investigation* to pursue many of the deepest questions pondered by scholars. 
+
+Engineering uses *empirical knowledge* to design and develop technology: products, processes, machines, and structures to solve the major challenges that face society. 
+
+Together, Sc&T are essential to advance  the human condition.
+
+
+
+## [Research](https://www.hampshire.edu/what-research)
+
+Research is a process of *systematic inquiry* that entails collection of data; documentation of critical information; and analysis and interpretation of that data/information.
+
+Research is conducted in accordance with suitable methodologies set by specific professional fields and academic disciplines.
+
+
+## [What is a researcher? (1)](https://typeset.io/questions/what-is-a-researcher-3hwiofeb8w)
+
+A researcher is someone who conducts systematic investigations and studies of materials and sources to establish facts, test hypotheses, reach new conclusions, and develop theories.
+
+## [What is a researcher? (2)](https://www.fieldmuseum.org/blog/what-do-we-mean-facts)
+
+- A fact is an indisputable observation of a natural or social phenomenon. 
+
+- A hypothesis is an idea that we can test with further observations. 
+
+- A theory is an explanation for what we observe, drawing together many facts and hypotheses. 
+
+## What is a researcher? (3)
+
+<p align="center">
+<img src="figs/researcher.png" width=100% height=100%>
+</p>
+
+## Research methodology
+
+It is a *structured and scientific approach* used to collect, analyze, and interpret quantitative or qualitative data to answer research questions or test hypotheses. 
+
+A research methodology is like a plan for carrying out research. 
+
+## [Quantitative research methodology](https://paperpal.com/blog/academic-writing-guides)
+
+It focuses on *measuring and testing numerical data*. 
+
+This approach is good for reaching a large number of people in a short amount of time. 
+
+It helps in testing the causal relationships between variables, making predictions, and generalizing results to wider populations.
+
+
+## [Qualitative research methodology](https://paperpal.com/blog/academic-writing-guides)
+
+It examines opinions, behaviors, and experiences of people. 
+
+It collects and analyzes words and textual data. 
+
+It usually is time consuming due the time spent per participant. This method is used in exploratory research.
+
+
+
+## [Mixed-method research methodology](
+https://paperpal.com/blog/academic-writing-guides) 
+
+It uses both quantitative and qualitative  methodologies in the same study. 
+
+This method allows to validate  findings, verify if results observed using both methods are complementary, and explain unexpected outcomes.
+
+
+## Research process
+
+<p align="center">
+<img src="figs/research_process.png" width=80% height=80%>
+</p>
+
+## Research cycle
+
+<p align="center">
+<img src="figs/research_cycle.png" width=100% height=100%>
+</p>
+
+# Writing a research article
+
+## Primacy of the research question
+
+A good research paper addresses a specific research question.
+
+The research question—or study objective or research
+hypothesis—is the central organizing principle of the paper.
+
+*Whatever relates to the research question belongs in the
+paper; the rest doesn’t*.
+
+## Structure of the research paper
+
+- Introduction
+- Methods
+- Results
+- Discussion
+- Conclusion
+
+## Introduction
+
+- Problem statement
+- Literature review
+- Knowledge gaps
+- Research question
+
+## Data & Methods
+
+- Study context & setting
+- Study design (framework, variables, sampling)
+- Population (or study area)
+- Workflow (data collection, data analysis)
+
+## Results
+
+- Description of workflow outputs 
+- Present key findings
+
+## Discussion
+
+- Answer the research question
+- Discuss findings from a broader perspective
+- Analyze strengths and limitations
+- Offer perspectives 
+
+## To do before next class 
+
+Read [Writing a research article: advice to beginners](https://academic.oup.com/intqhc/article/16/3/191/1814554)
+
+**Write the outline of your research paper** (and bring it printed to the classroom)
+
+## Questions?
+
+<p align="center">
+<img src="figs/write_your_thesis.png" width=90% height=90%>
+</p>
+
+

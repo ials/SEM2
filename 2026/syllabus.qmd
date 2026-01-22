@@ -1,0 +1,109 @@
+---
+title: "2020771 - SEMINARIO II"
+subtitle: "Academic Year: 2026"
+format: html
+---
+## PREREQUISITOS:
+- Aprobación del curso *Proyecto de Tesis*
+- Avances significativos en el desarrollo de la tesis
+
+## DESCRIPCIÓN DE LA ASIGNATURA:
+::: {.callout-important collapse=false}
+### OBJETIVOS:
+
+-	Entender los fundamentos científicos para realizar investigación en disciplinas geomáticas
+-	Aprender a realizar una revisión crítica de literatura relevante para la tesis de maestría
+- Aprender a diseñar y escribir un artículo de investigación
+
+### COMPETENCIAS GENÉRICAS: 
+
+- Capacidad para usar herramientas tecnológicas avanzadas
+- Capacidad de organización y planificación del tiempo
+- Capacidad de comunicación escrita y oral
+
+### COMPETENCIAS ESPECÍFICAS:
+
+- Capacidad de abstracción, análisis y síntesis
+- Capacidad de integrar y aplicar técnicas geoespaciales
+- Capacidad de lectura en inglés
+- Capacidad para organizar y planificar el tiempo
+- Capacidad para desarrollar pensamiento crítico, razonamiento espacial y calidad argumentativa
+
+### METODOLOGIA:
+-	Lectura antes de la clase a cargo del estudiante
+- Presentación de conceptos, métodos y técnicas a cargo del profesor
+-	Realización de lecturas, ejercicios de escritura y elaboración del artículo a cargo  del estudiante
+
+:::
+
+## CONTENIDO DETALLADO 
+
+::: {.callout-important collapse=true}
+
+### Unidad 0 –  Repaso de metodología de investigación
+
+### Unidad 1 -  Fundamentos de investigación experimental
+
+### Unidad 2 -  Lineamientos para realizar investigación reproducible
+
+### Unidad 3 – Revisión de literatura científica
+
+### Unidad 4 – Cómo escribir la introducción
+
+### Unidad 5 – Cómo sintetizar el estado del arte
+
+### Unidad 6 – Cómo describir la metodología
+
+### Unidad 7 - Cómo reportar los resultados
+
+### Unidad 8 - Cómo interpretar los resultados
+
+:::
+
+
+## EVALUACIÓN DEL CURSO: 
+
+::: {.callout-important collapse=false}
+
+- Entrega primer borrador del artículo (Febrero 24)
+-	Entrega segundo borrador del artículo (Marzo 24)
+- Entrega del artículo (Abril 28) 
+- Sustentación del artículo (Mayo 26) 
+
+:::
+
+## BIBLIOGRAFIA
+
+::: {.callout-important collapse=true}
+
+Alston J.M. & Rick J.A. 2021. A Beginner's Guide to Conducting Reproducible Research, Bulletin of the Ecological Society of America (102) 2,  1-14
+https://doi.org/10.1002/bes2.1801
+
+Ferreira A. 2021. How to Write a Machine Learning Paper for (not so) Dummies. 8 pp. UNISI-DIISM, https://www.ic.unicamp.br/~ra023169/publications/misc1.pdf
+
+Frees E.F. 2010. Regression Modeling with Actuarial and Financial Applications. 585 pp. Cambridge University Press The Edinburgh Building, Cambridge CB2 8RU, UK
+
+Hansman R.J. & Ring U. 2019. Workflow: From photo-based 3-D reconstruction of remotely piloted aircraft images to a 3-D geological model, Geosphere (15) 4, pp. 1393-1408, https://doi.org/10.1130/GES02031.1
+
+Hawkes C.H., Giovannoni G.,  Lechner-Scott J.,  Levy M. & Yeh E.A. 2021. How not to get your article published, Multiple Sclerosis and Related Disorders (54), 103226, ISSN 2211-0348, https://doi.org/10.1016/j.msard.2021.103226.
+
+Huemann M & , Pesämaa O. 2022. The first impression counts: The essentials of writing a convincing introduction, International Journal of Project Management (40) 7, pp. 827-830, ISSN 0263-7863, https://doi.org/10.1016/j.ijproman.2022.09.002.
+
+Janke K.K., Wilby K.J. & Zavod R. 2020. Academic writing as a journey through “chutes and ladders”: How well are you managing your emotions?, Currents in Pharmacy Teaching and Learning, pp. 103-111, ISSN 1877-1297, https://doi.org/10.1016/j.cptl.2019.11.001.
+
+Kogure K, Takasaki Y (2019) GIS for
+empirical research design: An illustration with
+georeferenced point data. PLoS ONE 14(3)
+
+Sholl D.S. 2019. Five Easy Ways To Make Your Research More Reproducible. Langmuir (35) 41, pp. 13257-13258, https://pubs.acs.org/doi/pdf/10.1021/acs.langmuir.9b02963
+
+Simon E., Osei-Ampofo M., Wachira B.W. & Kwan J. 2020. Getting accepted – Successful writing for scientific publication: a Research Primer for low- and middle-income countries, African Journal of Emergency Medicine (10) 2, pp. S154-S157, ISSN 2211-419X, https://doi.org/10.1016/j.afjem.2020.06.006.
+
+Torres-Valladares D., Ballinas-García E., Villarreal-Reyes J., Morales-Álvarez V., Ortiz-del-Ánge C. 2022. Research papers 101: The do’s and don'ts of scientific writing, Materials Today: Proceedings (48) 1, pp. 107-114, ISSN 2214-7853, https://doi.org/10.1016/j.matpr.2020.12.708.
+
+Wardhana D.E.C, Yanti N.,  Susetyo S. &  Suhartono S. 2019. Student’s Problem in Writing Results and Discussion Section of Research Articles for International Journals, 1st International Conference on Educational Sciences and Teacher Profession (ICETeP 2018) https://doi.org/10.2991/icetep-18.2019.41
+
+Zelner J., Broen K., August E. 2022. A guide to backward paper writing for the data sciences,
+Patterns (3) 3, 100423, ISSN 2666-3899, https://doi.org/10.1016/j.patter.2021.100423.
+
+:::
