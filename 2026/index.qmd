@@ -1,13 +1,13 @@
 ---
 title: "2020771 - SEMINARIO II"
-subtitle: "Academic Year: 2025"
+subtitle: "Academic Year: 2026"
 format: html
 ---
 
 ::: {.callout-important collapse=false}
 ## 📢 Very important!
 
-(05/05/2025)
+(01/02/2026)
 
 - 🗓️ Bring printed the outline  of your manuscript on 3rd February
 
@@ -20,7 +20,7 @@ format: html
 ## Course Convenor
 
 
-![](/figures/people/ials.png){fig-align="left" fig-alt="Photo of IVAN LIZARAZO" style="object-fit: cover;width:6em;height:6em;border-radius: 50%;"}  
+![](../figures/people/ials.png){fig-align="left" fig-alt="Photo of IVAN LIZARAZO" style="object-fit: cover;width:6em;height:6em;border-radius: 50%;"}  
 **IVAN LIZARAZO** <br/>
 _ASSOCIATE PROFESSOR_ <br/>
 UNAL</a><br/>
