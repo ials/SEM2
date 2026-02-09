@@ -1,16 +1,14 @@
 ---
-title: "🗓️ Unit2 -Empirical Research Foundations"
+title: "🗓️ Unit2 - Empirical Research Foundations"
 ---
 
 In this unit, we will review:
 
 - Progress of your research
-- State of your paper or thesis
+- Outline of your paper 
 - Work plan
 - Empirical research foundations
 - Good examples of papers & thesis
-
-
 
 ## 👨‍🏫 Lecture Slides 
 
@@ -25,7 +23,7 @@ Use your keypad to navigate the slides.
 
 ## ✍️ Coursework
 
-🚧 Complete your document's outline and discuss it with your supervisor 🚧
+🚧 Make your paper *outline* approved by your supervisor 🚧
 
 🚧 Start writing your manuscript   🚧
 
@@ -35,4 +33,4 @@ Use your keypad to navigate the slides.
 
 ## 📟 Communication
 
-- Keep permanent communication with your thesis supervisor 
+- Keep permanent communication with your supervisor 

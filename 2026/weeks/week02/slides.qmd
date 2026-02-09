@@ -3,8 +3,8 @@ subtitle: " SEMINARIO II"
 title: "<font style='font-size:0.8em;'>🗓️ Week 2<br/>Your paper's outline</font>"
 author: Ivan Lizarazo
 institute: '[Universidad Nacional de Colombia](#)'
-date: 8 April 2025
-date-meta: 8 April 2025
+date: 10 February 2026
+date-meta: 10 February 2026
 date-format: "DD MMM YYYY"
 toc: true
 toc-depth: 1
@@ -27,7 +27,7 @@ format:
 
 ## Write *a single paragraph* on research progress
 
-# Outline of your thesis or paper
+# Outline of your  paper
 
 ## Write *outline* of: (i) conceptual framework; and (ii) methods
 
@@ -47,6 +47,22 @@ https://www.mdpi.com/2076-0760/12/7/413
 -  The principle of evidence: researchers speak of a thing 'only within the limits in which it then presents itself'.
 
 - The principle of ulteriority:  researchers look for the real that remain shadowed or veiled.
+
+# How to check the research question
+
+## The PICO framework
+<p align="center">
+<img src="figs/PICO.png" width=70% height=70%>
+</p>
+
+[Research questions with PICO](https://www.mdpi.com/2304-6775/10/3/21)
+
+## The STAR framework
+<p align="center">
+<img src="figs/STAR.png" width=70% height=70%>
+</p>
+
+[STAR: a transposition of the PICO framework](https://www.researchgate.net/profile/Paul-Celicourt/publication/391033410_STAR_a_transposition_of_the_PICO_framework_to_environmental_sciences_engineering_and_beyond/links/680a7d65bfbe974b23b9ac32/STAR-a-transposition-of-the-PICO-framework-to-environmental-sciences-engineering-and-beyond.pdf?)
 
 # Good examples of thesis & papers
 

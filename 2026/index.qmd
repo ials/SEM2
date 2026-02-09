@@ -7,9 +7,9 @@ format: html
 ::: {.callout-important collapse=false}
 ## 📢 Very important!
 
-(01/02/2026)
+(09/02/2026)
 
-- 🗓️ Bring printed the outline  of your manuscript on 3rd February
+- 🗓️ Bring printed the outline  of your manuscript on 10th February
 
 
 :::
