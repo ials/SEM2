@@ -61,7 +61,7 @@ https://www.mdpi.com/2076-0760/12/7/413
 
 ## The STAR framework
 <p align="center">
-<img src="figs/STAR.png" width=50% height=50%>
+<img src="figs/STAR.png" width=45% height=45%>
 </p>
 
 [STAR: a transposition of the PICO framework](https://www.researchgate.net/profile/Paul-Celicourt/publication/391033410_STAR_a_transposition_of_the_PICO_framework_to_environmental_sciences_engineering_and_beyond/links/680a7d65bfbe974b23b9ac32/STAR-a-transposition-of-the-PICO-framework-to-environmental-sciences-engineering-and-beyond.pdf?)
