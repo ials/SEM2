@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://ials.github.io/SEM2/2026/weeks/week02/slides.html</loc>
+    <lastmod>2026-02-09T13:16:08.315Z</lastmod>
+  </url>
+  <url>
     <loc>https://ials.github.io/SEM2/2026/weeks/week01/slides.html</loc>
-    <lastmod>2026-01-22T22:52:27.516Z</lastmod>
+    <lastmod>2026-02-09T13:16:08.300Z</lastmod>
   </url>
   <url>
     <loc>https://ials.github.io/SEM2/2026/syllabus.html</loc>
-    <lastmod>2026-01-22T22:52:27.503Z</lastmod>
+    <lastmod>2026-02-09T13:16:08.285Z</lastmod>
   </url>
   <url>
     <loc>https://ials.github.io/SEM2/index.html</loc>
-    <lastmod>2026-01-22T22:52:27.648Z</lastmod>
+    <lastmod>2026-02-09T13:16:08.467Z</lastmod>
   </url>
   <url>
     <loc>https://ials.github.io/SEM2/2026/index.html</loc>
-    <lastmod>2026-01-22T22:52:27.501Z</lastmod>
+    <lastmod>2026-02-09T13:16:08.282Z</lastmod>
   </url>
   <url>
     <loc>https://ials.github.io/SEM2/2026/weeks/week01/page.html</loc>
-    <lastmod>2026-01-22T22:52:27.514Z</lastmod>
+    <lastmod>2026-02-09T13:16:08.297Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ials.github.io/SEM2/2026/weeks/week02/page.html</loc>
+    <lastmod>2026-02-09T13:16:08.313Z</lastmod>
   </url>
 </urlset>
