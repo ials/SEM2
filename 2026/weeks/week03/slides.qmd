@@ -3,8 +3,8 @@ subtitle: " SEMINARIO II"
 title: "<font style='font-size:0.8em;'>🗓️ Week 3<br/> How to write </font>"
 author: Ivan Lizarazo
 institute: '[Universidad Nacional de Colombia](#)'
-date: 22 April 2025
-date-meta: 22 April 2025
+date: 16 February 2026
+date-meta: 16 February 2026
 date-format: "DD MMM YYYY"
 toc: true
 toc-depth: 1
@@ -30,6 +30,28 @@ format:
 # Work plan for writing your document
 
 ## Read the work plan approved by your supervisor
+
+# Conceptual framework
+
+## What is it?
+
+
+- The researcher’s understanding of either an existing framework/model or how existing concepts come together to inform a particular problem. 
+
+- Shows the reader how different elements come together to facilitate research and a clear understanding of results.
+
+- Informs the research questions/methodology (problem statement drives framework drives RQs drives methodology)
+
+
+## What does it do?
+
+- Explains the way key concepts/variables will come together to inform the problem/phenomenon
+
+- Gives the study direction/parameters
+
+- Helps the researcher organize ideas and clarify concepts
+
+- Introduces your research and how it will advance your field of practice. 
 
 # How to get your article rejected 
 
