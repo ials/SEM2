@@ -3,8 +3,8 @@ subtitle: " SEMINARIO II"
 title: "<font style='font-size:0.8em;'>🗓️ Week4<br/>Writing</font>"
 author: Ivan Lizarazo
 institute: '[Universidad Nacional de Colombia](#)'
-date: 29 April 2025
-date-meta: 29 April 2025
+date: 23 February 2026
+date-meta: 23 February 2026
 date-format: "DD MMM YYYY"
 toc: true
 toc-depth: 1
@@ -22,10 +22,6 @@ format:
     css: /css/styles_slides.css
     footer: '2020771 -- SEMINARIO II'
 ---
-
-# Revised outline of your papers
-
-Each student summarizes main changes to his/her previous outline (max. 5 minutes)
 
 # Research paper structure
 

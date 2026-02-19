@@ -5,11 +5,22 @@ format: html
 ---
 
 ::: {.callout-important collapse=false}
+## 📢 Primer borrador del artículo
+
+(17/02/2026)
+
+- 🗓️ Submit the first draft of your article by February 24  with your supervisor's signature.
+
+
+:::
+
+
+::: {.callout-important collapse=true}
 ## 📢 Very important!
 
 (09/02/2026)
 
-- 🗓️ Get the approval from you supervisor for the three documents(workplan, paper's outlin,e and Introduction)
+- 🗓️ Get the approval from you supervisor for the three documents(workplan, paper's outline, and Introduction)
 
 
 :::
