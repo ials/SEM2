@@ -3,8 +3,8 @@ subtitle: " SEMINARIO II"
 title: "<font style='font-size:0.8em;'>🗓️ Week 6<br/>Review the methods</font>"
 author: Ivan Lizarazo
 institute: '[Universidad Nacional de Colombia](#)'
-date: 13 May 2025
-date-meta: 13 May 2025
+date: 10 March 2026
+date-meta: 10 March 2026
 date-format: "DD MMM YYYY"
 toc: true
 toc-depth: 1
