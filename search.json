@@ -1,5 +1,166 @@
 [
   {
+    "objectID": "2026/weeks/week06/slides.html#why-methods-matter",
+    "href": "2026/weeks/week06/slides.html#why-methods-matter",
+    "title": "🗓️ Week 6Review the methods",
+    "section": "Why methods matter?",
+    "text": "Why methods matter?\nOnce upon a time the methods section was abbreviated, overly summarized, or even relegated. The movement for increased reproducibility and rigor in science has reinstated the importance of the methods section.\nMethods are now a key element in establishing the credibility of the research, alongside the open availability of data and results."
+  },
+  {
+    "objectID": "2026/weeks/week06/slides.html#step-1",
+    "href": "2026/weeks/week06/slides.html#step-1",
+    "title": "🗓️ Week 6Review the methods",
+    "section": "Step 1",
+    "text": "Step 1"
+  },
+  {
+    "objectID": "2026/weeks/week06/slides.html#step-1-1",
+    "href": "2026/weeks/week06/slides.html#step-1-1",
+    "title": "🗓️ Week 6Review the methods",
+    "section": "Step 1",
+    "text": "Step 1"
+  },
+  {
+    "objectID": "2026/weeks/week06/slides.html#step-2",
+    "href": "2026/weeks/week06/slides.html#step-2",
+    "title": "🗓️ Week 6Review the methods",
+    "section": "Step 2",
+    "text": "Step 2"
+  },
+  {
+    "objectID": "2026/weeks/week06/slides.html#step-3",
+    "href": "2026/weeks/week06/slides.html#step-3",
+    "title": "🗓️ Week 6Review the methods",
+    "section": "Step 3",
+    "text": "Step 3"
+  },
+  {
+    "objectID": "2026/weeks/week06/slides.html#step-4",
+    "href": "2026/weeks/week06/slides.html#step-4",
+    "title": "🗓️ Week 6Review the methods",
+    "section": "Step 4",
+    "text": "Step 4"
+  },
+  {
+    "objectID": "2026/weeks/week06/slides.html#step-5",
+    "href": "2026/weeks/week06/slides.html#step-5",
+    "title": "🗓️ Week 6Review the methods",
+    "section": "Step 5",
+    "text": "Step 5"
+  },
+  {
+    "objectID": "2026/weeks/week06/slides.html#do",
+    "href": "2026/weeks/week06/slides.html#do",
+    "title": "🗓️ Week 6Review the methods",
+    "section": "Do",
+    "text": "Do"
+  },
+  {
+    "objectID": "2026/weeks/week06/slides.html#dont",
+    "href": "2026/weeks/week06/slides.html#dont",
+    "title": "🗓️ Week 6Review the methods",
+    "section": "Don’t",
+    "text": "Don’t"
+  },
+  {
+    "objectID": "2026/weeks/week06/slides.html#the-effects-of-environmental-constraints-on-potato-cultivars",
+    "href": "2026/weeks/week06/slides.html#the-effects-of-environmental-constraints-on-potato-cultivars",
+    "title": "🗓️ Week 6Review the methods",
+    "section": "The effects of environmental constraints on potato cultivars",
+    "text": "The effects of environmental constraints on potato cultivars\nCheck if it ensures understanding, reproducibility and replicability"
+  },
+  {
+    "objectID": "2026/weeks/week06/slides.html#an-agent-based-simulation-of-the-forest-water-people-nexus",
+    "href": "2026/weeks/week06/slides.html#an-agent-based-simulation-of-the-forest-water-people-nexus",
+    "title": "🗓️ Week 6Review the methods",
+    "section": "An Agent-based Simulation of the Forest-Water-People Nexus",
+    "text": "An Agent-based Simulation of the Forest-Water-People Nexus\nCheck if it ensures understanding, reproducibility and replicability"
+  },
+  {
+    "objectID": "2026/weeks/week06/slides.html#lets-practice-revising-your-methods-outline",
+    "href": "2026/weeks/week06/slides.html#lets-practice-revising-your-methods-outline",
+    "title": "🗓️ Week 6Review the methods",
+    "section": "Let’s practice revising your methods outline",
+    "text": "Let’s practice revising your methods outline\n\nPass on your methods outline to your peer for a review\nRevise your outline to follow your peer suggestions"
+  },
+  {
+    "objectID": "2026/weeks/week06/slides.html#suggested-reading",
+    "href": "2026/weeks/week06/slides.html#suggested-reading",
+    "title": "🗓️ Week 6Review the methods",
+    "section": "Suggested reading",
+    "text": "Suggested reading\nMethod Sections for Empirical Research Papers"
+  },
+  {
+    "objectID": "2026/weeks/week06/slides.html#questions",
+    "href": "2026/weeks/week06/slides.html#questions",
+    "title": "🗓️ Week 6Review the methods",
+    "section": "Questions?",
+    "text": "Questions?"
+  },
+  {
+    "objectID": "2026/weeks/week05/slides.html#why-is-the-introduction-important",
+    "href": "2026/weeks/week05/slides.html#why-is-the-introduction-important",
+    "title": "🗓️ Week 5Revise the introduction",
+    "section": "Why is the introduction important?",
+    "text": "Why is the introduction important?\nIf we want our readers to keep reading, we need to prove to them that it’s worth their time.\nThe introduction tells our readers what they can expect from the document. When reviewers read it, they should know what they will find out and be able to picture how the ideas will be developed.\nIf we confuse or bore our readers at the beginning, it might be hard to recover!"
+  },
+  {
+    "objectID": "2026/weeks/week05/slides.html#six-strategies",
+    "href": "2026/weeks/week05/slides.html#six-strategies",
+    "title": "🗓️ Week 5Revise the introduction",
+    "section": "Six strategies",
+    "text": "Six strategies"
+  },
+  {
+    "objectID": "2026/weeks/week05/slides.html#does-it-state-the-overall-topic",
+    "href": "2026/weeks/week05/slides.html#does-it-state-the-overall-topic",
+    "title": "🗓️ Week 5Revise the introduction",
+    "section": "Does it state the overall topic?",
+    "text": "Does it state the overall topic?\nDoes your introduction tell the reader what the thesis or paper will be about?"
+  },
+  {
+    "objectID": "2026/weeks/week05/slides.html#does-it-provide-a-cohesive-thesis-for-the-document",
+    "href": "2026/weeks/week05/slides.html#does-it-provide-a-cohesive-thesis-for-the-document",
+    "title": "🗓️ Week 5Revise the introduction",
+    "section": "Does it provide a cohesive thesis for the document?",
+    "text": "Does it provide a cohesive thesis for the document?\nDoes your introduction states the knowledge’s gap you intends to fill?"
+  },
+  {
+    "objectID": "2026/weeks/week05/slides.html#does-it-map-the-structure-of-the-document",
+    "href": "2026/weeks/week05/slides.html#does-it-map-the-structure-of-the-document",
+    "title": "🗓️ Week 5Revise the introduction",
+    "section": "Does it map the structure of the document?",
+    "text": "Does it map the structure of the document?\nDoes your introduction say how you will develop the thesis?"
+  },
+  {
+    "objectID": "2026/weeks/week05/slides.html#revision-of-a-crop-science-m.sc.-thesis",
+    "href": "2026/weeks/week05/slides.html#revision-of-a-crop-science-m.sc.-thesis",
+    "title": "🗓️ Week 5Revise the introduction",
+    "section": "Revision of a Crop Science M.Sc. Thesis",
+    "text": "Revision of a Crop Science M.Sc. Thesis\nCheck that it clearly provides the topic, thesis and map for the document"
+  },
+  {
+    "objectID": "2026/weeks/week05/slides.html#revision-of-a-geoinformatics-m.sc.-thesis",
+    "href": "2026/weeks/week05/slides.html#revision-of-a-geoinformatics-m.sc.-thesis",
+    "title": "🗓️ Week 5Revise the introduction",
+    "section": "Revision of a Geoinformatics M.Sc. Thesis",
+    "text": "Revision of a Geoinformatics M.Sc. Thesis\nCheck that it clearly provides the topic, thesis and map for the document"
+  },
+  {
+    "objectID": "2026/weeks/week05/slides.html#lets-practice-revising-your-first-draft",
+    "href": "2026/weeks/week05/slides.html#lets-practice-revising-your-first-draft",
+    "title": "🗓️ Week 5Revise the introduction",
+    "section": "Let’s practice revising your first draft",
+    "text": "Let’s practice revising your first draft\n\nPass on your introduction to your peer for a review\nUse the checklist to review"
+  },
+  {
+    "objectID": "2026/weeks/week05/slides.html#questions",
+    "href": "2026/weeks/week05/slides.html#questions",
+    "title": "🗓️ Week 5Revise the introduction",
+    "section": "Questions?",
+    "text": "Questions?"
+  },
+  {
     "objectID": "2026/weeks/week04/slides.html#how-to-write-a-paper-introduction",
     "href": "2026/weeks/week04/slides.html#how-to-write-a-paper-introduction",
     "title": "🗓️ Week4Writing",
@@ -672,6 +833,116 @@
     "crumbs": [
       "🗓️ Weeks",
       "Week 04"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/week05/page.html",
+    "href": "2026/weeks/week05/page.html",
+    "title": "🗓️ Unit 5 - Revision of the Introduction",
+    "section": "",
+    "text": "In this unit, we will learn how to revise an introduction",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 05"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/week05/page.html#lecture-slides",
+    "href": "2026/weeks/week05/page.html#lecture-slides",
+    "title": "🗓️ Unit 5 - Revision of the Introduction",
+    "section": "👨‍🏫 Lecture Slides",
+    "text": "👨‍🏫 Lecture Slides\nEither click on the slide area below or click here to view it in fullscreen. Use your keypad to navigate the slides.\n\n\n\n\n🎥",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 05"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/week05/page.html#coursework",
+    "href": "2026/weeks/week05/page.html#coursework",
+    "title": "🗓️ Unit 5 - Revision of the Introduction",
+    "section": "✍️ Coursework",
+    "text": "✍️ Coursework\n🚧 Make daily progress in writing your document 🚧",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 05"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/week05/page.html#recommended-reading",
+    "href": "2026/weeks/week05/page.html#recommended-reading",
+    "title": "🗓️ Unit 5 - Revision of the Introduction",
+    "section": "📚 Recommended Reading",
+    "text": "📚 Recommended Reading\n🚧 Read the document mentioned in the lecture 🚧",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 05"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/week05/page.html#communication",
+    "href": "2026/weeks/week05/page.html#communication",
+    "title": "🗓️ Unit 5 - Revision of the Introduction",
+    "section": "📟 Communication",
+    "text": "📟 Communication\n\nKeep permanent communication with your thesis supervisor",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 05"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/week06/page.html",
+    "href": "2026/weeks/week06/page.html",
+    "title": "🗓️ Unit 6- How to write your methods",
+    "section": "",
+    "text": "In this unit, we will understand why methods matter.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 06"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/week06/page.html#lecture-slides",
+    "href": "2026/weeks/week06/page.html#lecture-slides",
+    "title": "🗓️ Unit 6- How to write your methods",
+    "section": "👨‍🏫 Lecture Slides",
+    "text": "👨‍🏫 Lecture Slides\nEither click on the slide area below or click here to view it in fullscreen. Use your keypad to navigate the slides.\n\n\n\n\n🎥",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 06"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/week06/page.html#coursework",
+    "href": "2026/weeks/week06/page.html#coursework",
+    "title": "🗓️ Unit 6- How to write your methods",
+    "section": "✍️ Coursework",
+    "text": "✍️ Coursework\n🚧 Peer review of your first draft 🚧\n🚧 Revision of your draft to attend observations 🚧",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 06"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/week06/page.html#recommended-reading",
+    "href": "2026/weeks/week06/page.html#recommended-reading",
+    "title": "🗓️ Unit 6- How to write your methods",
+    "section": "📚 Recommended Reading",
+    "text": "📚 Recommended Reading\n🚧 The writing process 🚧",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 06"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/week06/page.html#communication",
+    "href": "2026/weeks/week06/page.html#communication",
+    "title": "🗓️ Unit 6- How to write your methods",
+    "section": "📟 Communication",
+    "text": "📟 Communication\n\nKeep permanent communication with your thesis supervisor",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 06"
     ]
   }
 ]
