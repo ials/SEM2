@@ -5,7 +5,7 @@ format: html
 ---
 
 ::: {.callout-important collapse=false}
-## 📢 Primer borrador del artículo
+## 📢 Keep working on your article
 
 (02/03/2026)
 
