@@ -7,6 +7,16 @@ format: html
 ::: {.callout-important collapse=false}
 ## 📢 Primer borrador del artículo
 
+(02/03/2026)
+
+- 🗓️ Work on processing and analyzing your experimental data
+
+:::
+
+
+::: {.callout-important collapse=true}
+## 📢 Primer borrador del artículo
+
 (17/02/2026)
 
 - 🗓️ Submit the first draft of your article by February 24  with your supervisor's signature.
