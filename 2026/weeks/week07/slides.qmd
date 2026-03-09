@@ -1,10 +1,10 @@
 ---
 subtitle: " SEMINARIO II"
-title: "<font style='font-size:0.8em;'>🗓️ Week 7<br/>How to write a research report</font>"
+title: "<font style='font-size:0.8em;'>🗓️ Week 7<br/>How to write a research article</font>"
 author: Ivan Lizarazo
 institute: '[Universidad Nacional de Colombia](#)'
-date:  11 Dec 2024
-date-meta: 11 Dec 2024
+date:  10 March 2026
+date-meta: 10 March 2026
 date-format: "DD MMM YYYY"
 toc: true
 toc-depth: 1
@@ -34,11 +34,11 @@ format:
 [Writing a master thesis](https://www.oxbridgeediting.co.uk/blog/a-complete-guide-to-writing-a-masters-thesis/)
 
 
-# Reviewing your first research report draft
+# Reviewing your second research article
 
-- Pass on your draft to *Seminario 2* lecturer
+- Pass on your draft to your supervisor
 
-- Revise your draft following lecturer suggestions
+- Revise your draft following your supervisor's suggestions
 
 ## Suggested reading
 
