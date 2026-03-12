@@ -99,6 +99,14 @@ Check that it includes:
 
 # 
 
+# How to respond to reviewers?
+
+[Ten simple rules](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005730)
+
+[Responding to reviewers](https://ltl.lincoln.ac.nz/assets/Uploads/Learning-and-Research-Skills/Presenting-your-research/Responding-to-reviewers.pdf)
+
+[Hidden Submission Patterns](https://www.science.org/doi/10.1126/science.1227833)
+
 
 ## Questions?
 
