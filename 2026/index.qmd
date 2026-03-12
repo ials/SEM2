@@ -5,6 +5,15 @@ format: html
 ---
 
 ::: {.callout-important collapse=false}
+## 📢 Add the results section to your paper
+
+(12/03/2026)
+
+- 🗓️ Bring printed the second draft to the classroom on 17 March
+
+:::
+
+::: {.callout-important collapse=true}
 ## 📢 Keep working on your article
 
 (02/03/2026)

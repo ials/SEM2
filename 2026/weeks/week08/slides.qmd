@@ -3,8 +3,8 @@ subtitle: " SEMINARIO II"
 title: "<font style='font-size:0.8em;'>🗓️ Week 8<br/> Critical evaluation of a research paper</font>"
 author: Ivan Lizarazo
 institute: '[Universidad Nacional de Colombia](#)'
-date:  27 May 2025
-date-meta: 27 May 2025
+date:  17 March 2026
+date-meta: 17 March 2026
 date-format: "DD MMM YYYY"
 toc: true
 toc-depth: 1
@@ -35,7 +35,7 @@ format:
 
 - Describe how it was done, and explain how the results were analyzed. 
 
-##
+## Methodology Section for Research Papers
 
 [Sample Quantitative Methodology](https://www.sjsu.edu/writingcenter/docs/handouts/Methodology.pdf)
 
@@ -52,14 +52,14 @@ Check that it includes:
 
 ## Introduction 
 
-- Is the framework for the study clear?
+- Is the context for the study clear?
 - Is there a research problem?
 - Is there a synthesis of the state of art?
 - Are research questions clear and meaningful?
 
 ## Literature review
 
-- Is the background theory provided?
+- Is there a focused conceptual framework?
 - Is there a critical synthesis of previous studies?
 - Is there an statement of the approach adopted for the paper?
 
@@ -88,6 +88,17 @@ Check that it includes:
 
 -  Are all references cited in the text included?
 -  Are any pertinent references missing?
+
+# Examples of high-quality papers 
+
+- [Field-Scale Rice Area and Yield Mapping in Sri Lanka](https://www.mdpi.com/2072-4292/17/17/3065)
+
+- [Improved landslide susceptibility assessment](https://www.sciencedirect.com/science/article/pii/S1470160X24014055)
+
+- [Combining GEDI and Sentinel-2 for mapping of crops](https://iopscience.iop.org/article/10.1088/1748-9326/ac358c/pdf)
+
+# 
+
 
 ## Questions?
 
