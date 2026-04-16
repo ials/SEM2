@@ -5,6 +5,17 @@ format: html
 ---
 
 ::: {.callout-important collapse=false}
+## 📢 Your article is due on 5th May
+
+(16/04/2026)
+
+- 🗓️ Work hard on your experiments and manuscript.
+
+- [Presentation day](Sustentacion_2026-04-16.png)
+
+:::
+
+::: {.callout-important collapse=true}
 ## 📢 Add the results section to your paper
 
 (12/03/2026)

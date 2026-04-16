@@ -13,6 +13,8 @@ project:
     - "2026/weeks/week06/*.qmd"
     - "2026/weeks/week07/*.qmd"
     - "2026/weeks/week08/*.qmd"
+    - "2026/weeks/week09/*.qmd"
+    - "2026/weeks/week10/*.qmd"
   
 website:
   title: "SEMINARIO II"
@@ -75,6 +77,17 @@ website:
            contents:
              - href: 2026/weeks/week08/page.qmd
                text: 👨‍🏫 Lecture Material
+         - href: 2026/weeks/week09/page.qmd
+           text: Week 09
+           contents:
+             - href: 2026/weeks/week09/page.qmd
+               text: 👨‍🏫 Lecture Material
+         - href: 2026/weeks/week10/page.qmd
+           text: Week 10
+           contents:
+             - href: 2026/weeks/week10/page.qmd
+               text: 👨‍🏫 Lecture Material
+
 
   navbar:
     background: primary

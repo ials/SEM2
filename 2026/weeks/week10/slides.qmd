@@ -3,8 +3,8 @@ subtitle: " SEMINARIO II"
 title: "<font style='font-size:0.8em;'>🗓️ Week 10 <br/>How to write a  good abstract?</font>"
 author: Ivan Lizarazo
 institute: '[Universidad Nacional de Colombia](#)'
-date:  23 Jan 2025
-date-meta:  23 Jan 2025
+date:  21 April 2026
+date-meta:  21 April 2026
 date-format: "DD MMM YYYY"
 toc: true
 toc-depth: 1
@@ -27,9 +27,11 @@ format:
 
 ## What is an abstract?
 
-An abstract summarizes  a piece of academic writing. 
-The abstract appears in multiple locations. 
-Readers typically use it to decide whether or not to read your paper.
+- An abstract summarizes  a piece of academic writing. 
+
+- The abstract appears in multiple locations. 
+
+- Readers typically use it to decide whether or not to read your paper.
 
 
 ## A good abstract
